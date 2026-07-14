@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "US-Iran conflict escalates; Hormuz blockade & 20% transit toll fuel crude surge, Indian equities extend losses",
+    "instrument": "CRUDE/NIFTY/BANKNIFTY",
+    "timestamp": "2026-07-14T15:17:00+05:30",
+    "gist": "US reinstates Hormuz naval blockade + 20% transit toll on Iran conflict escalation; WTI +2.84% to $80.36, Brent ~$86; Nifty -0.65% to 24,053, Bank Nifty -1.13% to 57,474 as financials/PSU banks lead selloff"
+  },
+  {
+    "headline": "HCL Tech Q1 FY27: PAT +20% YoY but guidance retained, not raised; stock slips",
+    "instrument": "HCLTECH",
+    "timestamp": "2026-07-14T15:17:00+05:30",
+    "gist": "HCL Tech Q1 PAT +20% YoY to Rs 4,624cr, revenue +13.9% YoY to Rs 34,579cr, beats estimates; FY27 constant-currency revenue guidance retained at 1-4%, not raised; stock among top Nifty losers despite beat"
+  },
+  {
+    "headline": "Grasim's Aditya Birla Renewables to acquire Shell's Sprng Energy for ~$1.8bn",
+    "instrument": "GRASIM",
+    "timestamp": "2026-07-14T15:17:00+05:30",
+    "gist": "Aditya Birla Renewables (Grasim subsidiary) signs SPA to buy Shell's Sprng Energy for enterprise value Rs 17,200cr (~$1.8bn), adding ~5GWp renewable portfolio, lifting total to 9.3 GWp"
+  },
+  {
+    "headline": "Hindalco, Bharti Airtel lead Nifty gainers as metals & telecom buck the selloff",
+    "instrument": "HINDALCO/BHARTIARTL",
+    "timestamp": "2026-07-14T15:17:00+05:30",
+    "gist": "Hindalco +2.1% to Rs 987, Bharti Airtel +1.8% to Rs 1,935 lead Nifty gainers as metal and telecom stocks buck the broader US-Iran driven risk-off selloff"
+  },
+  {
+    "headline": "PSU banks drag Bank Nifty -1.13% as financials worst-hit sector",
+    "instrument": "BANKNIFTY",
+    "timestamp": "2026-07-14T15:17:00+05:30",
+    "gist": "PSU banks (Bank of India, Union Bank down 4-5% this week) and broader financials lead Bank Nifty decline of 1.13% to 57,474, sector worst-hit amid geopolitical risk-off"
+  },
+  {
+    "headline": "Fed's Waller hawkish; US CPI due 18:00 IST, Warsh testifies — caps gold bounce",
+    "instrument": "GOLD/SILVER",
+    "timestamp": "2026-07-14T15:17:00+05:30",
+    "gist": "Fed's Waller hawkish commentary, markets pricing elevated-for-longer rates ahead of US CPI print at 18:00 IST and Fed Chair Warsh's first congressional testimony; caps gold's safe-haven bounce despite Hormuz tensions"
+  }
+]
