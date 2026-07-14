@@ -1,0 +1,45 @@
+{
+  "last_run": "2026-07-14T23:15:00+05:30",
+  "items": [
+    {
+      "id": "crude-hormuz-blockade-us-strikes-iran",
+      "summary": "US resumes strikes on Iran, reinstates Hormuz naval blockade + 20% transit toll; Brent nears $85",
+      "instrument": "CRUDE",
+      "bias": "bullish",
+      "source": "Reuters/CNBC",
+      "ts": "2026-07-14T23:15:00+05:30"
+    },
+    {
+      "id": "opec-trims-2026-demand-growth-forecast",
+      "summary": "OPEC trims 2026 global oil demand growth forecast to 800k bpd, citing softer non-OPEC demand",
+      "instrument": "CRUDE",
+      "bias": "bearish",
+      "source": "OPEC MOMR",
+      "ts": "2026-07-14T23:15:00+05:30"
+    },
+    {
+      "id": "natgas-2month-low-freeport-lng-maintenance",
+      "summary": "US natgas slips to 2-month low near $2.89 as Freeport LNG maintenance cuts export demand",
+      "instrument": "NATGAS",
+      "bias": "bearish",
+      "source": "Reuters",
+      "ts": "2026-07-14T23:15:00+05:30"
+    },
+    {
+      "id": "june-us-cpi-cools-fed-hold-odds-metals-jump",
+      "summary": "June US CPI cools to 3.5% YoY, largest MoM drop since 2020; Fed-hold odds rise to 66%, metals jump",
+      "instrument": "GOLD/SLV",
+      "bias": "bullish",
+      "source": "Kitco/CME",
+      "ts": "2026-07-14T23:15:00+05:30"
+    },
+    {
+      "id": "10y-yield-2month-high-oil-inflation-risk",
+      "summary": "10Y Treasury yield holds near 2-month high ~4.62% as oil-driven inflation risk offsets rate-cut hopes",
+      "instrument": "YIELDS",
+      "bias": "neutral",
+      "source": "Reuters",
+      "ts": "2026-07-14T23:15:00+05:30"
+    }
+  ]
+}
