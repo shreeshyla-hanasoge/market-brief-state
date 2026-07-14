@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "key": "hormuz-20pct-toll-iran-blockade-4pmet",
+      "text": "US reinstates Strait of Hormuz blockade, 20% cargo toll effective 4pm ET; IMO says no legal basis for fee",
+      "instrument": "CRUDE",
+      "bias": "bullish",
+      "source": "CNBC/PBS",
+      "sent_at": "2026-07-14T18:04:00+05:30"
+    },
+    {
+      "key": "opec-2026-demand-forecast-cut-780kbpd",
+      "text": "OPEC trims 2026 demand growth forecast to 780k bpd, 3rd straight monthly cut even as Gulf output rebounds",
+      "instrument": "CRUDE",
+      "bias": "bearish",
+      "source": "OilPrice.com",
+      "sent_at": "2026-07-14T18:04:00+05:30"
+    },
+    {
+      "key": "eia-gas-storage-61bcf-vs-49bcf",
+      "text": "EIA: gas storage builds 61 bcf vs 49 bcf expected; inventories now 6.6% above the 5-year average",
+      "instrument": "NATGAS",
+      "bias": "bearish",
+      "source": "EIA/NGI",
+      "sent_at": "2026-07-14T18:04:00+05:30"
+    },
+    {
+      "key": "freeport-lng-feedgas-maintenance-aug",
+      "text": "Freeport LNG cuts feedgas intake for pretreatment/liquefaction maintenance running through late August",
+      "instrument": "NATGAS",
+      "bias": "bearish",
+      "source": "EIA STEO",
+      "sent_at": "2026-07-14T18:04:00+05:30"
+    },
+    {
+      "key": "sept-rate-hike-odds-77pct-cpi-warsh",
+      "text": "Sept rate-hike odds jump to ~77% ahead of CPI and Fed's Warsh testimony; 10Y yield near 2-month high 4.62%",
+      "instrument": "GOLD/SLV",
+      "bias": "bearish",
+      "source": "FXLeaders",
+      "sent_at": "2026-07-14T18:04:00+05:30"
+    }
+  ]
+}
