@@ -1,0 +1,44 @@
+{
+ "items": [
+  {
+   "key": "crude:us-iran-3rd-day-hormuz-toll",
+   "text": "US bombs Iran for 3rd straight day; IRGC hits tankers in Hormuz, Trump adds 20% cargo toll on transiting ships",
+   "instrument": "CRUDE",
+   "bias": "bullish",
+   "source": "CNBC/Al Jazeera",
+   "sent_at": "2026-07-14T19:30:00+05:30"
+  },
+  {
+   "key": "crude:opec-2026-demand-forecast-cut",
+   "text": "OPEC trims 2026 oil demand growth forecast to 800k bpd even as supply-risk premium dominates price action",
+   "instrument": "CRUDE",
+   "bias": "bearish",
+   "source": "Reuters",
+   "sent_at": "2026-07-14T19:30:00+05:30"
+  },
+  {
+   "key": "gold:june-cpi-cooler-dollar-pause",
+   "text": "June CPI cooler than forecast (3.5% YoY headline, 2.6% core); gold jumps 2%+ as dollar rally pauses",
+   "instrument": "GOLD",
+   "bias": "bullish",
+   "source": "CNBC/FXStreet",
+   "sent_at": "2026-07-14T19:30:00+05:30"
+  },
+  {
+   "key": "natgas:2mo-low-mild-weather-freeport-maintenance",
+   "text": "Nat gas near 2-month lows: mild weather outlook, Freeport LNG maintenance cuts feedgas demand, storage above 5y avg",
+   "instrument": "NATGAS",
+   "bias": "bearish",
+   "source": "EIA/Reuters",
+   "sent_at": "2026-07-14T19:30:00+05:30"
+  },
+  {
+   "key": "silver:tracks-gold-cpi-rally",
+   "text": "Silver tracks gold's CPI-driven rally to +3%, extending gains as 10Y yields ease off cycle highs",
+   "instrument": "SILVER",
+   "bias": "bullish",
+   "source": "FXStreet",
+   "sent_at": "2026-07-14T19:30:00+05:30"
+  }
+ ]
+}
