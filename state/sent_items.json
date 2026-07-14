@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "US reinstates Strait of Hormuz naval blockade with 20% cargo toll; Iran strikes US base in Kuwait in retaliation",
+    "instrument": "CRUDE",
+    "timestamp": "2026-07-14T09:38:10Z",
+    "gist": "US resumed the Hormuz blockade effective 4pm ET with a 20% cargo toll after days of US-Iran strikes; Iran retaliated by hitting a US base in Kuwait. WTI/Brent surged 3%+, driving Nifty and Bank Nifty lower on risk-off."
+  },
+  {
+    "headline": "HCL Tech PAT jumps 20% YoY on record deal wins, but stock falls ~3% as FY27 guidance held flat",
+    "instrument": "HCLTECH",
+    "timestamp": "2026-07-14T09:38:10Z",
+    "gist": "HCL Tech reported strong Q1 profit growth (+20% YoY) and record deal wins, but the stock fell ~3% intraday on profit booking since FY27 revenue guidance was retained rather than raised."
+  },
+  {
+    "headline": "India June retail inflation accelerates to 4.38%, highest since Dec 2024, above RBI's comfort zone",
+    "instrument": "MACRO",
+    "timestamp": "2026-07-14T09:38:10Z",
+    "gist": "India's June CPI print came in at 4.38%, up from 3.93% in May and the highest since Dec 2024, driven by food inflation. Adds to rate-hike/inflation worries weighing on rate-sensitive Bank Nifty names."
+  },
+  {
+    "headline": "IndiGo falls ~2.8% as the crude oil spike stokes ATF cost worries for airlines",
+    "instrument": "INDIGO",
+    "timestamp": "2026-07-14T09:38:10Z",
+    "gist": "InterGlobe Aviation (IndiGo) shares declined roughly 2.8% intraday as the sharp rise in crude oil prices raised concerns about higher aviation turbine fuel costs."
+  },
+  {
+    "headline": "Fed's Waller flags near-term hike risk; Sept rate-hike odds jump to ~76% ahead of US CPI print",
+    "instrument": "GOLD/SILVER",
+    "timestamp": "2026-07-14T09:38:10Z",
+    "gist": "Fed Governor Waller said the Fed may need to hike rates in the near term if inflation stays elevated, pushing September rate-hike odds to ~76% per CME FedWatch. Markets awaited the June US CPI print later Tuesday. Gold and silver still traded up on the day on safe-haven demand from the Hormuz crisis."
+  }
+]
