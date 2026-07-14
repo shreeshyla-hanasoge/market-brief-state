@@ -1,0 +1,38 @@
+[
+  {
+    "headline": "US strikes Iran 3rd straight night; Hormuz crisis spikes crude, hits Nifty/Bank Nifty",
+    "instrument": "Nifty/Bank Nifty/Crude",
+    "timestamp": "2026-07-14T14:24:00+05:30",
+    "gist": "US-Iran conflict escalates into a 3rd night, Iran hits tankers/Kuwait; WTI ~$80.55 (+3.1%, 1-month high), Brent ~$85. Nifty -0.67%, Bank Nifty -1.24% as financials/PSU banks lead the selloff; metals and pharma rotate higher."
+  },
+  {
+    "headline": "HCL Tech Q1 beats but FY27 guidance disappoints",
+    "instrument": "HCLTECH",
+    "timestamp": "2026-07-14T14:24:00+05:30",
+    "gist": "PAT +20.3% YoY to Rs 4,624 cr, board declared Rs 12/share dividend, but FY27 revenue guidance retained (not raised) at 1-4%; stock fell ~3% on narrowing growth premium vs TCS/Infosys."
+  },
+  {
+    "headline": "Trump's Hormuz naval blockade + 20% cargo toll takes effect tonight",
+    "instrument": "Crude",
+    "timestamp": "2026-07-14T14:24:00+05:30",
+    "gist": "Naval blockade on Iranian vessels plus a proposed 20% toll on other cargo transiting the Strait of Hormuz takes effect around 1:30am IST (4pm ET); IMO has publicly rejected the toll plan."
+  },
+  {
+    "headline": "Fed's Waller hawkish comments lift Sept rate-hike odds ahead of US CPI",
+    "instrument": "Gold/Silver",
+    "timestamp": "2026-07-14T14:24:00+05:30",
+    "gist": "Gov. Waller said a hot core CPI print would force near-term consideration of a rate hike; CME FedWatch Sept hike odds rose to ~78% from ~57% a week ago. US June CPI due 18:00 IST today is the next binary catalyst for gold/silver."
+  },
+  {
+    "headline": "Grasim's Aditya Birla Renewables to acquire Shell's Sprng Energy",
+    "instrument": "Grasim",
+    "timestamp": "2026-07-14T14:24:00+05:30",
+    "gist": "Deal for enterprise value of ~Rs 17,200 cr (~$1.8bn), a major scale-up of the group's renewables portfolio."
+  },
+  {
+    "headline": "Metals and Pharma outperform as risk-off hits financials/PSU banks",
+    "instrument": "Metals/Pharma/Bank Nifty",
+    "timestamp": "2026-07-14T14:24:00+05:30",
+    "gist": "Hindalco +2.2% led Nifty gainers; PSU Bank index -1.5% to -2.7%, Realty -1.84%, Auto -1.4% as risk-off rotation played out amid the Iran/oil shock."
+  }
+]
