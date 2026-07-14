@@ -1,0 +1,40 @@
+{
+ "brief_sent_at": "2026-07-14T20:54:00+05:30",
+ "items": [
+  {
+   "id": "crude-hormuz-blockade-reimposed",
+   "text": "US Navy reimposes Strait of Hormuz blockade on Iranian vessels after IRGC forces hit two supertankers",
+   "tag": "CRUDE",
+   "bias": "bullish",
+   "sent_at": "2026-07-14T20:54:00+05:30"
+  },
+  {
+   "id": "crude-trump-drops-hormuz-toll",
+   "text": "Oil pares gain as Trump drops 20% Hormuz transit toll; WTI slips off $81.27 high back to high-$78s",
+   "tag": "CRUDE",
+   "bias": "bearish",
+   "sent_at": "2026-07-14T20:54:00+05:30"
+  },
+  {
+   "id": "gold-june-cpi-cooler-than-forecast",
+   "text": "June US CPI cooler than forecast (3.5% YoY, core 2.6%); spot gold jumps to a 2-week high near $4,095",
+   "tag": "GOLD",
+   "bias": "bullish",
+   "sent_at": "2026-07-14T20:54:00+05:30"
+  },
+  {
+   "id": "fed-warsh-congress-testimony-hinge-point",
+   "text": "Fed Chair Warsh tells Congress Fed at a 'hinge point,' avoids signaling near-term rate path",
+   "tag": "GOLD/FED",
+   "bias": "neutral",
+   "sent_at": "2026-07-14T20:54:00+05:30"
+  },
+  {
+   "id": "natgas-eia-storage-build-61bcf",
+   "text": "EIA reports 61 Bcf storage build; surplus to 5-yr average widens to 185 Bcf, NatGas near 2-mo low",
+   "tag": "NATGAS",
+   "bias": "bearish",
+   "sent_at": "2026-07-14T20:54:00+05:30"
+  }
+ ]
+}
