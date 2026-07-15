@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "Nifty, Sensex pare a ~500-pt rally as TCS, Infosys, Tech Mahindra lead IT-sector profit-booking",
+    "instrument": "NIFTY",
+    "timestamp": "2026-07-15T14:19:00+05:30",
+    "gist": "Nifty/Bank Nifty give back a big chunk of the day's gains as IT majors (TCS, Infosys, Tech Mahindra) lead profit-booking; Nifty +0.15% at 24,087, Bank Nifty +0.42% at 57,705, both faded from session highs."
+  },
+  {
+    "headline": "WTI slips off $80.93 intraday high to $79.87 as Hormuz blockade standoff holds without fresh escalation",
+    "instrument": "CRUDE",
+    "timestamp": "2026-07-15T14:19:00+05:30",
+    "gist": "WTI crude eased off the day's $80.93 high to $79.87 (+0.67%) as the US-Iran Hormuz blockade standoff continues without a new escalation; Brent above $85."
+  },
+  {
+    "headline": "Gold retreats to $4,032 (-0.9%) off $4,068 high as oil-driven inflation angle trims Fed rate-cut bets",
+    "instrument": "GOLD",
+    "timestamp": "2026-07-15T14:19:00+05:30",
+    "gist": "Gold fell 0.9% to $4,032, pulling back from a $4,068 intraday high, as the crude rally stoked inflation concerns and reduced Fed rate-cut expectations; silver -0.84% to $58.61 tracking the move."
+  },
+  {
+    "headline": "FIIs net sell Rs740cr, DIIs net buy Rs2,928cr on Jul 14 — steady domestic support cushions index downside",
+    "instrument": "NIFTY",
+    "timestamp": "2026-07-15T14:19:00+05:30",
+    "gist": "FIIs were net sellers of Rs740cr while DIIs net bought Rs2,928cr in the July 14 session, domestic flows cushioning index downside amid FII selling."
+  },
+  {
+    "headline": "EIA reports 61 Bcf storage build, keeping nat gas range-bound near $2.90 despite East Coast heatwave demand",
+    "instrument": "NATGAS",
+    "timestamp": "2026-07-15T14:19:00+05:30",
+    "gist": "US natural gas held range-bound near $2.90 after EIA reported a 61 Bcf storage build for the week, offsetting an East Coast heatwave that had lifted power-burn demand."
+  }
+]
