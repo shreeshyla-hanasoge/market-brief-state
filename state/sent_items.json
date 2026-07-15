@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "US strikes Iran 3rd night; Trump drops Hormuz toll, blames Iran",
+    "instrument": "CRUDE",
+    "timestamp": "2026-07-15T13:19:00+05:30",
+    "gist": "3rd night of US strikes on Iran; Trump dropped the proposed Hormuz shipping toll, says strait open to all except Iran; oil holds near highs."
+  },
+  {
+    "headline": "Nifty, Sensex gap up on Hormuz de-escalation, banks lead",
+    "instrument": "NIFTY",
+    "timestamp": "2026-07-15T13:19:00+05:30",
+    "gist": "Nifty/Sensex gapped up on Hormuz de-escalation with ICICI Bank, HDFC Bank, Axis Bank, SBI, Bharti Airtel leading gains, before paring most of the move."
+  },
+  {
+    "headline": "Infosys, TCS among top Nifty50 laggards today",
+    "instrument": "NIFTY-IT",
+    "timestamp": "2026-07-15T13:19:00+05:30",
+    "gist": "IT majors Infosys and TCS underperformed the broader Nifty50 today."
+  },
+  {
+    "headline": "FIIs net sell Rs 740cr, DIIs net buy Rs 2,928cr on NSE",
+    "instrument": "NIFTY",
+    "timestamp": "2026-07-15T13:19:00+05:30",
+    "gist": "Provisional NSE data: FII net selling ~Rs 740cr, DII net buying ~Rs 2,928cr, cushioning the Nifty dip."
+  },
+  {
+    "headline": "Gold, silver slip as Hormuz de-escalation cuts safe-haven bid",
+    "instrument": "GOLD/SILVER",
+    "timestamp": "2026-07-15T13:19:00+05:30",
+    "gist": "Gold ~$4,026 (-1.1%), silver ~$58.36 (-1.3%) as safe-haven demand eased after Trump dropped the Hormuz toll threat."
+  }
+]
