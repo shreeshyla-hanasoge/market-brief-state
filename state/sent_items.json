@@ -1,0 +1,45 @@
+{
+  "last_run": "2026-07-15T23:04:00+05:30",
+  "items": [
+    {
+      "id": "crude-iran-strikes-5th-day-hormuz-blockade",
+      "text": "US launches 5th straight day of strikes on Iran; Hormuz naval blockade in force, IMO warns transit unsafe",
+      "instrument": "CRUDE",
+      "bias": "bullish",
+      "source": "CNBC/Bloomberg",
+      "sent_at": "2026-07-15T23:04:00+05:30"
+    },
+    {
+      "id": "crude-eia-inventory-distillate-build",
+      "text": "EIA data: crude stocks -1.7M bbl (smaller draw than forecast), distillates unexpectedly build +4.56M bbl",
+      "instrument": "CRUDE",
+      "bias": "bearish",
+      "source": "Barchart/EIA",
+      "sent_at": "2026-07-15T23:04:00+05:30"
+    },
+    {
+      "id": "crude-trump-drops-hormuz-fee",
+      "text": "Trump drops planned 20% fee on Hormuz-transiting cargo, citing future Gulf investment in the US",
+      "instrument": "CRUDE",
+      "bias": "neutral",
+      "source": "CNBC",
+      "sent_at": "2026-07-15T23:04:00+05:30"
+    },
+    {
+      "id": "gold-silver-soft-ppi-dxy-slips",
+      "text": "US June PPI surprises soft (core +0.2%); Fed hike odds trimmed, DXY slips below 101",
+      "instrument": "GOLD/SILVER",
+      "bias": "bullish",
+      "source": "TradingEconomics",
+      "sent_at": "2026-07-15T23:04:00+05:30"
+    },
+    {
+      "id": "natgas-freeport-lng-maintenance-storage-surplus",
+      "text": "Freeport LNG maintenance turnaround (through Aug) curbs feedgas even as storage surplus widens to 185 Bcf",
+      "instrument": "NATGAS",
+      "bias": "bearish",
+      "source": "EIA/NGI",
+      "sent_at": "2026-07-15T23:04:00+05:30"
+    }
+  ]
+}
