@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "headline": "HDFC Bank down ~1% on NIM pressure & chairman-exit fallout ahead of Jul 18 Q1 results",
+  "instrument": "HDFCBANK",
+  "timestamp": "2026-07-15T10:25:00+05:30",
+  "gist": "HDFC Bank (6.6% Nifty weight) trading as a laggard, down ~1%, on NIM pressure from costlier deposit mix and lingering commentary around former chairman Atanu Chakraborty's abrupt exit, ahead of Q1 results due Jul 18."
+ },
+ {
+  "headline": "Axis Bank, Bajaj Finance, Shriram Finance rally >2%, driving Bank Nifty & Fin Services higher pre-earnings",
+  "instrument": "BANKNIFTY",
+  "timestamp": "2026-07-15T10:25:00+05:30",
+  "gist": "Axis Bank, Bajaj Finance and Shriram Finance all up more than 2% intraday, lifting Bank Nifty (+1.03%) and Nifty Financial Services (+1.29%) ahead of Axis Bank's Jul 18 results and on the back of Bajaj Finance's strong Q1 AUM print."
+ },
+ {
+  "headline": "Iran missiles hit tankers in Strait of Hormuz; US reinstates naval blockade on Iran",
+  "instrument": "CRUDE",
+  "timestamp": "2026-07-15T10:25:00+05:30",
+  "gist": "Iran fired missiles at two ADNOC-operated tankers in the Strait of Hormuz; Trump reinstated a naval blockade on Iranian shipping after briefly floating a 20% transit toll. Brent surged near $86 (one-month high); WTI more modest at $79.8 (+0.6%) as much of the move was already priced in from prior sessions."
+ },
+ {
+  "headline": "Freeport LNG maintenance slashes feedgas; Henry Hub at 2-month low despite firm cooling demand",
+  "instrument": "NATGAS",
+  "timestamp": "2026-07-15T10:25:00+05:30",
+  "gist": "Freeport LNG's turnaround maintenance (started Jul 10, two of three trains offline) is cutting feedgas deliveries and trapping supply domestically, pushing Henry Hub to a two-month low (~$2.87-2.92) despite strong cooling demand from the July heatwave."
+ },
+ {
+  "headline": "Gold fades from Tuesday's CPI-rally high as Fed Sept hike odds near 50% on oil-driven inflation fear",
+  "instrument": "GOLD/SILVER",
+  "timestamp": "2026-07-15T10:25:00+05:30",
+  "gist": "Gold rallied to ~$4,098 Tuesday on soft US CPI (3.5% y/y) easing rate-hike fears, but has since faded back toward $4,035 as Iran-driven oil strength revives inflation concern and Fed Sept-hike odds firm near 50%. Silver tracking the same pattern, down to ~$58.7."
+ }
+]
