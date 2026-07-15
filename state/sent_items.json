@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "crude-iran-strikes-5th-day",
+      "text": "US carries out 5th straight day of strikes on Iran; Tehran retaliates at bases in Kuwait, Bahrain, Jordan",
+      "instrument": "CRUDE",
+      "ts": "2026-07-15T17:55:00+05:30"
+    },
+    {
+      "id": "crude-hormuz-block-threat",
+      "text": "Iran threatens to block all regional oil export routes as Hormuz tanker traffic falls ~60% week-on-week",
+      "instrument": "CRUDE",
+      "ts": "2026-07-15T17:55:00+05:30"
+    },
+    {
+      "id": "crude-eia-build-jul3",
+      "text": "EIA reports surprise 3.0mn bbl crude stock build for week of Jul 3, first rise after 10 weeks of draws",
+      "instrument": "CRUDE",
+      "ts": "2026-07-15T17:55:00+05:30"
+    },
+    {
+      "id": "natgas-2mo-low",
+      "text": "Nat gas at 2-month low as mild weather outlook and Freeport LNG maintenance curb export demand",
+      "instrument": "NATGAS",
+      "ts": "2026-07-15T17:55:00+05:30"
+    },
+    {
+      "id": "fed-warsh-cpi-split",
+      "text": "Fed's Warsh reiterates inflation-fighting resolve; markets split on Sept hike odds after soft June CPI",
+      "instrument": "GOLD/SLV",
+      "ts": "2026-07-15T17:55:00+05:30"
+    }
+  ]
+}
