@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "US-Iran clash over Strait of Hormuz escalates for 3rd day; Brent near 1-month high",
+    "instrument": "CRUDE",
+    "timestamp": "2026-07-15T09:16:00+05:30",
+    "gist": "US naval blockade on Iranian shipping via Hormuz; Iran strikes tankers and a Kuwaiti platform; strait traffic down ~60%."
+  },
+  {
+    "headline": "Cooler US CPI revives Fed rate-cut bets; gold holds >1% gain near $4,040",
+    "instrument": "GOLD",
+    "timestamp": "2026-07-15T09:16:00+05:30",
+    "gist": "Core CPI 2.6% YoY, softer DXY; gold supported by rate-cut repricing and Hormuz-driven safe-haven demand, though pulled back below overnight VWAP."
+  },
+  {
+    "headline": "Henry Hub near 2-month low on oversupply and Freeport LNG maintenance",
+    "instrument": "NATGAS",
+    "timestamp": "2026-07-15T09:16:00+05:30",
+    "gist": "Nat gas ~$2.91, rising output, milder demand outlook, Freeport LNG maintenance curbing export flows."
+  },
+  {
+    "headline": "GIFT Nifty points flat-to-negative despite firm US/Asia close; oil risk offsets",
+    "instrument": "NIFTY",
+    "timestamp": "2026-07-15T09:16:00+05:30",
+    "gist": "S&P +0.4%, Nikkei +0.9% overnight but Hormuz oil-import cost risk caps the positive read-through for Nifty open."
+  },
+  {
+    "headline": "FII/DII flows: FIIs net sellers, DIIs net buyers in Tuesday cash session",
+    "instrument": "NIFTY",
+    "timestamp": "2026-07-15T09:16:00+05:30",
+    "gist": "FII net sold Rs 740cr, DII net bought Rs 2,928cr; India VIX moderate at 13.8."
+  }
+]
