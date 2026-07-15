@@ -1,0 +1,32 @@
+[
+ {
+  "headline": "US strikes Iran again, reinstates naval blockade near Strait of Hormuz",
+  "instrument": "CRUDE",
+  "timestamp": "2026-07-15T15:22:00+05:30",
+  "gist": "US hit Iranian coastal/military targets again; naval blockade of Iran's ports reinstated after tanker attacks in the Strait of Hormuz. WTI +0.69%, Brent ~+0.7%, Hormuz tanker transits down ~60%."
+ },
+ {
+  "headline": "Nifty IT pack pressured after weak IBM guidance",
+  "instrument": "NIFTYIT",
+  "timestamp": "2026-07-15T15:22:00+05:30",
+  "gist": "TCS, Infosys, HCL Tech under pressure after weak IBM guidance spooked global tech-services demand overnight."
+ },
+ {
+  "headline": "Gold slips as oil-driven Fed rate-hike repricing offsets soft CPI",
+  "instrument": "GOLD",
+  "timestamp": "2026-07-15T15:22:00+05:30",
+  "gist": "Gold down ~0.93% as oil-led Fed-hike repricing offsets yesterday's soft US CPI print; PPI and Fed's Warsh testimony due later today."
+ },
+ {
+  "headline": "Natural gas near 2-month low on mild weather, storage surplus",
+  "instrument": "NATGAS",
+  "timestamp": "2026-07-15T15:22:00+05:30",
+  "gist": "Nat gas trend soft on mild-weather outlook, comfortable storage surplus, and Freeport LNG maintenance cutting feedgas demand; intraday price still up 0.86% today."
+ },
+ {
+  "headline": "Nifty's intraday gain fades toward flat on IT weakness, crude-driven inflation risk",
+  "instrument": "NIFTY",
+  "timestamp": "2026-07-15T15:22:00+05:30",
+  "gist": "Nifty gapped up on positive global cues, high near 24,220, but gains moderated through the day as IT weakness and crude/Iran risk weighed; closed the window +0.10%."
+ }
+]
