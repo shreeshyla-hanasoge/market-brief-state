@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "US strikes Iran again, reinstates Hormuz blockade; WTI spiked to $80.59, faded to $79.68 below VWAP",
+    "instrument": "CRUDE",
+    "timestamp": "2026-07-15T12:20:00+05:30",
+    "gist": "Fresh US strikes on Iran and reinstated Hormuz naval blockade sent WTI to an overnight/premarket high of $80.59; price has since faded intraday to ~$79.68, slipping below session VWAP."
+  },
+  {
+    "headline": "TCS, Infosys, Tech Mahindra slide on IBM Q2 read-through, IT demand-concern fears; Nifty IT worst sector",
+    "instrument": "NIFTY IT / TCS / INFY / TECHM",
+    "timestamp": "2026-07-15T12:20:00+05:30",
+    "gist": "IT majors fell (TCS -1.8%, Infosys -1.6%, Tech Mahindra ~-1%) after IBM's preliminary Q2 results stoked concerns over enterprise IT spending/demand."
+  },
+  {
+    "headline": "Financials lead index gains — HDFC Bank, ICICI Bank, Axis Bank, Bajaj Finance among top movers",
+    "instrument": "BANKNIFTY",
+    "timestamp": "2026-07-15T12:20:00+05:30",
+    "gist": "Bank Nifty +1.06%, above VWAP, 85% up the day's range, led by private-bank and NBFC heavyweights, offsetting IT-sector drag on Nifty."
+  },
+  {
+    "headline": "Gold, silver slip as elevated crude lifts Fed hike odds, offsetting Tuesday's soft US CPI relief",
+    "instrument": "GOLD/SILVER",
+    "timestamp": "2026-07-15T12:20:00+05:30",
+    "gist": "Gold -0.85% to $4,035, silver -1.04% to $58.49; both below VWAP and in the lower part of today's range as elevated oil prices keep a September Fed hike in play."
+  },
+  {
+    "headline": "India-UK FTA takes effect today, seen boosting textiles, leather and auto-component exporters",
+    "instrument": "INDEX/MACRO",
+    "timestamp": "2026-07-15T12:20:00+05:30",
+    "gist": "India-UK Free Trade Agreement came into force July 15, 2026, expected to benefit labour-intensive export sectors."
+  }
+]
