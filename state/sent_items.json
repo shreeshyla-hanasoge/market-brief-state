@@ -1,0 +1,35 @@
+{
+  "last_brief_ts": "2026-07-15T21:03:00+05:30",
+  "items": [
+    {
+      "ts": "2026-07-15T21:03:00+05:30",
+      "tag": "CRUDE",
+      "text": "EIA: crude stocks fell only 1.7M bbls last week vs -2.6M bbl forecast; inventories 6% below 5-yr avg",
+      "source": "EIA"
+    },
+    {
+      "ts": "2026-07-15T21:03:00+05:30",
+      "tag": "CRUDE",
+      "text": "US launches fresh strikes on Iran targeting power plants; Trump vows to hit 'hard' in coming days",
+      "source": "CNBC"
+    },
+    {
+      "ts": "2026-07-15T21:03:00+05:30",
+      "tag": "GOLD/SLV",
+      "text": "Fed Chair Warsh tells Congress cooler June CPI isn't 'mission accomplished'; won't rule out a hike",
+      "source": "CNBC/Axios"
+    },
+    {
+      "ts": "2026-07-15T21:03:00+05:30",
+      "tag": "SILVER",
+      "text": "Silver can't hold $60 again, down over 2% intraday even as Iran conflict drags on",
+      "source": "Yahoo Finance"
+    },
+    {
+      "ts": "2026-07-15T21:03:00+05:30",
+      "tag": "NATGAS",
+      "text": "US heatwave lifts power-sector gas demand, but storage stays ~6.6% above 5-yr avg, capping upside",
+      "source": "EIA/NatGasIntel"
+    }
+  ]
+}
