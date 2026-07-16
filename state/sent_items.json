@@ -1,0 +1,32 @@
+[
+  {
+    "headline": "US carries out fresh strikes near Strait of Hormuz for 4th straight session; WTI holds near $79",
+    "instrument": "CRUDE",
+    "timestamp": "2026-07-16T11:20:00+05:30",
+    "gist": "US strikes near Hormuz, 4th session; WTI ~$79, bullish crude"
+  },
+  {
+    "headline": "OPEC+ (7 producers) agrees to trim output by 188kbpd from August; next meet Aug 2",
+    "instrument": "CRUDE",
+    "timestamp": "2026-07-16T11:20:00+05:30",
+    "gist": "OPEC+ cuts 188kbpd from August, next meeting Aug 2"
+  },
+  {
+    "headline": "FIIs net sold Rs 736cr, DIIs bought Rs 705cr on Jul 15 as oil-driven inflation risk weighs",
+    "instrument": "NIFTY",
+    "timestamp": "2026-07-16T11:20:00+05:30",
+    "gist": "FII sold 736cr, DII bought 705cr on Jul 15"
+  },
+  {
+    "headline": "IT majors TCS, Infosys, HCLTech, Wipro, TechM lead Nifty gains as sector outperforms",
+    "instrument": "NIFTY IT",
+    "timestamp": "2026-07-16T11:20:00+05:30",
+    "gist": "IT sector (TCS/Infosys/HCLTech/Wipro/TechM) leads Nifty gains"
+  },
+  {
+    "headline": "Fed's Warsh reaffirms price-stability focus; Sept hike odds ~50% keep gold, silver on the back foot",
+    "instrument": "GOLD/SILVER",
+    "timestamp": "2026-07-16T11:20:00+05:30",
+    "gist": "Fed Warsh reaffirms price stability, Sept hike odds ~50%, gold/silver soft"
+  }
+]
