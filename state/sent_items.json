@@ -40,5 +40,23 @@
   "instrument": "HDFC Life",
   "timestamp": "2026-07-16T14:20:00+05:30",
   "gist": "NBP Rs8,143cr (+12% YoY), APE +9% to Rs3,515cr, VNB +9% to Rs879cr, new-business margins fell"
+ },
+ {
+  "headline": "Iran warns Hormuz is a 'red line', vows retaliation; Trump weighs seizing Kharg Island oil hub",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-07-16T18:05:00+05:30",
+  "gist": "WTI $80.43 (+1.04%), Brent ~$84.6; naval standoff near Strait of Hormuz drags into 5th-plus day"
+ },
+ {
+  "headline": "Strong June retail sales revive Fed-hold bets, dollar/yields rebound",
+  "instrument": "GOLD",
+  "timestamp": "2026-07-16T18:05:00+05:30",
+  "gist": "GC=F -0.65% to $4,025.60, sank below VWAP $4,035 as retail-sales beat offset earlier soft-CPI/PPI dovish mood"
+ },
+ {
+  "headline": "Silver tracks gold's dollar-driven pullback",
+  "instrument": "SILVER",
+  "timestamp": "2026-07-16T18:05:00+05:30",
+  "gist": "SI=F -1.41% to $56.63, rejected $57.05-57.35 zone twice after testing $58.23 day high, broke to day low"
  }
 ]
