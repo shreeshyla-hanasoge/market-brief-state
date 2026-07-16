@@ -1,32 +1,44 @@
 [
-  {
-    "headline": "IT stocks power Nifty, Sensex higher; Bank Nifty underperforms as financials drag",
-    "instrument": "NIFTY 50 / SENSEX",
-    "timestamp": "2026-07-16T12:47:00+05:30",
-    "gist": "Nifty +0.22% to 24,132.6, Sensex +0.35% to 77,457 on IT-led gains (HCL Tech, Tech Mahindra); Bank Nifty -0.27%, Axis Bank among laggards"
-  },
-  {
-    "headline": "RBI approves Rajiv Kumar as HDFC Bank part-time Chairman for 3-year term",
-    "instrument": "HDFC Bank",
-    "timestamp": "2026-07-16T12:47:00+05:30",
-    "gist": "RBI approval effective July 15, removes governance overhang for HDFC Bank"
-  },
-  {
-    "headline": "Bank Nifty underperforming broader market, down 0.27%",
-    "instrument": "BANK NIFTY",
-    "timestamp": "2026-07-16T12:47:00+05:30",
-    "gist": "Axis Bank among session's biggest laggards, index trading near day lows below VWAP"
-  },
-  {
-    "headline": "US natural gas slides to 2-month low",
-    "instrument": "NAT GAS",
-    "timestamp": "2026-07-16T12:47:00+05:30",
-    "gist": "NG=F -1.37% to $2.88, pressured by Freeport LNG maintenance trapping supply and cooler weather cutting cooling demand"
-  },
-  {
-    "headline": "Gold retreats from highs on hawkish Fed bets, firm dollar",
-    "instrument": "GOLD",
-    "timestamp": "2026-07-16T12:47:00+05:30",
-    "gist": "GC=F -0.43% to $4,034.40, faded off day high $4,071.90 ahead of Philly Fed index and jobless claims data; silver tracked lower"
-  }
+ {
+  "headline": "IT stocks power Nifty, Sensex higher; Bank Nifty underperforms as financials drag",
+  "instrument": "NIFTY 50 / SENSEX",
+  "timestamp": "2026-07-16T12:47:00+05:30",
+  "gist": "Nifty +0.22% to 24,132.6, Sensex +0.35% to 77,457 on IT-led gains (HCL Tech, Tech Mahindra); Bank Nifty -0.27%, Axis Bank among laggards"
+ },
+ {
+  "headline": "RBI approves Rajiv Kumar as HDFC Bank part-time Chairman for 3-year term",
+  "instrument": "HDFC Bank",
+  "timestamp": "2026-07-16T12:47:00+05:30",
+  "gist": "RBI approval effective July 15, removes governance overhang for HDFC Bank"
+ },
+ {
+  "headline": "Bank Nifty underperforming broader market, down 0.27%",
+  "instrument": "BANK NIFTY",
+  "timestamp": "2026-07-16T12:47:00+05:30",
+  "gist": "Axis Bank among session's biggest laggards, index trading near day lows below VWAP"
+ },
+ {
+  "headline": "US natural gas slides to 2-month low",
+  "instrument": "NAT GAS",
+  "timestamp": "2026-07-16T12:47:00+05:30",
+  "gist": "NG=F -1.37% to $2.88, pressured by Freeport LNG maintenance trapping supply and cooler weather cutting cooling demand"
+ },
+ {
+  "headline": "Gold retreats from highs on hawkish Fed bets, firm dollar",
+  "instrument": "GOLD",
+  "timestamp": "2026-07-16T12:47:00+05:30",
+  "gist": "GC=F -0.43% to $4,034.40, faded off day high $4,071.90 ahead of Philly Fed index and jobless claims data; silver tracked lower"
+ },
+ {
+  "headline": "US strikes pound Iran for 5th day; tanker disabled with Hellfire strike near Kharg Island",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-07-16T14:20:00+05:30",
+  "gist": "WTI $79.47 (-0.16%), Brent ~$84.8; Hormuz shipping near standstill despite prior US-Iran MoU, naval blockade in effect"
+ },
+ {
+  "headline": "HDFC Life Q1: new business premium +12% YoY, VNB +9% but margins slip",
+  "instrument": "HDFC Life",
+  "timestamp": "2026-07-16T14:20:00+05:30",
+  "gist": "NBP Rs8,143cr (+12% YoY), APE +9% to Rs3,515cr, VNB +9% to Rs879cr, new-business margins fell"
+ }
 ]
