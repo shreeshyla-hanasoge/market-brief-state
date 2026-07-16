@@ -40,5 +40,29 @@
   "instrument": "HDFC Life",
   "timestamp": "2026-07-16T14:20:00+05:30",
   "gist": "NBP Rs8,143cr (+12% YoY), APE +9% to Rs3,515cr, VNB +9% to Rs879cr, new-business margins fell"
+ },
+ {
+  "headline": "Iran's IRGC threatens to shut all regional oil/gas export routes",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-07-16T20:55:00+05:30",
+  "gist": "IRGC warns oil/gas routes closed for everyone if US blockade continues; only 13 ships transited Hormuz Wed; WTI $79.48 (-0.15%), Brent ~$85"
+ },
+ {
+  "headline": "Gold, silver slide to session lows on hot Philly Fed, jobless claims",
+  "instrument": "GOLD",
+  "timestamp": "2026-07-16T20:55:00+05:30",
+  "gist": "Philly Fed mfg surged to 41.4 (est. 13.0), claims fell; gold fell from $4,071.9 high to ~$3,999 low, now $4,011 (-1.01%); silver $56.57 (-1.50%)"
+ },
+ {
+  "headline": "NatGas extends slide to fresh 2-month low",
+  "instrument": "NAT GAS",
+  "timestamp": "2026-07-16T20:55:00+05:30",
+  "gist": "NG=F -2.87% to $2.84; Freeport LNG maintenance (through late Aug) traps supply, forecasts turn cooler through Jul 23"
+ },
+ {
+  "headline": "Fed Chair Warsh's Senate testimony trims Sept rate-cut odds",
+  "instrument": "FED / USD",
+  "timestamp": "2026-07-16T20:55:00+05:30",
+  "gist": "Warsh reaffirmed inflation focus without signaling rate path; markets cut Sept cut odds to ~44% from ~50%, DXY firm near 101"
  }
 ]

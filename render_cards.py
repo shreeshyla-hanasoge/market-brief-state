@@ -267,8 +267,10 @@ def chart_card(chart, data, path):
             panel(ax, asp, sx, sy, cw, sh, fc=CARD2)
             ax.text(sx + cw / 2, sy + sh * 0.70, s["label"], fontsize=8,
                     fontweight="bold", color=MUTED, ha="center", va="center")
-            ax.text(sx + cw / 2, sy + sh * 0.30, s["value"][:14],
-                    fontsize=10.5, fontweight="bold", color=TEXT,
+            val = s["value"][:18]
+            vfs = 10.5 if len(val) <= 12 else 10.5 - 0.35 * (len(val) - 12)
+            ax.text(sx + cw / 2, sy + sh * 0.30, val,
+                    fontsize=max(vfs, 7.5), fontweight="bold", color=TEXT,
                     ha="center", va="center")
 
     # ---- chart panel
@@ -300,12 +302,25 @@ def chart_card(chart, data, path):
         cax.text(0.5, (z["lo"] + z["hi"]) / 2,
                  f" {z['label'].upper()} ", fontsize=7, fontweight="bold",
                  color=zc, va="center", zorder=2)
+    # nudge label y-positions apart when values sit close together (keeps
+    # the dotted line at the true value; only the text is displaced)
+    label_gap = (hi - lo) * 0.10 or 1
+    reserved = [last + label_gap * 0.5]
     for lv in levels:
+        ly = lv["value"]
+        for _ in range(20):
+            clash = next((r for r in reserved if abs(ly - r) < label_gap),
+                         None)
+            if clash is None:
+                break
+            ly = clash + label_gap if ly >= clash else clash - label_gap
+        reserved.append(ly)
+
         lc = LVL_COLOR[lv["kind"].lower()]
         cax.axhline(lv["value"], color=lc, lw=1.1, ls=":", alpha=0.95,
                     zorder=2)
         cax.annotate(f"{lv['label']}  {lv['value']:g}",
-                     xy=(len(xs) - 1, lv["value"]),
+                     xy=(len(xs) - 1, ly),
                      xytext=(4, 0), textcoords="offset points",
                      fontsize=7, fontweight="bold", color=lc,
                      va="center", ha="left", annotation_clip=False)
