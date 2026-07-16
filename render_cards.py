@@ -274,7 +274,7 @@ def chart_card(chart, data, path):
     # ---- chart panel
     py, ph = 0.185, 0.545
     panel(ax, asp, ML, py, MR - ML, ph)
-    cax = fig.add_axes([0.125, py + 0.060, 0.735, ph - 0.105])
+    cax = fig.add_axes([0.125, py + 0.060, 0.68, ph - 0.105])
     cax.set_facecolor(CARD)
 
     prices, vwap = chart["prices"], chart["vwap"]
@@ -306,8 +306,8 @@ def chart_card(chart, data, path):
                     zorder=2)
         cax.annotate(f"{lv['label']}  {lv['value']:g}",
                      xy=(len(xs) - 1, lv["value"]),
-                     xytext=(6, 0), textcoords="offset points",
-                     fontsize=7.5, fontweight="bold", color=lc,
+                     xytext=(4, 0), textcoords="offset points",
+                     fontsize=7, fontweight="bold", color=lc,
                      va="center", ha="left", annotation_clip=False)
 
     cax.plot(xs, prices, color=line_c, lw=2.2, zorder=4, label="Price")
