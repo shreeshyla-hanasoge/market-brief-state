@@ -64,5 +64,35 @@
   "instrument": "SILVER",
   "timestamp": "2026-07-16T23:08:00+05:30",
   "gist": "SI=F $56.17 (-2.21%), cautious risk mood amid ongoing Iran conflict"
+ },
+ {
+  "headline": "Wipro Q1: revenue +10.6% YoY to Rs24,479cr, net profit flat at Rs3,356cr",
+  "instrument": "Wipro",
+  "timestamp": "2026-07-17T09:23:00+05:30",
+  "gist": "Revenue +10.6% YoY to Rs24,478.6cr, PAT +0.6% YoY / -1.5% QoQ to Rs3,356.3cr; interim dividend Rs2/share; Q2 IT services guidance $2,574-2,627mn"
+ },
+ {
+  "headline": "Tech Mahindra Q1: PAT jumps 28% YoY to Rs1,465cr, 3rd straight $1bn+ deal-win quarter",
+  "instrument": "Tech Mahindra",
+  "timestamp": "2026-07-17T09:23:00+05:30",
+  "gist": "PAT +28.4% YoY to Rs1,465cr, revenue +17.7% YoY to Rs15,712cr, EBIT margin 14.4% (+330bps YoY); deal wins >$1bn for 3rd consecutive quarter"
+ },
+ {
+  "headline": "Reliance board meets today to approve Q1 results",
+  "instrument": "Reliance Industries",
+  "timestamp": "2026-07-17T09:23:00+05:30",
+  "gist": "Board meeting + analyst call scheduled July 17; Street expects ~20% QoQ jump in consolidated profit to ~Rs20,451cr on strong O2C/refining margins"
+ },
+ {
+  "headline": "Wall St falls on chip-stock selloff; Asia mixed, GIFT Nifty signals muted open",
+  "instrument": "NIFTY 50 / GLOBAL",
+  "timestamp": "2026-07-17T09:23:00+05:30",
+  "gist": "S&P -0.51% to 7,533.77, Nasdaq -1.47% to 25,881.95 on chip-stock weakness (TSMC capex outlook, Alphabet); Nikkei -2.6%, Hang Seng +2.1%; GIFT Nifty ~flat/cautious pre-open"
+ },
+ {
+  "headline": "WTI holds near one-month highs as US-Iran clashes pass a week",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-07-17T09:23:00+05:30",
+  "gist": "WTI $78.98 (+0.89% intraday), Brent ~$85; naval blockade near Strait of Hormuz persists though EIA says oil flows (8.5M bbl Sunday) continue"
  }
 ]
