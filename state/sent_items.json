@@ -1,29 +1,5 @@
 [
  {
-  "headline": "UPDATE: Oil reverses lower as US-Iran strikes reach 6th day, traders lock in gains",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-07-16T23:08:00+05:30",
-  "gist": "WTI $78.45 (-0.85%), off this week's 1-month high near $80.87; profit-taking despite continued Hormuz strikes and Iran retaliation on US Gulf bases"
- },
- {
-  "headline": "UPDATE: Nat gas hits fresh 2-month low as EIA reports 43 Bcf storage build",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-07-16T23:08:00+05:30",
-  "gist": "NG=F $2.846 (-2.67%); storage surplus widens to 181 Bcf above 5-yr avg, Freeport LNG maintenance outage still trapping domestic supply"
- },
- {
-  "headline": "UPDATE: Gold slides toward $4,000 handle on oil-driven inflation angst",
-  "instrument": "GOLD",
-  "timestamp": "2026-07-16T23:08:00+05:30",
-  "gist": "GC=F $3,991.30 (-1.49%); firmer June retail sales and Hormuz-driven oil spike curb Fed rate-cut bets, dollar holds firm"
- },
- {
-  "headline": "Silver can't hold $57, tracks gold weakness",
-  "instrument": "SILVER",
-  "timestamp": "2026-07-16T23:08:00+05:30",
-  "gist": "SI=F $56.17 (-2.21%), cautious risk mood amid ongoing Iran conflict"
- },
- {
   "headline": "Wipro Q1: revenue +10.6% YoY to Rs24,479cr, net profit flat at Rs3,356cr",
   "instrument": "Wipro",
   "timestamp": "2026-07-17T09:23:00+05:30",
@@ -124,5 +100,17 @@
   "instrument": "SILVER",
   "timestamp": "2026-07-17T21:06:00+05:30",
   "gist": "SI=F $56.10 (-0.16%), off intraday lows near $55.10, tracking gold's Mideast-driven recovery after an 8-month low and >7% weekly slide"
+ },
+ {
+  "headline": "UPDATE: Tanker hit by projectile off Oman coast, Kuwait power/desal plant struck as Gulf strikes reach 6th night",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-07-17T23:10:00+05:30",
+  "gist": "WTI $81.56 (+4.19%) testing day highs $81.58, Brent ~$86.7; UKMTO reports tanker hit off Oman, Kuwait desal/power plant struck by Iran, US completes 6th night of strikes"
+ },
+ {
+  "headline": "UPDATE: Nat gas extends bounce off 2-month low as hot-weather forecasts lift power-burn demand",
+  "instrument": "NAT GAS",
+  "timestamp": "2026-07-17T23:10:00+05:30",
+  "gist": "NG=F $2.914 (+1.96%), off 2-month low as hot-weather-driven power-burn demand outlook offsets storage surplus and Freeport LNG maintenance outage"
  }
 ]
