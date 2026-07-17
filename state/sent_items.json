@@ -94,5 +94,17 @@
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-07-17T09:23:00+05:30",
   "gist": "WTI $78.98 (+0.89% intraday), Brent ~$85; naval blockade near Strait of Hormuz persists though EIA says oil flows (8.5M bbl Sunday) continue"
+ },
+ {
+  "headline": "HSBC upgrades India to 'Neutral', raises Sensex target to 84,000 from 80,500",
+  "instrument": "NIFTY 50 / SENSEX",
+  "timestamp": "2026-07-17T10:26:00+05:30",
+  "gist": "Cites easing crude-price risk and returning FII flows (~$1.6bn in July); Nifty +0.81% to 24,266.9, Bank Nifty +0.83%, Sensex +0.73%, led by financials (ICICI Bank, HDFC Bank)"
+ },
+ {
+  "headline": "Jio Financial Services Q1: PAT jumps 156% YoY to Rs830cr, revenue surges on lending/payments",
+  "instrument": "Jio Financial Services",
+  "timestamp": "2026-07-17T10:26:00+05:30",
+  "gist": "Consolidated PAT +156% YoY to Rs830cr vs Rs325cr; revenue from ops +227% YoY to Rs2,004cr; Jio Credit AUM up 2.6x YoY to Rs30,667cr"
  }
 ]
