@@ -100,5 +100,29 @@
   "instrument": "NIFTY 50 / BREADTH",
   "timestamp": "2026-07-17T15:18:00+05:30",
   "gist": "Nifty +1.05% to 24,326.2, Sensex +1.21% to 78,124.5, Bank Nifty +1.56% to 58,479.1; Nifty IT +1.6%, Pvt Bank +1.4% lead; Midcap100 -0.73%, Smallcap100 -0.83% lag"
+ },
+ {
+  "headline": "UPDATE: US Navy strikes Iranian-linked tanker near Kharg Island export terminal, boards non-compliant ships",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-07-17T21:06:00+05:30",
+  "gist": "WTI $80.32 (+2.61%) testing $81 highs, Brent ~$86; CENTCOM strikes tanker deep in Persian Gulf near Kharg Island after it defied blockade, boards non-compliant vessels"
+ },
+ {
+  "headline": "UPDATE: Gold reclaims $4,000 as Mideast escalation revives safe-haven bids over Fed hawkishness",
+  "instrument": "GOLD",
+  "timestamp": "2026-07-17T21:06:00+05:30",
+  "gist": "GC=F $4,012.30 (+0.51%), back above $4,000 on tanker-strike escalation even as Fed Sept rate-hike odds climb toward 50-60% on oil-driven inflation fears"
+ },
+ {
+  "headline": "Fed Sept rate-hike odds climb to 50-60% as Iran oil spike stokes inflation fears",
+  "instrument": "GOLD/SILVER",
+  "timestamp": "2026-07-17T21:06:00+05:30",
+  "gist": "Markets price ~50-60% chance of a September Fed hike (vs prior framing of merely curbed rate-cut bets) as Chair Warsh holds hawkish line amid Hormuz-driven oil surge"
+ },
+ {
+  "headline": "Silver holds near $56, tracking gold's bounce after touching 8-month lows earlier this week",
+  "instrument": "SILVER",
+  "timestamp": "2026-07-17T21:06:00+05:30",
+  "gist": "SI=F $56.10 (-0.16%), off intraday lows near $55.10, tracking gold's Mideast-driven recovery after an 8-month low and >7% weekly slide"
  }
 ]
