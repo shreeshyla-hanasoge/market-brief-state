@@ -1,17 +1,5 @@
 [
  {
-  "headline": "US strikes pound Iran for 5th day; tanker disabled with Hellfire strike near Kharg Island",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-07-16T14:20:00+05:30",
-  "gist": "WTI $79.47 (-0.16%), Brent ~$84.8; Hormuz shipping near standstill despite prior US-Iran MoU, naval blockade in effect"
- },
- {
-  "headline": "HDFC Life Q1: new business premium +12% YoY, VNB +9% but margins slip",
-  "instrument": "HDFC Life",
-  "timestamp": "2026-07-16T14:20:00+05:30",
-  "gist": "NBP Rs8,143cr (+12% YoY), APE +9% to Rs3,515cr, VNB +9% to Rs879cr, new-business margins fell"
- },
- {
   "headline": "UPDATE: Oil reverses lower as US-Iran strikes reach 6th day, traders lock in gains",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-07-16T23:08:00+05:30",
@@ -88,5 +76,29 @@
   "instrument": "NIFTY 50 / FII-DII",
   "timestamp": "2026-07-17T14:20:00+05:30",
   "gist": "FII sentiment improving into July after prior selling; DIIs continue absorbing supply"
+ },
+ {
+  "headline": "Federal Bank Q1: net profit +36.6% YoY to Rs1,177cr, GNPA improves to 1.52% from 1.91%",
+  "instrument": "Federal Bank",
+  "timestamp": "2026-07-17T15:18:00+05:30",
+  "gist": "PAT Rs1,177cr (+36.58% YoY); GNPA 1.52% (was 1.91%), NNPA 0.18% (was 0.48%); stock +6% post-results, lifts Bank Nifty"
+ },
+ {
+  "headline": "UPDATE: Oil eyes best week since April as WTI, Brent extend gains on 6th night of US-Iran strikes",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-07-17T15:18:00+05:30",
+  "gist": "WTI $79.80 (+1.94%), Brent ~$85.01 (+0.9%); both up >11% this week, best week since late April; US CENTCOM completes 6th night of strikes on Iran"
+ },
+ {
+  "headline": "FPIs net sold Rs4,205.6cr Thursday even as Nifty rallies; DIIs bought Rs2,986.4cr",
+  "instrument": "NIFTY 50 / FII-DII",
+  "timestamp": "2026-07-17T15:18:00+05:30",
+  "gist": "Provisional NSE data for July 16: FPI net selling Rs4,205.56cr, DII net buying Rs2,986.41cr, cushioning the rally"
+ },
+ {
+  "headline": "Nifty rally narrow: IT and Private Bank lead while Midcap/Smallcap underperform",
+  "instrument": "NIFTY 50 / BREADTH",
+  "timestamp": "2026-07-17T15:18:00+05:30",
+  "gist": "Nifty +1.05% to 24,326.2, Sensex +1.21% to 78,124.5, Bank Nifty +1.56% to 58,479.1; Nifty IT +1.6%, Pvt Bank +1.4% lead; Midcap100 -0.73%, Smallcap100 -0.83% lag"
  }
 ]
