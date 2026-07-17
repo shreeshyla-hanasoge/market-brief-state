@@ -1,35 +1,5 @@
 [
  {
-  "headline": "IT stocks power Nifty, Sensex higher; Bank Nifty underperforms as financials drag",
-  "instrument": "NIFTY 50 / SENSEX",
-  "timestamp": "2026-07-16T12:47:00+05:30",
-  "gist": "Nifty +0.22% to 24,132.6, Sensex +0.35% to 77,457 on IT-led gains (HCL Tech, Tech Mahindra); Bank Nifty -0.27%, Axis Bank among laggards"
- },
- {
-  "headline": "RBI approves Rajiv Kumar as HDFC Bank part-time Chairman for 3-year term",
-  "instrument": "HDFC Bank",
-  "timestamp": "2026-07-16T12:47:00+05:30",
-  "gist": "RBI approval effective July 15, removes governance overhang for HDFC Bank"
- },
- {
-  "headline": "Bank Nifty underperforming broader market, down 0.27%",
-  "instrument": "BANK NIFTY",
-  "timestamp": "2026-07-16T12:47:00+05:30",
-  "gist": "Axis Bank among session's biggest laggards, index trading near day lows below VWAP"
- },
- {
-  "headline": "US natural gas slides to 2-month low",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-07-16T12:47:00+05:30",
-  "gist": "NG=F -1.37% to $2.88, pressured by Freeport LNG maintenance trapping supply and cooler weather cutting cooling demand"
- },
- {
-  "headline": "Gold retreats from highs on hawkish Fed bets, firm dollar",
-  "instrument": "GOLD",
-  "timestamp": "2026-07-16T12:47:00+05:30",
-  "gist": "GC=F -0.43% to $4,034.40, faded off day high $4,071.90 ahead of Philly Fed index and jobless claims data; silver tracked lower"
- },
- {
   "headline": "US strikes pound Iran for 5th day; tanker disabled with Hellfire strike near Kharg Island",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-07-16T14:20:00+05:30",
@@ -106,5 +76,17 @@
   "instrument": "Jio Financial Services",
   "timestamp": "2026-07-17T10:26:00+05:30",
   "gist": "Consolidated PAT +156% YoY to Rs830cr vs Rs325cr; revenue from ops +227% YoY to Rs2,004cr; Jio Credit AUM up 2.6x YoY to Rs30,667cr"
+ },
+ {
+  "headline": "UPDATE: Nifty, Bank Nifty extend rally on bank buying ahead of Saturday's Q1 results",
+  "instrument": "NIFTY 50 / BANK NIFTY",
+  "timestamp": "2026-07-17T14:20:00+05:30",
+  "gist": "Nifty 24,352.6 (+1.16%), Bank Nifty 58,476.5 (+1.55%), Sensex 77,871.6 (+0.89%); HDFC Bank, ICICI Bank lead gains ahead of Saturday's Q1 results; Nifty IT top sectoral gainer on Tech Mahindra follow-through"
+ },
+ {
+  "headline": "FIIs turn incrementally positive as India draws relative interest amid global chip-stock weakness",
+  "instrument": "NIFTY 50 / FII-DII",
+  "timestamp": "2026-07-17T14:20:00+05:30",
+  "gist": "FII sentiment improving into July after prior selling; DIIs continue absorbing supply"
  }
 ]
