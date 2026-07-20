@@ -1,116 +1,38 @@
 [
  {
-  "headline": "Wipro Q1: revenue +10.6% YoY to Rs24,479cr, net profit flat at Rs3,356cr",
-  "instrument": "Wipro",
-  "timestamp": "2026-07-17T09:23:00+05:30",
-  "gist": "Revenue +10.6% YoY to Rs24,478.6cr, PAT +0.6% YoY / -1.5% QoQ to Rs3,356.3cr; interim dividend Rs2/share; Q2 IT services guidance $2,574-2,627mn"
+  "headline": "Iran ceasefire collapses over weekend; Brent tops $90, Iraq exports hit too",
+  "instrument": "CRUDE (WTI) / GEOPOLITICS",
+  "timestamp": "2026-07-20T09:23:00+05:30",
+  "gist": "WTI $83.57 (+2.19%), Brent >$90 (session high $90.79); US-Iran conflict widened over the weekend to Jordan, Qatar, Kuwait, Oman; drone strike shut Iraq's Basra export terminal; Strait of Hormuz transit collapsed to 4-6 ships/day from ~20; war-risk insurance 3-10% of vessel value"
  },
  {
-  "headline": "Tech Mahindra Q1: PAT jumps 28% YoY to Rs1,465cr, 3rd straight $1bn+ deal-win quarter",
-  "instrument": "Tech Mahindra",
-  "timestamp": "2026-07-17T09:23:00+05:30",
-  "gist": "PAT +28.4% YoY to Rs1,465cr, revenue +17.7% YoY to Rs15,712cr, EBIT margin 14.4% (+330bps YoY); deal wins >$1bn for 3rd consecutive quarter"
- },
- {
-  "headline": "Reliance board meets today to approve Q1 results",
+  "headline": "Reliance Q1 FY27 beats: record EBITDA Rs54,067cr, PAT ~Rs23,196cr",
   "instrument": "Reliance Industries",
-  "timestamp": "2026-07-17T09:23:00+05:30",
-  "gist": "Board meeting + analyst call scheduled July 17; Street expects ~20% QoQ jump in consolidated profit to ~Rs20,451cr on strong O2C/refining margins"
+  "timestamp": "2026-07-20T09:23:00+05:30",
+  "gist": "Revenue +24.5-25% YoY, record EBITDA Rs54,067cr, net profit ~Rs23,196cr, beat Street estimates; O2C +30% YoY, Jio revenue +11.8% YoY (533mn subs), Retail +12%; brokerages (JPMorgan, Jefferies, Citi, CLSA) raise FY27-29 estimates 6-8%"
  },
  {
-  "headline": "Wall St falls on chip-stock selloff; Asia mixed, GIFT Nifty signals muted open",
+  "headline": "ICICI Bank, Kotak Mahindra Bank beat Q1; HDFC Bank light miss on NII",
+  "instrument": "BANK NIFTY / PVT BANKS",
+  "timestamp": "2026-07-20T09:23:00+05:30",
+  "gist": "ICICI Bank PAT +15.9% YoY to Rs14,804.5cr (beat), NPAs improved; Kotak Mahindra PAT +25.6% YoY to Rs4,122.96cr (beat); Axis Bank PAT +22.5% YoY to Rs7,114cr but NIM at cycle low 3.46%; HDFC Bank PAT +5% YoY to Rs19,059.7cr, NII +6.7% (below estimates), slippages rose"
+ },
+ {
+  "headline": "Wall St chip selloff drags Asia lower; Nikkei -4%, Kospi -4.5% Monday",
   "instrument": "NIFTY 50 / GLOBAL",
-  "timestamp": "2026-07-17T09:23:00+05:30",
-  "gist": "S&P -0.51% to 7,533.77, Nasdaq -1.47% to 25,881.95 on chip-stock weakness (TSMC capex outlook, Alphabet); Nikkei -2.6%, Hang Seng +2.1%; GIFT Nifty ~flat/cautious pre-open"
+  "timestamp": "2026-07-20T09:23:00+05:30",
+  "gist": "Fri Jul 17 US close: S&P -1.0% to 7,475.69, Nasdaq -1.4% to 25,520.24, Dow -0.8% on AI/chip-stock selloff (hyperscaler capex concerns); Nikkei -4.03% Fri (chip names Kioxia -16%, Tokyo Electron -8%), Kospi -4.5% Monday into bear-market territory; GIFT Nifty near-flat/slightly weak"
  },
  {
-  "headline": "WTI holds near one-month highs as US-Iran clashes pass a week",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-07-17T09:23:00+05:30",
-  "gist": "WTI $78.98 (+0.89% intraday), Brent ~$85; naval blockade near Strait of Hormuz persists though EIA says oil flows (8.5M bbl Sunday) continue"
- },
- {
-  "headline": "HSBC upgrades India to 'Neutral', raises Sensex target to 84,000 from 80,500",
-  "instrument": "NIFTY 50 / SENSEX",
-  "timestamp": "2026-07-17T10:26:00+05:30",
-  "gist": "Cites easing crude-price risk and returning FII flows (~$1.6bn in July); Nifty +0.81% to 24,266.9, Bank Nifty +0.83%, Sensex +0.73%, led by financials (ICICI Bank, HDFC Bank)"
- },
- {
-  "headline": "Jio Financial Services Q1: PAT jumps 156% YoY to Rs830cr, revenue surges on lending/payments",
-  "instrument": "Jio Financial Services",
-  "timestamp": "2026-07-17T10:26:00+05:30",
-  "gist": "Consolidated PAT +156% YoY to Rs830cr vs Rs325cr; revenue from ops +227% YoY to Rs2,004cr; Jio Credit AUM up 2.6x YoY to Rs30,667cr"
- },
- {
-  "headline": "UPDATE: Nifty, Bank Nifty extend rally on bank buying ahead of Saturday's Q1 results",
-  "instrument": "NIFTY 50 / BANK NIFTY",
-  "timestamp": "2026-07-17T14:20:00+05:30",
-  "gist": "Nifty 24,352.6 (+1.16%), Bank Nifty 58,476.5 (+1.55%), Sensex 77,871.6 (+0.89%); HDFC Bank, ICICI Bank lead gains ahead of Saturday's Q1 results; Nifty IT top sectoral gainer on Tech Mahindra follow-through"
- },
- {
-  "headline": "FIIs turn incrementally positive as India draws relative interest amid global chip-stock weakness",
-  "instrument": "NIFTY 50 / FII-DII",
-  "timestamp": "2026-07-17T14:20:00+05:30",
-  "gist": "FII sentiment improving into July after prior selling; DIIs continue absorbing supply"
- },
- {
-  "headline": "Federal Bank Q1: net profit +36.6% YoY to Rs1,177cr, GNPA improves to 1.52% from 1.91%",
-  "instrument": "Federal Bank",
-  "timestamp": "2026-07-17T15:18:00+05:30",
-  "gist": "PAT Rs1,177cr (+36.58% YoY); GNPA 1.52% (was 1.91%), NNPA 0.18% (was 0.48%); stock +6% post-results, lifts Bank Nifty"
- },
- {
-  "headline": "UPDATE: Oil eyes best week since April as WTI, Brent extend gains on 6th night of US-Iran strikes",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-07-17T15:18:00+05:30",
-  "gist": "WTI $79.80 (+1.94%), Brent ~$85.01 (+0.9%); both up >11% this week, best week since late April; US CENTCOM completes 6th night of strikes on Iran"
- },
- {
-  "headline": "FPIs net sold Rs4,205.6cr Thursday even as Nifty rallies; DIIs bought Rs2,986.4cr",
-  "instrument": "NIFTY 50 / FII-DII",
-  "timestamp": "2026-07-17T15:18:00+05:30",
-  "gist": "Provisional NSE data for July 16: FPI net selling Rs4,205.56cr, DII net buying Rs2,986.41cr, cushioning the rally"
- },
- {
-  "headline": "Nifty rally narrow: IT and Private Bank lead while Midcap/Smallcap underperform",
-  "instrument": "NIFTY 50 / BREADTH",
-  "timestamp": "2026-07-17T15:18:00+05:30",
-  "gist": "Nifty +1.05% to 24,326.2, Sensex +1.21% to 78,124.5, Bank Nifty +1.56% to 58,479.1; Nifty IT +1.6%, Pvt Bank +1.4% lead; Midcap100 -0.73%, Smallcap100 -0.83% lag"
- },
- {
-  "headline": "UPDATE: US Navy strikes Iranian-linked tanker near Kharg Island export terminal, boards non-compliant ships",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-07-17T21:06:00+05:30",
-  "gist": "WTI $80.32 (+2.61%) testing $81 highs, Brent ~$86; CENTCOM strikes tanker deep in Persian Gulf near Kharg Island after it defied blockade, boards non-compliant vessels"
- },
- {
-  "headline": "UPDATE: Gold reclaims $4,000 as Mideast escalation revives safe-haven bids over Fed hawkishness",
-  "instrument": "GOLD",
-  "timestamp": "2026-07-17T21:06:00+05:30",
-  "gist": "GC=F $4,012.30 (+0.51%), back above $4,000 on tanker-strike escalation even as Fed Sept rate-hike odds climb toward 50-60% on oil-driven inflation fears"
- },
- {
-  "headline": "Fed Sept rate-hike odds climb to 50-60% as Iran oil spike stokes inflation fears",
+  "headline": "Gold, silver firm as Mideast conflict widens; Fed-hawkish USD caps upside",
   "instrument": "GOLD/SILVER",
-  "timestamp": "2026-07-17T21:06:00+05:30",
-  "gist": "Markets price ~50-60% chance of a September Fed hike (vs prior framing of merely curbed rate-cut bets) as Chair Warsh holds hawkish line amid Hormuz-driven oil surge"
+  "timestamp": "2026-07-20T09:23:00+05:30",
+  "gist": "GC=F $4,031.4 (+0.31%), broke through $4,006-4,013 supply zone, testing range highs; SI=F $57.46 (+2.01%); early Asian dip on Fed Sept rate-hike odds (~59%) reversed as Iran conflict widened to Iraq/Jordan/Kuwait, reviving safe-haven bid; DXY firm near 100.8-100.9"
  },
  {
-  "headline": "Silver holds near $56, tracking gold's bounce after touching 8-month lows earlier this week",
-  "instrument": "SILVER",
-  "timestamp": "2026-07-17T21:06:00+05:30",
-  "gist": "SI=F $56.10 (-0.16%), off intraday lows near $55.10, tracking gold's Mideast-driven recovery after an 8-month low and >7% weekly slide"
- },
- {
-  "headline": "UPDATE: Tanker hit by projectile off Oman coast, Kuwait power/desal plant struck as Gulf strikes reach 6th night",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-07-17T23:10:00+05:30",
-  "gist": "WTI $81.56 (+4.19%) testing day highs $81.58, Brent ~$86.7; UKMTO reports tanker hit off Oman, Kuwait desal/power plant struck by Iran, US completes 6th night of strikes"
- },
- {
-  "headline": "UPDATE: Nat gas extends bounce off 2-month low as hot-weather forecasts lift power-burn demand",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-07-17T23:10:00+05:30",
-  "gist": "NG=F $2.914 (+1.96%), off 2-month low as hot-weather-driven power-burn demand outlook offsets storage surplus and Freeport LNG maintenance outage"
+  "headline": "Nifty 50, Bank Nifty open lower on risk-off despite domestic earnings beats",
+  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
+  "timestamp": "2026-07-20T09:23:00+05:30",
+  "gist": "Nifty 24,194.5 (-0.57%), Bank Nifty 57,795.7 (-1.24%), Sensex ~77,702.9 (-0.57%, tracking Nifty); risk-off open driven by oil spike + global chip-selloff carryover outweighing strong Reliance/ICICI/Kotak Q1 beats; India VIX +2.1% to 13.15; FII net sold Rs376.4cr, DII net bought Rs1,017.9cr on Jul 17"
  }
 ]
