@@ -34,5 +34,23 @@
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
   "timestamp": "2026-07-20T09:23:00+05:30",
   "gist": "Nifty 24,194.5 (-0.57%), Bank Nifty 57,795.7 (-1.24%), Sensex ~77,702.9 (-0.57%, tracking Nifty); risk-off open driven by oil spike + global chip-selloff carryover outweighing strong Reliance/ICICI/Kotak Q1 beats; India VIX +2.1% to 13.15; FII net sold Rs376.4cr, DII net bought Rs1,017.9cr on Jul 17"
+ },
+ {
+  "headline": "UPDATE: Iran conflict enters 9th strike night; Brent tops $90, 3rd US serviceman killed",
+  "instrument": "CRUDE (WTI) / GEOPOLITICS",
+  "timestamp": "2026-07-20T11:26:00+05:30",
+  "gist": "9th consecutive night of US strikes on Iran per CENTCOM; 3rd US service member reported killed; WTI $83.74 (+2.40%) broke above 83.69-83.75 supply to a fresh day high ($83.80), Brent still >$90; oil-driven inflation fear now offsetting the usual safe-haven bid in gold"
+ },
+ {
+  "headline": "UPDATE: Private bank selloff deepens on Q1 NIM compression",
+  "instrument": "BANK NIFTY / PVT BANKS",
+  "timestamp": "2026-07-20T11:26:00+05:30",
+  "gist": "Bank Nifty -1.42% to 57,692.9 (widened from -1.24% at open); HDFC Bank, Axis Bank, Kotak Mahindra down as much as 5% intraday extending the Q1 NIM-compression reaction; index held above 57,577-57,623 demand zone, rejected twice near 57,770-57,796"
+ },
+ {
+  "headline": "UPDATE: Gold fades from breakout, defends $4,000",
+  "instrument": "GOLD/SILVER",
+  "timestamp": "2026-07-20T11:26:00+05:30",
+  "gist": "GC=F $4,013.30 (-0.14%), pulled back below VWAP after testing the $4,031 range high; oil-driven inflation fear (yields up) now offsetting the Iran-conflict safe-haven bid, per FXStreet's 'tug-of-war' framing; SI=F $56.79 (+0.82%), also pulling back off session high $57.33"
  }
 ]
