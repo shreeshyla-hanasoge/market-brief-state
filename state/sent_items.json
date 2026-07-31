@@ -1,56 +1,32 @@
 [
  {
-  "headline": "Iran ceasefire collapses over weekend; Brent tops $90, Iraq exports hit too",
+  "headline": "Drone strikes hit CPC Black Sea terminal overnight; oil loadings suspended, 3rd time in a month",
   "instrument": "CRUDE (WTI) / GEOPOLITICS",
-  "timestamp": "2026-07-20T09:23:00+05:30",
-  "gist": "WTI $83.57 (+2.19%), Brent >$90 (session high $90.79); US-Iran conflict widened over the weekend to Jordan, Qatar, Kuwait, Oman; drone strike shut Iraq's Basra export terminal; Strait of Hormuz transit collapsed to 4-6 ships/day from ~20; war-risk insurance 3-10% of vessel value"
+  "timestamp": "2026-07-31T21:06:00+05:30",
+  "gist": "2 tankers hit near CPC's Novorossiysk terminal; Kazakh export flow halted; WTI $85.68 (+2.50%), broke above 85.50-85.90 supply toward day high $86.45"
  },
  {
-  "headline": "Reliance Q1 FY27 beats: record EBITDA Rs54,067cr, PAT ~Rs23,196cr",
-  "instrument": "Reliance Industries",
-  "timestamp": "2026-07-20T09:23:00+05:30",
-  "gist": "Revenue +24.5-25% YoY, record EBITDA Rs54,067cr, net profit ~Rs23,196cr, beat Street estimates; O2C +30% YoY, Jio revenue +11.8% YoY (533mn subs), Retail +12%; brokerages (JPMorgan, Jefferies, Citi, CLSA) raise FY27-29 estimates 6-8%"
+  "headline": "Trump shortens Russia ceasefire deadline; OPEC+ set to approve +188k b/d for August",
+  "instrument": "CRUDE (WTI) / OPEC+",
+  "timestamp": "2026-07-31T21:06:00+05:30",
+  "gist": "Sanctions-waiver risk on Russian oil rising as Trump shortens deadline; OPEC+ (7 members) expected to approve a further 188,000 b/d output hike at its Aug 2 meeting"
  },
  {
-  "headline": "ICICI Bank, Kotak Mahindra Bank beat Q1; HDFC Bank light miss on NII",
-  "instrument": "BANK NIFTY / PVT BANKS",
-  "timestamp": "2026-07-20T09:23:00+05:30",
-  "gist": "ICICI Bank PAT +15.9% YoY to Rs14,804.5cr (beat), NPAs improved; Kotak Mahindra PAT +25.6% YoY to Rs4,122.96cr (beat); Axis Bank PAT +22.5% YoY to Rs7,114cr but NIM at cycle low 3.46%; HDFC Bank PAT +5% YoY to Rs19,059.7cr, NII +6.7% (below estimates), slippages rose"
+  "headline": "Fed holds rates at 3.50-3.75% under new Chair Warsh; 3 dissents for a hike",
+  "instrument": "GOLD/SILVER / FED",
+  "timestamp": "2026-07-31T21:06:00+05:30",
+  "gist": "Fed held steady 9-3 on July 29; Chair Kevin Warsh gave no forward guidance; DXY firmed to ~100.19, 10Y yield 4.67%, 30Y near 19-yr high 5.24% - pressuring gold/silver into the weekend"
  },
  {
-  "headline": "Wall St chip selloff drags Asia lower; Nikkei -4%, Kospi -4.5% Monday",
-  "instrument": "NIFTY 50 / GLOBAL",
-  "timestamp": "2026-07-20T09:23:00+05:30",
-  "gist": "Fri Jul 17 US close: S&P -1.0% to 7,475.69, Nasdaq -1.4% to 25,520.24, Dow -0.8% on AI/chip-stock selloff (hyperscaler capex concerns); Nikkei -4.03% Fri (chip names Kioxia -16%, Tokyo Electron -8%), Kospi -4.5% Monday into bear-market territory; GIFT Nifty near-flat/slightly weak"
+  "headline": "EIA nat-gas storage builds smaller-than-expected +28 bcf",
+  "instrument": "NATURAL GAS",
+  "timestamp": "2026-07-31T21:06:00+05:30",
+  "gist": "Week ended Jul 24: +28 bcf vs +37 bcf expected (above 5-yr avg +26 bcf); supportive, but cooler weather forecasts across central/eastern US capped upside; NG=F $2.723 (-1.27%)"
  },
  {
-  "headline": "Gold, silver firm as Mideast conflict widens; Fed-hawkish USD caps upside",
+  "headline": "Gold/silver pull back from highs but on track for first monthly gain in 5 months",
   "instrument": "GOLD/SILVER",
-  "timestamp": "2026-07-20T09:23:00+05:30",
-  "gist": "GC=F $4,031.4 (+0.31%), broke through $4,006-4,013 supply zone, testing range highs; SI=F $57.46 (+2.01%); early Asian dip on Fed Sept rate-hike odds (~59%) reversed as Iran conflict widened to Iraq/Jordan/Kuwait, reviving safe-haven bid; DXY firm near 100.8-100.9"
- },
- {
-  "headline": "Nifty 50, Bank Nifty open lower on risk-off despite domestic earnings beats",
-  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
-  "timestamp": "2026-07-20T09:23:00+05:30",
-  "gist": "Nifty 24,194.5 (-0.57%), Bank Nifty 57,795.7 (-1.24%), Sensex ~77,702.9 (-0.57%, tracking Nifty); risk-off open driven by oil spike + global chip-selloff carryover outweighing strong Reliance/ICICI/Kotak Q1 beats; India VIX +2.1% to 13.15; FII net sold Rs376.4cr, DII net bought Rs1,017.9cr on Jul 17"
- },
- {
-  "headline": "UPDATE: Iran conflict enters 9th strike night; Brent tops $90, 3rd US serviceman killed",
-  "instrument": "CRUDE (WTI) / GEOPOLITICS",
-  "timestamp": "2026-07-20T11:26:00+05:30",
-  "gist": "9th consecutive night of US strikes on Iran per CENTCOM; 3rd US service member reported killed; WTI $83.74 (+2.40%) broke above 83.69-83.75 supply to a fresh day high ($83.80), Brent still >$90; oil-driven inflation fear now offsetting the usual safe-haven bid in gold"
- },
- {
-  "headline": "UPDATE: Private bank selloff deepens on Q1 NIM compression",
-  "instrument": "BANK NIFTY / PVT BANKS",
-  "timestamp": "2026-07-20T11:26:00+05:30",
-  "gist": "Bank Nifty -1.42% to 57,692.9 (widened from -1.24% at open); HDFC Bank, Axis Bank, Kotak Mahindra down as much as 5% intraday extending the Q1 NIM-compression reaction; index held above 57,577-57,623 demand zone, rejected twice near 57,770-57,796"
- },
- {
-  "headline": "UPDATE: Gold fades from breakout, defends $4,000",
-  "instrument": "GOLD/SILVER",
-  "timestamp": "2026-07-20T11:26:00+05:30",
-  "gist": "GC=F $4,013.30 (-0.14%), pulled back below VWAP after testing the $4,031 range high; oil-driven inflation fear (yields up) now offsetting the Iran-conflict safe-haven bid, per FXStreet's 'tug-of-war' framing; SI=F $56.79 (+0.82%), also pulling back off session high $57.33"
+  "timestamp": "2026-07-31T21:06:00+05:30",
+  "gist": "GC=F $4,099.80 (-1.46%), below VWAP $4,104.45, capped under 4,134-4,143 supply, defended $4,081 demand twice; SI=F $57.695 (-2.24%); firm DXY/yields the main drag despite month-end safe-haven bid"
  }
 ]
