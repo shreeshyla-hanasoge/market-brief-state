@@ -6,10 +6,10 @@
   "gist": "Trump halted planned weekend strikes on Iran after an outline deal including reopening the Strait of Hormuz; Iran disputes the account. Combined with OPEC+'s Aug 2 decision to add 188k b/d for Sept, WTI gapped down ~5.5% to $80.02 (day range $79.56-81.30), below VWAP $80.44, capped under 80.55-80.75 supply."
  },
  {
-  "headline": "FIIs end 4-month selling streak, net buy \u20b920,200cr in July; Q1 beats led by Reliance, ICICI, Bajaj Finance",
+  "headline": "FIIs end 4-month selling streak, net buy ₹20,200cr in July; Q1 beats led by Reliance, ICICI, Bajaj Finance",
   "instrument": "NIFTY 50 / FII-DII FLOWS",
   "timestamp": "2026-08-03T09:22:00+05:30",
-  "gist": "FIIs turned net buyers in July (~\u20b920,200cr) after 4 months of selling; Friday cash-segment prints showed FII +\u20b9277.5cr, DII +\u20b92,260.4cr. ~38-39 Nifty50 firms have reported Q1 FY27 earnings so far, 7.5-11% YoY growth vs ~5.7-7% estimates, beats led by Reliance, JSW Steel, ICICI Bank, Bajaj Finance, Axis Bank."
+  "gist": "FIIs turned net buyers in July (~₹20,200cr) after 4 months of selling; Friday cash-segment prints showed FII +₹277.5cr, DII +₹2,260.4cr. ~38-39 Nifty50 firms have reported Q1 FY27 earnings so far, 7.5-11% YoY growth vs ~5.7-7% estimates, beats led by Reliance, JSW Steel, ICICI Bank, Bajaj Finance, Axis Bank."
  },
  {
   "headline": "MOFSL upgrades ICICI Bank, downgrades Infosys in latest Nifty FY27 earnings-preferred picks note",
@@ -27,12 +27,24 @@
   "headline": "EIA storage builds +28 bcf, above 5-yr avg; record output and cooler weather cap nat-gas upside",
   "instrument": "NATURAL GAS",
   "timestamp": "2026-08-03T09:22:00+05:30",
-  "gist": "Week ended Jul 24: +28 bcf, working gas ~185 bcf above 5-yr avg. Lower-48 output at record 110.6 bcfd, LNG feedgas dipped to 17.2 bcfd on Freeport maintenance, cooler weather forecasts across central/eastern US. NG=F $2.756 (+0.33%), day range $2.718-2.775, near VWAP $2.76 \u2014 bearish fundamentals despite the small overnight uptick."
+  "gist": "Week ended Jul 24: +28 bcf, working gas ~185 bcf above 5-yr avg. Lower-48 output at record 110.6 bcfd, LNG feedgas dipped to 17.2 bcfd on Freeport maintenance, cooler weather forecasts across central/eastern US. NG=F $2.756 (+0.33%), day range $2.718-2.775, near VWAP $2.76 — bearish fundamentals despite the small overnight uptick."
  },
  {
   "headline": "UPDATE: Sensex +780pts to 78,750, Nifty tops 24,590 as crude-relief rally extends on Iran de-escalation",
   "instrument": "NIFTY 50 / SENSEX",
   "timestamp": "2026-08-03T11:16:00+05:30",
   "gist": "Follow-through on the Trump-Iran/OPEC+ crude story: Nifty 24,592.25 (+0.86%, day range 24,515-24,602), Sensex 78,752.35 (+0.84%, range 78,497-78,895), Bank Nifty 57,833.25 (+0.99%). All three above VWAP, upper half of range. WTI 79.49 (-6.12%), still below VWAP 79.60. Gold 4,112.50 (+0.13%) and Silver 58.13 (+0.60%) both faded off session highs, now below VWAP."
+ },
+ {
+  "headline": "UPDATE: WTI extends slide to fresh session low $78.43 (-6.1%) as Iran-Hormuz de-escalation, OPEC+ Sept hike deepen demand-concern selling",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-03T21:08:00+05:30",
+  "gist": "WTI printed a new session low of $78.43 (day range $78.43-81.30), below VWAP $79.76, extending the morning Iran/OPEC+ driven selloff as soft China demand data added pressure. Last $79.55."
+ },
+ {
+  "headline": "US ISM manufacturing PMI beats at 55.6% (est. 54.0%), best since 2022; factory jobs expand for first time in ~3 yrs",
+  "instrument": "GOLD/SILVER / USD",
+  "timestamp": "2026-08-03T21:08:00+05:30",
+  "gist": "Stronger-than-expected July ISM manufacturing print firmed the dollar and pulled gold/silver off session highs. Gold $4,092.60 (-0.35%, range $4,074.00-4,145.50), Silver $57.59 (-0.35%, range $56.71-58.88), both below VWAP."
  }
 ]
