@@ -1,32 +1,32 @@
 [
  {
-  "headline": "Drone strikes hit CPC Black Sea terminal overnight; oil loadings suspended, 3rd time in a month",
+  "headline": "Trump calls off Iran strikes, cites Hormuz-reopening deal; OPEC+ adds 188k b/d for September",
   "instrument": "CRUDE (WTI) / GEOPOLITICS",
-  "timestamp": "2026-07-31T21:06:00+05:30",
-  "gist": "2 tankers hit near CPC's Novorossiysk terminal; Kazakh export flow halted; WTI $85.68 (+2.50%), broke above 85.50-85.90 supply toward day high $86.45"
+  "timestamp": "2026-08-03T09:22:00+05:30",
+  "gist": "Trump halted planned weekend strikes on Iran after an outline deal including reopening the Strait of Hormuz; Iran disputes the account. Combined with OPEC+'s Aug 2 decision to add 188k b/d for Sept, WTI gapped down ~5.5% to $80.02 (day range $79.56-81.30), below VWAP $80.44, capped under 80.55-80.75 supply."
  },
  {
-  "headline": "Trump shortens Russia ceasefire deadline; OPEC+ set to approve +188k b/d for August",
-  "instrument": "CRUDE (WTI) / OPEC+",
-  "timestamp": "2026-07-31T21:06:00+05:30",
-  "gist": "Sanctions-waiver risk on Russian oil rising as Trump shortens deadline; OPEC+ (7 members) expected to approve a further 188,000 b/d output hike at its Aug 2 meeting"
+  "headline": "FIIs end 4-month selling streak, net buy \u20b920,200cr in July; Q1 beats led by Reliance, ICICI, Bajaj Finance",
+  "instrument": "NIFTY 50 / FII-DII FLOWS",
+  "timestamp": "2026-08-03T09:22:00+05:30",
+  "gist": "FIIs turned net buyers in July (~\u20b920,200cr) after 4 months of selling; Friday cash-segment prints showed FII +\u20b9277.5cr, DII +\u20b92,260.4cr. ~38-39 Nifty50 firms have reported Q1 FY27 earnings so far, 7.5-11% YoY growth vs ~5.7-7% estimates, beats led by Reliance, JSW Steel, ICICI Bank, Bajaj Finance, Axis Bank."
  },
  {
-  "headline": "Fed holds rates at 3.50-3.75% under new Chair Warsh; 3 dissents for a hike",
+  "headline": "MOFSL upgrades ICICI Bank, downgrades Infosys in latest Nifty FY27 earnings-preferred picks note",
+  "instrument": "ICICI BANK / INFOSYS",
+  "timestamp": "2026-08-03T09:22:00+05:30",
+  "gist": "Motilal Oswal named ICICI Bank among top Nifty picks alongside SBI, Bharti Airtel, M&M, Titan; downgraded Infosys, offsetting the upgrade in Nifty FY27 EPS math. RBI MPC meets Aug 3-5 (decision Wed), consensus expects hold at 5.25%."
+ },
+ {
+  "headline": "Fed held rates 3.50-3.75% with 3 hawkish dissents; USD firm, yet gold/silver bounce off Friday's slide",
   "instrument": "GOLD/SILVER / FED",
-  "timestamp": "2026-07-31T21:06:00+05:30",
-  "gist": "Fed held steady 9-3 on July 29; Chair Kevin Warsh gave no forward guidance; DXY firmed to ~100.19, 10Y yield 4.67%, 30Y near 19-yr high 5.24% - pressuring gold/silver into the weekend"
+  "timestamp": "2026-08-03T09:22:00+05:30",
+  "gist": "Fed held Jul 29 with 3 dissents favoring a hike under new Chair Warsh; USD firm pressured metals into Friday's close (GC prior close $4,107, SI $57.79). Monday's Asia session shows both bouncing: GC=F $4,118.3 (+0.28%), day range $4,102.7-4,135.8; SI=F $58.39 (+1.05%), outperforming gold, day range $58.02-58.69."
  },
  {
-  "headline": "EIA nat-gas storage builds smaller-than-expected +28 bcf",
+  "headline": "EIA storage builds +28 bcf, above 5-yr avg; record output and cooler weather cap nat-gas upside",
   "instrument": "NATURAL GAS",
-  "timestamp": "2026-07-31T21:06:00+05:30",
-  "gist": "Week ended Jul 24: +28 bcf vs +37 bcf expected (above 5-yr avg +26 bcf); supportive, but cooler weather forecasts across central/eastern US capped upside; NG=F $2.723 (-1.27%)"
- },
- {
-  "headline": "Gold/silver pull back from highs but on track for first monthly gain in 5 months",
-  "instrument": "GOLD/SILVER",
-  "timestamp": "2026-07-31T21:06:00+05:30",
-  "gist": "GC=F $4,099.80 (-1.46%), below VWAP $4,104.45, capped under 4,134-4,143 supply, defended $4,081 demand twice; SI=F $57.695 (-2.24%); firm DXY/yields the main drag despite month-end safe-haven bid"
+  "timestamp": "2026-08-03T09:22:00+05:30",
+  "gist": "Week ended Jul 24: +28 bcf, working gas ~185 bcf above 5-yr avg. Lower-48 output at record 110.6 bcfd, LNG feedgas dipped to 17.2 bcfd on Freeport maintenance, cooler weather forecasts across central/eastern US. NG=F $2.756 (+0.33%), day range $2.718-2.775, near VWAP $2.76 \u2014 bearish fundamentals despite the small overnight uptick."
  }
 ]
