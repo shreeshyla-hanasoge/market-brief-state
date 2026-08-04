@@ -136,5 +136,17 @@
   "instrument": "NAT GAS",
   "timestamp": "2026-08-04T18:09:00+05:30",
   "gist": "Nat gas $2.702 (-2.84%), below VWAP $2.729, near the session low $2.697, extending its slide as updated forecasts call for cooler temperatures across the central/eastern US, cutting expected air-conditioning demand; production remains near record highs."
+ },
+ {
+  "headline": "UPDATE: WTI breaks below Monday's $76.58 low to fresh session low $75.77 (-4.80%) as Trump's Iran strike stand-down and OPEC+'s confirmed Sept output hike deepen the Hormuz de-escalation selloff",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-04T21:02:00+05:30",
+  "gist": "WTI $76.48 (-4.80%), fresh session low $75.77, below VWAP $78.39, breaking the $76.58 low flagged at 18:09 IST. Trump signaled confidence Hormuz will reopen soon while Iran denied direct US talks (Oman-mediated corridor talks continue); OPEC+ confirmed a +188kbd Sept hike completing the second of three cut-restoration packages. Supply zone 76.85-77.06 capping the bounce; demand held 75.77-76.25."
+ },
+ {
+  "headline": "UPDATE: Silver hits a fresh session high $60.24, sharply outpacing gold's +1.06% gain as the dollar softens",
+  "instrument": "SILVER / GOLD",
+  "timestamp": "2026-08-04T21:02:00+05:30",
+  "gist": "Silver $59.64 (+3.08%), fresh session high $60.24 (topping the $59.77 high flagged at 18:09), above VWAP $59.59; demand 58.78-58.90 held, supply 60.01-60.24 capping. Gold $4,133.80 (+1.06%), above VWAP $4,128.48, upper half of range. Nat gas $2.664 (-4.21%), below VWAP $2.693, near session low on cooler-weather/ample-storage theme already flagged \u2014 no fresh driver."
  }
 ]
