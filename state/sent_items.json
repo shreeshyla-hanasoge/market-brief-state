@@ -15,7 +15,7 @@
   "headline": "UPDATE: WTI rebounds off $78.43 low to $80.07 as Iran's repeated denial of US talks revives supply-risk doubts",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-03T22:53:00+05:30",
-  "gist": "Crude clawed back from the session low of $78.43 to $80.07 (-5.43%) as Iran's Foreign Ministry again denied any US talks were scheduled (only Oman-mediated Hormuz-routing discussions), reviving supply-risk doubts even as OPEC+'s Sept output hike still weighs. Above VWAP $79.51, day range $78.43-81.30; buyers defended 78.8-79.0 twice. Gold $4,090.40 (-0.40%), Silver $57.87 (+0.14%), Nat gas $2.76 (+0.47%) — all little changed since the 21:08 IST brief."
+  "gist": "Crude clawed back from the session low of $78.43 to $80.07 (-5.43%) as Iran's Foreign Ministry again denied any US talks were scheduled (only Oman-mediated Hormuz-routing discussions), reviving supply-risk doubts even as OPEC+'s Sept output hike still weighs. Above VWAP $79.51, day range $78.43-81.30; buyers defended 78.8-79.0 twice. Gold $4,090.40 (-0.40%), Silver $57.87 (+0.14%), Nat gas $2.76 (+0.47%) \u2014 all little changed since the 21:08 IST brief."
  },
  {
   "headline": "Nifty, Bank Nifty open lower despite record Wall Street highs; RBI verdict due Wed",
@@ -33,7 +33,7 @@
   "headline": "UPDATE: WTI extends bounce further to $81.03 as Iran-talks-denial supply-risk story continues; gold/silver firm ahead of US jobs data",
   "instrument": "CRUDE (WTI) / GOLD / SILVER",
   "timestamp": "2026-08-04T09:24:00+05:30",
-  "gist": "WTI $81.03 (+0.86% vs prev close $80.34), day range $79.62-81.28, above VWAP $80.49, upper half of range — continuing the overnight recovery off Monday's Iran/OPEC+ selloff low; demand defended 79.85-80.20, supply capping 81.05-81.28. Gold $4,112.00 (+0.53%), Silver $58.90 (+1.80%, outperforming gold, near session high) — both above VWAP as a softer dollar builds into today's US NFP/JOLTS releases. Nat gas flat/soft at $2.76 (-0.61%), below VWAP, no fresh driver."
+  "gist": "WTI $81.03 (+0.86% vs prev close $80.34), day range $79.62-81.28, above VWAP $80.49, upper half of range \u2014 continuing the overnight recovery off Monday's Iran/OPEC+ selloff low; demand defended 79.85-80.20, supply capping 81.05-81.28. Gold $4,112.00 (+0.53%), Silver $58.90 (+1.80%, outperforming gold, near session high) \u2014 both above VWAP as a softer dollar builds into today's US NFP/JOLTS releases. Nat gas flat/soft at $2.76 (-0.61%), below VWAP, no fresh driver."
  },
  {
   "headline": "Bharti Airtel, ONGC headline ~135 companies reporting Q1 FY27 results today",
@@ -51,12 +51,36 @@
   "headline": "Sensex holds up far better than Nifty/Bank Nifty amid the midday slide",
   "instrument": "SENSEX",
   "timestamp": "2026-08-04T12:25:00+05:30",
-  "gist": "Sensex -0.20% at 78,483.40 (day range 78,429.12-79,143.15), below VWAP 78,684.98 but well off the -1.04%/-1.18% declines in Nifty/Bank Nifty — a notable divergence, likely reflecting lighter weighting toward the hardest-hit financial names."
+  "gist": "Sensex -0.20% at 78,483.40 (day range 78,429.12-79,143.15), below VWAP 78,684.98 but well off the -1.04%/-1.18% declines in Nifty/Bank Nifty \u2014 a notable divergence, likely reflecting lighter weighting toward the hardest-hit financial names."
  },
  {
   "headline": "RBI's 3-day MPC concludes Wednesday 10am; consensus sees repo rate held at 5.25% for 4th straight meeting",
   "instrument": "RBI / BANK NIFTY",
   "timestamp": "2026-08-04T12:25:00+05:30",
   "gist": "RBI Governor Sanjay Malhotra to announce the MPC decision Wed 10am IST, followed by a 12pm press conference. Consensus (Business Standard poll) expects the repo rate held at 5.25%; India's 10Y yield steady near 6.7%, signalling bond traders aren't pricing an imminent change."
+ },
+ {
+  "headline": "UPDATE: Nifty extends slide, breaks below 24,506-24,524 demand zone flagged at midday, fresh low",
+  "instrument": "NIFTY 50",
+  "timestamp": "2026-08-04T13:21:59+05:30",
+  "gist": "Nifty -1.17% at 24,484.8 (session low 24,474.1), below VWAP 24,561.5, breaking through the 24,506-24,524 demand zone flagged in the 12:25 brief as RBI-eve caution deepens."
+ },
+ {
+  "headline": "UPDATE: Bank Nifty slides to fresh session low as financials continue to lead the broader decline",
+  "instrument": "BANK NIFTY",
+  "timestamp": "2026-08-04T13:21:59+05:30",
+  "gist": "Bank Nifty -1.38% at 57,446.6, fresh session low 57,426.6, below VWAP 57,658.6, extending its underperformance versus Nifty into the RBI verdict."
+ },
+ {
+  "headline": "UPDATE: Silver extends rally to fresh session high $59.40 (+2.35%), sharply outpacing gold's +0.73% gain",
+  "instrument": "SILVER / GOLD",
+  "timestamp": "2026-08-04T13:21:59+05:30",
+  "gist": "Silver $59.22 (+2.35%), fresh session high $59.395, above VWAP $59.18; demand zone 58.97-59.06 defended twice. Gold $4,120.40 (+0.73%), above VWAP, upper third of range. Both extending Monday's dollar-softness driven gains."
+ },
+ {
+  "headline": "Sensex still holding up far better than Nifty/Bank Nifty amid the continued slide",
+  "instrument": "SENSEX",
+  "timestamp": "2026-08-04T13:21:59+05:30",
+  "gist": "Sensex -0.32% at 78,387.3, below VWAP 78,626.9, but well off the -1.17%/-1.38% declines in Nifty/Bank Nifty \u2014 the divergence noted at 12:25 persists as financials keep underperforming."
  }
 ]
