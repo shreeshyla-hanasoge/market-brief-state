@@ -40,5 +40,23 @@
   "instrument": "BHARTI AIRTEL / ONGC",
   "timestamp": "2026-08-04T09:24:00+05:30",
   "gist": "Bharti Airtel (Nifty's #2 weight, ~6.3%) and ONGC lead a slate of ~135 companies due to report June-quarter (Q1 FY27) results today, including BSE, Pidilite, Marico, Nykaa, Bharti Hexacom, Godrej Properties, MCX, UNO Minda, Deepak Nitrite. Results due post-market; no numbers out yet as of this brief."
+ },
+ {
+  "headline": "UPDATE: Nifty, Bank Nifty reverse from opening spike (Nifty hit 24,703.90), slide to session lows into midday",
+  "instrument": "NIFTY 50 / BANK NIFTY",
+  "timestamp": "2026-08-04T12:25:00+05:30",
+  "gist": "Nifty -1.04% at 24,517.60 (day range 24,496.70-24,703.90), below VWAP 24,579.07, testing demand near 24,506-24,524 after fading from the day's opening high. Bank Nifty -1.18% at 57,561.80 (range 57,487.05-58,068.95), near its day low, as caution builds into Wed's RBI verdict."
+ },
+ {
+  "headline": "Sensex holds up far better than Nifty/Bank Nifty amid the midday slide",
+  "instrument": "SENSEX",
+  "timestamp": "2026-08-04T12:25:00+05:30",
+  "gist": "Sensex -0.20% at 78,483.40 (day range 78,429.12-79,143.15), below VWAP 78,684.98 but well off the -1.04%/-1.18% declines in Nifty/Bank Nifty — a notable divergence, likely reflecting lighter weighting toward the hardest-hit financial names."
+ },
+ {
+  "headline": "RBI's 3-day MPC concludes Wednesday 10am; consensus sees repo rate held at 5.25% for 4th straight meeting",
+  "instrument": "RBI / BANK NIFTY",
+  "timestamp": "2026-08-04T12:25:00+05:30",
+  "gist": "RBI Governor Sanjay Malhotra to announce the MPC decision Wed 10am IST, followed by a 12pm press conference. Consensus (Business Standard poll) expects the repo rate held at 5.25%; India's 10Y yield steady near 6.7%, signalling bond traders aren't pricing an imminent change."
  }
 ]
