@@ -1,35 +1,5 @@
 [
  {
-  "headline": "Trump calls off Iran strikes, cites Hormuz-reopening deal; OPEC+ adds 188k b/d for September",
-  "instrument": "CRUDE (WTI) / GEOPOLITICS",
-  "timestamp": "2026-08-03T09:22:00+05:30",
-  "gist": "Trump halted planned weekend strikes on Iran after an outline deal including reopening the Strait of Hormuz; Iran disputes the account. Combined with OPEC+'s Aug 2 decision to add 188k b/d for Sept, WTI gapped down ~5.5% to $80.02 (day range $79.56-81.30), below VWAP $80.44, capped under 80.55-80.75 supply."
- },
- {
-  "headline": "FIIs end 4-month selling streak, net buy ₹20,200cr in July; Q1 beats led by Reliance, ICICI, Bajaj Finance",
-  "instrument": "NIFTY 50 / FII-DII FLOWS",
-  "timestamp": "2026-08-03T09:22:00+05:30",
-  "gist": "FIIs turned net buyers in July (~₹20,200cr) after 4 months of selling; Friday cash-segment prints showed FII +₹277.5cr, DII +₹2,260.4cr. ~38-39 Nifty50 firms have reported Q1 FY27 earnings so far, 7.5-11% YoY growth vs ~5.7-7% estimates, beats led by Reliance, JSW Steel, ICICI Bank, Bajaj Finance, Axis Bank."
- },
- {
-  "headline": "MOFSL upgrades ICICI Bank, downgrades Infosys in latest Nifty FY27 earnings-preferred picks note",
-  "instrument": "ICICI BANK / INFOSYS",
-  "timestamp": "2026-08-03T09:22:00+05:30",
-  "gist": "Motilal Oswal named ICICI Bank among top Nifty picks alongside SBI, Bharti Airtel, M&M, Titan; downgraded Infosys, offsetting the upgrade in Nifty FY27 EPS math. RBI MPC meets Aug 3-5 (decision Wed), consensus expects hold at 5.25%."
- },
- {
-  "headline": "Fed held rates 3.50-3.75% with 3 hawkish dissents; USD firm, yet gold/silver bounce off Friday's slide",
-  "instrument": "GOLD/SILVER / FED",
-  "timestamp": "2026-08-03T09:22:00+05:30",
-  "gist": "Fed held Jul 29 with 3 dissents favoring a hike under new Chair Warsh; USD firm pressured metals into Friday's close (GC prior close $4,107, SI $57.79). Monday's Asia session shows both bouncing: GC=F $4,118.3 (+0.28%), day range $4,102.7-4,135.8; SI=F $58.39 (+1.05%), outperforming gold, day range $58.02-58.69."
- },
- {
-  "headline": "EIA storage builds +28 bcf, above 5-yr avg; record output and cooler weather cap nat-gas upside",
-  "instrument": "NATURAL GAS",
-  "timestamp": "2026-08-03T09:22:00+05:30",
-  "gist": "Week ended Jul 24: +28 bcf, working gas ~185 bcf above 5-yr avg. Lower-48 output at record 110.6 bcfd, LNG feedgas dipped to 17.2 bcfd on Freeport maintenance, cooler weather forecasts across central/eastern US. NG=F $2.756 (+0.33%), day range $2.718-2.775, near VWAP $2.76 — bearish fundamentals despite the small overnight uptick."
- },
- {
   "headline": "UPDATE: Sensex +780pts to 78,750, Nifty tops 24,590 as crude-relief rally extends on Iran de-escalation",
   "instrument": "NIFTY 50 / SENSEX",
   "timestamp": "2026-08-03T11:16:00+05:30",
@@ -52,5 +22,29 @@
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-03T22:53:00+05:30",
   "gist": "Crude clawed back from the session low of $78.43 to $80.07 (-5.43%) as Iran's Foreign Ministry again denied any US talks were scheduled (only Oman-mediated Hormuz-routing discussions), reviving supply-risk doubts even as OPEC+'s Sept output hike still weighs. Above VWAP $79.51, day range $78.43-81.30; buyers defended 78.8-79.0 twice. Gold $4,090.40 (-0.40%), Silver $57.87 (+0.14%), Nat gas $2.76 (+0.47%) — all little changed since the 21:08 IST brief."
+ },
+ {
+  "headline": "Nifty, Bank Nifty open lower despite record Wall Street highs; RBI verdict due Wed",
+  "instrument": "NIFTY 50 / BANK NIFTY",
+  "timestamp": "2026-08-04T09:24:00+05:30",
+  "gist": "First brief of the day (overnight/premarket). GIFT Nifty had signalled a flat open, but cash Nifty opened down to 24,605.95 (-0.68%, day range 24,589.85-24,703.90) and Bank Nifty to 57,853.35 (-0.68%, range 57,651.15-58,068.95), both above VWAP but lower half of range, as caution builds into RBI's Aug 5 policy call (consensus: hold at 5.25%). Sensex feed delayed on Yahoo (last live print 78,639.03, +0.70%, from ~15:30 IST Mon)."
+ },
+ {
+  "headline": "Wall Street closes at highs Monday (S&P +1.48%, Dow record +1.32%, Nasdaq +2.1%) on Iran de-escalation; Asia fails to follow, Nikkei -1.0%",
+  "instrument": "GLOBAL MARKETS",
+  "timestamp": "2026-08-04T09:24:00+05:30",
+  "gist": "S&P 500 +1.48% to 7,600.50, Dow +1.32% to a record 53,178.41, Nasdaq +2.1% to 25,913.9 Monday as US-Iran de-escalation and falling oil lifted risk appetite. Asia didn't follow through Tuesday: Nikkei 225 -1.0%, MSCI Asia ex-Japan -0.5% on AI-trade jitters (Kospi volatility), capping the read-through into India's open."
+ },
+ {
+  "headline": "UPDATE: WTI extends bounce further to $81.03 as Iran-talks-denial supply-risk story continues; gold/silver firm ahead of US jobs data",
+  "instrument": "CRUDE (WTI) / GOLD / SILVER",
+  "timestamp": "2026-08-04T09:24:00+05:30",
+  "gist": "WTI $81.03 (+0.86% vs prev close $80.34), day range $79.62-81.28, above VWAP $80.49, upper half of range — continuing the overnight recovery off Monday's Iran/OPEC+ selloff low; demand defended 79.85-80.20, supply capping 81.05-81.28. Gold $4,112.00 (+0.53%), Silver $58.90 (+1.80%, outperforming gold, near session high) — both above VWAP as a softer dollar builds into today's US NFP/JOLTS releases. Nat gas flat/soft at $2.76 (-0.61%), below VWAP, no fresh driver."
+ },
+ {
+  "headline": "Bharti Airtel, ONGC headline ~135 companies reporting Q1 FY27 results today",
+  "instrument": "BHARTI AIRTEL / ONGC",
+  "timestamp": "2026-08-04T09:24:00+05:30",
+  "gist": "Bharti Airtel (Nifty's #2 weight, ~6.3%) and ONGC lead a slate of ~135 companies due to report June-quarter (Q1 FY27) results today, including BSE, Pidilite, Marico, Nykaa, Bharti Hexacom, Godrej Properties, MCX, UNO Minda, Deepak Nitrite. Results due post-market; no numbers out yet as of this brief."
  }
 ]
