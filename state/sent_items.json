@@ -15,7 +15,7 @@
   "headline": "UPDATE: WTI rebounds off $78.43 low to $80.07 as Iran's repeated denial of US talks revives supply-risk doubts",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-03T22:53:00+05:30",
-  "gist": "Crude clawed back from the session low of $78.43 to $80.07 (-5.43%) as Iran's Foreign Ministry again denied any US talks were scheduled (only Oman-mediated Hormuz-routing discussions), reviving supply-risk doubts even as OPEC+'s Sept output hike still weighs. Above VWAP $79.51, day range $78.43-81.30; buyers defended 78.8-79.0 twice. Gold $4,090.40 (-0.40%), Silver $57.87 (+0.14%), Nat gas $2.76 (+0.47%) — all little changed since the 21:08 IST brief."
+  "gist": "Crude clawed back from the session low of $78.43 to $80.07 (-5.43%) as Iran's Foreign Ministry again denied any US talks were scheduled (only Oman-mediated Hormuz-routing discussions), reviving supply-risk doubts even as OPEC+'s Sept output hike still weighs. Above VWAP $79.51, day range $78.43-81.30; buyers defended 78.8-79.0 twice. Gold $4,090.40 (-0.40%), Silver $57.87 (+0.14%), Nat gas $2.76 (+0.47%) \u2014 all little changed since the 21:08 IST brief."
  },
  {
   "headline": "Nifty, Bank Nifty open lower despite record Wall Street highs; RBI verdict due Wed",
@@ -33,7 +33,7 @@
   "headline": "UPDATE: WTI extends bounce further to $81.03 as Iran-talks-denial supply-risk story continues; gold/silver firm ahead of US jobs data",
   "instrument": "CRUDE (WTI) / GOLD / SILVER",
   "timestamp": "2026-08-04T09:24:00+05:30",
-  "gist": "WTI $81.03 (+0.86% vs prev close $80.34), day range $79.62-81.28, above VWAP $80.49, upper half of range — continuing the overnight recovery off Monday's Iran/OPEC+ selloff low; demand defended 79.85-80.20, supply capping 81.05-81.28. Gold $4,112.00 (+0.53%), Silver $58.90 (+1.80%, outperforming gold, near session high) — both above VWAP as a softer dollar builds into today's US NFP/JOLTS releases. Nat gas flat/soft at $2.76 (-0.61%), below VWAP, no fresh driver."
+  "gist": "WTI $81.03 (+0.86% vs prev close $80.34), day range $79.62-81.28, above VWAP $80.49, upper half of range \u2014 continuing the overnight recovery off Monday's Iran/OPEC+ selloff low; demand defended 79.85-80.20, supply capping 81.05-81.28. Gold $4,112.00 (+0.53%), Silver $58.90 (+1.80%, outperforming gold, near session high) \u2014 both above VWAP as a softer dollar builds into today's US NFP/JOLTS releases. Nat gas flat/soft at $2.76 (-0.61%), below VWAP, no fresh driver."
  },
  {
   "headline": "Bharti Airtel, ONGC headline ~135 companies reporting Q1 FY27 results today",
@@ -51,7 +51,7 @@
   "headline": "Sensex holds up far better than Nifty/Bank Nifty amid the midday slide",
   "instrument": "SENSEX",
   "timestamp": "2026-08-04T12:25:00+05:30",
-  "gist": "Sensex -0.20% at 78,483.40 (day range 78,429.12-79,143.15), below VWAP 78,684.98 but well off the -1.04%/-1.18% declines in Nifty/Bank Nifty — a notable divergence, likely reflecting lighter weighting toward the hardest-hit financial names."
+  "gist": "Sensex -0.20% at 78,483.40 (day range 78,429.12-79,143.15), below VWAP 78,684.98 but well off the -1.04%/-1.18% declines in Nifty/Bank Nifty \u2014 a notable divergence, likely reflecting lighter weighting toward the hardest-hit financial names."
  },
  {
   "headline": "RBI's 3-day MPC concludes Wednesday 10am; consensus sees repo rate held at 5.25% for 4th straight meeting",
@@ -81,13 +81,13 @@
   "headline": "Sensex still holding up far better than Nifty/Bank Nifty amid the continued slide",
   "instrument": "SENSEX",
   "timestamp": "2026-08-04T13:21:59+05:30",
-  "gist": "Sensex -0.32% at 78,387.3, below VWAP 78,626.9, but well off the -1.17%/-1.38% declines in Nifty/Bank Nifty — the divergence noted at 12:25 persists as financials keep underperforming."
+  "gist": "Sensex -0.32% at 78,387.3, below VWAP 78,626.9, but well off the -1.17%/-1.38% declines in Nifty/Bank Nifty \u2014 the divergence noted at 12:25 persists as financials keep underperforming."
  },
  {
-  "headline": "ONGC Q1 FY27 consolidated profit jumps ~53% YoY to ₹13,678 cr on higher crude realizations; stock near-flat",
+  "headline": "ONGC Q1 FY27 consolidated profit jumps ~53% YoY to \u20b913,678 cr on higher crude realizations; stock near-flat",
   "instrument": "ONGC",
   "timestamp": "2026-08-04T14:23:00+05:30",
-  "gist": "ONGC's Q1 FY27 consolidated PAT rose ~53% YoY to ₹13,678 cr (profit attributable to owners +46% YoY) on sharply higher Apr-Jun crude realizations. Stock barely reacted (₹241.4 vs prev close ₹242.0, ~flat) as broader RBI-eve market caution dominated. Source: Business Standard/PSU Connect."
+  "gist": "ONGC's Q1 FY27 consolidated PAT rose ~53% YoY to \u20b913,678 cr (profit attributable to owners +46% YoY) on sharply higher Apr-Jun crude realizations. Stock barely reacted (\u20b9241.4 vs prev close \u20b9242.0, ~flat) as broader RBI-eve market caution dominated. Source: Business Standard/PSU Connect."
  },
  {
   "headline": "Nifty, Bank Nifty extend RBI-eve slide to fresh session lows; WTI crude spikes to a fresh session high",
@@ -112,5 +112,29 @@
   "instrument": "GOLD / SILVER",
   "timestamp": "2026-08-04T15:18:00+05:30",
   "gist": "Gold $4,102.90 (+0.30%, off session high $4,129.60), Silver $58.91 (+1.82%, off session high $59.40 flagged at 13:21) - both below VWAP and off best levels but still higher on the day as the earlier pop fades."
+ },
+ {
+  "headline": "UPDATE: WTI crashes over $5 from fresh high $82.33 to session low $76.58, settling $77.92 (-3.0%) as Bessent flags imminent Hormuz deal",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-04T18:09:00+05:30",
+  "gist": "WTI spiked to a fresh session high $82.33 (supply capped 82.03-82.28 three times) then crashed to $76.58 before steadying near $77.92, below VWAP $79.70 and prior close $80.34, after Treasury Sec. Bessent said a Hormuz deal is possible 'today or tomorrow', reversing the earlier Iran-risk-driven rally."
+ },
+ {
+  "headline": "Iran's FM: Oman talks aim for a temporary Hormuz shipping arrangement 'where Iran is dominant', still denies direct US talks",
+  "instrument": "CRUDE (WTI) / HORMUZ",
+  "timestamp": "2026-08-04T18:09:00+05:30",
+  "gist": "Iran's Foreign Ministry said Oman-mediated talks aim for a temporary 1-3 month arrangement over Strait of Hormuz shipping routes, while continuing to deny direct US talks despite Treasury Sec. Bessent's claim a deal could land 'today or tomorrow'."
+ },
+ {
+  "headline": "UPDATE: Silver rips to a fresh session high $59.77 (+3.3%), sharply outpacing gold's +0.87% gain",
+  "instrument": "SILVER / GOLD",
+  "timestamp": "2026-08-04T18:09:00+05:30",
+  "gist": "Silver $59.77 (+3.30%), fresh session high, above VWAP $59.25, resuming its rally beyond the 59.40/59.77 highs flagged earlier as the dollar stays soft. Gold $4,126.10 (+0.87%), above VWAP $4,119.28, upper-mid range."
+ },
+ {
+  "headline": "UPDATE: Nat gas extends slide to $2.70 (-2.84%), near session low, as cooler US weather forecasts cut AC-demand outlook",
+  "instrument": "NAT GAS",
+  "timestamp": "2026-08-04T18:09:00+05:30",
+  "gist": "Nat gas $2.702 (-2.84%), below VWAP $2.729, near the session low $2.697, extending its slide as updated forecasts call for cooler temperatures across the central/eastern US, cutting expected air-conditioning demand; production remains near record highs."
  }
 ]
