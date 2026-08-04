@@ -94,5 +94,23 @@
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE (WTI)",
   "timestamp": "2026-08-04T14:23:00+05:30",
   "gist": "Nifty -1.19% at 24,479.70 (day range 24,428.2-24,666.65), below VWAP 24,541.18, breaking further through the 24,506-24,524 demand zone already flagged twice this session. Bank Nifty -1.26% at 57,512.25, also below VWAP, low 1/5 of range. Sensex -0.44% at 78,293.63, still holding up relatively better than Nifty/Bank Nifty. WTI crude spiked sharply in the last ~15min from ~$80.78 to a fresh session high $81.76 (last $81.69, +1.68%), above VWAP $81.00; demand 80.40-80.55 held twice on the way up. Gold $4,114.70 (+0.59%) and Silver $59.13 (+2.20%) little changed, both off session highs. Nat gas $2.763 (-0.65%), soft on ample storage."
+ },
+ {
+  "headline": "UPDATE: Bank Nifty prints a fresh session low as RBI-eve selloff deepens into the close",
+  "instrument": "BANK NIFTY / NIFTY 50",
+  "timestamp": "2026-08-04T15:18:00+05:30",
+  "gist": "Bank Nifty -1.30% at 57,492.75, fresh session low 57,352.65 (below the 57,426.6 low flagged at 13:21), below VWAP 57,593.6; demand 57,380-57,430 defended repeatedly. Nifty -1.26% at 24,463.45, back near its 24,428 low, below VWAP 24,529.4. Sensex -0.47% at 78,266.37, still holding up relatively better."
+ },
+ {
+  "headline": "UPDATE: WTI crude extends its spike to a fresh session high $82.32 before easing to $81.77",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-04T15:18:00+05:30",
+  "gist": "WTI printed a fresh session high of $82.32 (+2.5%, above the $81.76 high flagged at 14:23) as the Iran/Hormuz supply-risk narrative continued to dominate, before easing to $81.77 (+1.78%); capped twice at 82.05-82.32, above VWAP $81.32. Demand 80.40-80.65 held earlier in the session."
+ },
+ {
+  "headline": "Gold, Silver ease off their session highs into the afternoon",
+  "instrument": "GOLD / SILVER",
+  "timestamp": "2026-08-04T15:18:00+05:30",
+  "gist": "Gold $4,102.90 (+0.30%, off session high $4,129.60), Silver $58.91 (+1.82%, off session high $59.40 flagged at 13:21) - both below VWAP and off best levels but still higher on the day as the earlier pop fades."
  }
 ]
