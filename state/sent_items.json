@@ -1,17 +1,5 @@
 [
  {
-  "headline": "ONGC Q1 FY27 consolidated profit jumps ~53% YoY to \u20b913,678 cr on higher crude realizations; stock near-flat",
-  "instrument": "ONGC",
-  "timestamp": "2026-08-04T14:23:00+05:30",
-  "gist": "ONGC's Q1 FY27 consolidated PAT rose ~53% YoY to \u20b913,678 cr (profit attributable to owners +46% YoY) on sharply higher Apr-Jun crude realizations. Stock barely reacted (\u20b9241.4 vs prev close \u20b9242.0, ~flat) as broader RBI-eve market caution dominated. Source: Business Standard/PSU Connect."
- },
- {
-  "headline": "Nifty, Bank Nifty extend RBI-eve slide to fresh session lows; WTI crude spikes to a fresh session high",
-  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE (WTI)",
-  "timestamp": "2026-08-04T14:23:00+05:30",
-  "gist": "Nifty -1.19% at 24,479.70 (day range 24,428.2-24,666.65), below VWAP 24,541.18, breaking further through the 24,506-24,524 demand zone already flagged twice this session. Bank Nifty -1.26% at 57,512.25, also below VWAP, low 1/5 of range. Sensex -0.44% at 78,293.63, still holding up relatively better than Nifty/Bank Nifty. WTI crude spiked sharply in the last ~15min from ~$80.78 to a fresh session high $81.76 (last $81.69, +1.68%), above VWAP $81.00; demand 80.40-80.55 held twice on the way up. Gold $4,114.70 (+0.59%) and Silver $59.13 (+2.20%) little changed, both off session highs. Nat gas $2.763 (-0.65%), soft on ample storage."
- },
- {
   "headline": "UPDATE: Bank Nifty prints a fresh session low as RBI-eve selloff deepens into the close",
   "instrument": "BANK NIFTY / NIFTY 50",
   "timestamp": "2026-08-04T15:18:00+05:30",
@@ -63,7 +51,7 @@
   "headline": "UPDATE: Silver hits a fresh session high $60.24, sharply outpacing gold's +1.06% gain as the dollar softens",
   "instrument": "SILVER / GOLD",
   "timestamp": "2026-08-04T21:02:00+05:30",
-  "gist": "Silver $59.64 (+3.08%), fresh session high $60.24 (topping the $59.77 high flagged at 18:09), above VWAP $59.59; demand 58.78-58.90 held, supply 60.01-60.24 capping. Gold $4,133.80 (+1.06%), above VWAP $4,128.48, upper half of range. Nat gas $2.664 (-4.21%), below VWAP $2.693, near session low on cooler-weather/ample-storage theme already flagged \u2014 no fresh driver."
+  "gist": "Silver $59.64 (+3.08%), fresh session high $60.24 (topping the $59.77 high flagged at 18:09), above VWAP $59.59; demand 58.78-58.90 held, supply 60.01-60.24 capping. Gold $4,133.80 (+1.06%), above VWAP $4,128.48, upper half of range. Nat gas $2.664 (-4.21%), below VWAP $2.693, near session low on cooler-weather/ample-storage theme already flagged — no fresh driver."
  },
  {
   "headline": "UPDATE: WTI slides to fresh session low $75.16 (-6.5% intraday), steadies near $75.9 as Bessent Hormuz deal talk and OPEC+ Sept hike keep pressure on",
@@ -81,19 +69,19 @@
   "headline": "Nat gas holds soft near $2.67 (-3.85%), still pressured by ample storage and a cooler-weather outlook; no fresh driver",
   "instrument": "NAT GAS",
   "timestamp": "2026-08-04T23:02:00+05:30",
-  "gist": "Nat gas $2.674 (-3.85%), below VWAP $2.6885, largely unchanged from the $2.664 flagged at 21:02 \u2014 storage 6.4% above the 5-yr average and a cooler weather outlook continue to cap prices with no fresh catalyst."
+  "gist": "Nat gas $2.674 (-3.85%), below VWAP $2.6885, largely unchanged from the $2.664 flagged at 21:02 — storage 6.4% above the 5-yr average and a cooler weather outlook continue to cap prices with no fresh catalyst."
  },
  {
   "headline": "GIFT Nifty up 190pts eyeing gap-up as Wall St hits records, Asia surges on Hormuz hopes; RBI verdict due 10am",
   "instrument": "NIFTY 50 / SENSEX / BANK NIFTY / GLOBAL MARKETS",
   "timestamp": "2026-08-05T09:21:00+05:30",
-  "gist": "First brief of the day (overnight/premarket). GIFT Nifty +0.76% at 24,743 signals a gap-up open. Wall St closed at fresh records Tue (S&P 500 +1.79% to 7,737, Dow +1.71% above 54,000 first time ever, Nasdaq +2.59% to 26,584.99) on Hormuz-deal hopes and AI-earnings strength. Asia followed through hard: Nikkei +2.66%, Kospi +4.51% (SK Hynix +7%, Samsung +4%, SoftBank +9%). Cash Nifty opened ~24,636-24,678 (+0.09%), faded from the opening high, below VWAP, lower-half of range \u2014 chop risk into RBI. Bank Nifty 57,878 (-0.05%), above VWAP, near session high. Sensex feed still delayed on Yahoo at open (last live print 78,428.95, Tue's close) \u2014 same issue as yesterday's first brief. RBI's 3-day MPC concludes today; Gov. Malhotra announces verdict 10am IST, presser 12pm; consensus (Business Standard poll) sees repo rate held at 5.25% for a 4th straight meeting."
+  "gist": "First brief of the day (overnight/premarket). GIFT Nifty +0.76% at 24,743 signals a gap-up open. Wall St closed at fresh records Tue (S&P 500 +1.79% to 7,737, Dow +1.71% above 54,000 first time ever, Nasdaq +2.59% to 26,584.99) on Hormuz-deal hopes and AI-earnings strength. Asia followed through hard: Nikkei +2.66%, Kospi +4.51% (SK Hynix +7%, Samsung +4%, SoftBank +9%). Cash Nifty opened ~24,636-24,678 (+0.09%), faded from the opening high, below VWAP, lower-half of range — chop risk into RBI. Bank Nifty 57,878 (-0.05%), above VWAP, near session high. Sensex feed still delayed on Yahoo at open (last live print 78,428.95, Tue's close) — same issue as yesterday's first brief. RBI's 3-day MPC concludes today; Gov. Malhotra announces verdict 10am IST, presser 12pm; consensus (Business Standard poll) sees repo rate held at 5.25% for a 4th straight meeting."
  },
  {
-  "headline": "UPDATE: Bharti Airtel Q1 FY27 net profit jumps 37.3% YoY to \u20b98,167cr, revenue +18.4% to \u20b958,539cr, beats estimates",
+  "headline": "UPDATE: Bharti Airtel Q1 FY27 net profit jumps 37.3% YoY to ₹8,167cr, revenue +18.4% to ₹58,539cr, beats estimates",
   "instrument": "BHARTI AIRTEL",
   "timestamp": "2026-08-05T09:21:00+05:30",
-  "gist": "Results now out (flagged as pending in yesterday's 09:24 IST brief). Bharti Airtel (Nifty's #2 weight, ~6.2%) posted Q1 FY27 consolidated net profit of \u20b98,167.4cr (+37.3% YoY vs \u20b95,947.9cr), revenue \u20b958,539cr (+18.4% YoY), EBITDA margin 57.4%. India ARPU rose to \u20b9264 from \u20b9250 YoY on strong subscriber additions (+14.9mn to 681mn base). Stock closed Tue at \u20b91,970.1 (day range \u20b91,936-1,980); insider trading window stays closed until Aug 6. Source: Business Standard/Upstox."
+  "gist": "Results now out (flagged as pending in yesterday's 09:24 IST brief). Bharti Airtel (Nifty's #2 weight, ~6.2%) posted Q1 FY27 consolidated net profit of ₹8,167.4cr (+37.3% YoY vs ₹5,947.9cr), revenue ₹58,539cr (+18.4% YoY), EBITDA margin 57.4%. India ARPU rose to ₹264 from ₹250 YoY on strong subscriber additions (+14.9mn to 681mn base). Stock closed Tue at ₹1,970.1 (day range ₹1,936-1,980); insider trading window stays closed until Aug 6. Source: Business Standard/Upstox."
  },
  {
   "headline": "UPDATE: WTI extends slide to fresh multi-week low $74.24, below yesterday's $75.16 low, as Qatar drafts interim Hormuz proposal",
@@ -184,5 +172,29 @@
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
   "timestamp": "2026-08-05T14:20:00+05:30",
   "gist": "Nifty -0.47% at 24,500.25, fresh session low 24,498.70 (below the 24,508.45 low flagged at 13:20 IST), below VWAP 24,574.41. Bank Nifty -0.68% at 57,516.20, fresh session low 57,457.05 (below the 57,509.80 low flagged at 13:20 IST), below VWAP 57,694.66; demand 57,455-57,515 defended 3x. Sensex -0.06% at 78,380.02, still far more resilient than Nifty/Bank Nifty as the divergence flagged since Aug 4 persists. Source: Yahoo Finance/NSE/BSE."
+ },
+ {
+  "headline": "SEBI says no design flaws in new closing-auction mechanism (CAS), no immediate review planned",
+  "instrument": "SEBI / NIFTY 50 / BANK NIFTY",
+  "timestamp": "2026-08-05T15:16:00+05:30",
+  "gist": "Reuters source: SEBI sees no flaws in the structure/design of the new Closing Auction Session (CAS) for F&O stocks (live since Aug 3, replacing the VWAP-based closing mechanism), and is unlikely to review it immediately despite the wild swings in futures/options prices triggered on Tuesday's weekly expiry. SEBI expects growing participation and called it too early for a review."
+ },
+ {
+  "headline": "UPDATE: Nifty, Bank Nifty bounce off fresh session lows; Sensex still resilient as RBI-driven slide stalls",
+  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
+  "timestamp": "2026-08-05T15:16:00+05:30",
+  "gist": "Nifty -0.18% at 24,570.20 (range 24,497.95-24,677.60), just above VWAP 24,567.08 but lower-half of range -- bouncing off the 24,498.70 fresh low flagged at 14:20 IST. Bank Nifty -0.48% at 57,629.75, below VWAP 57,672.80, off the 57,457.05 low flagged at 14:20 IST. Sensex -0.06% at 78,379.58, below VWAP 78,570.04, still the most resilient of the three as the RBI-driven afternoon slide stalls. Source: NSE/BSE/Yahoo Finance."
+ },
+ {
+  "headline": "UPDATE: WTI technically bounces off multi-week low $74.24, still down ~10% this week on Hormuz de-escalation, OPEC+ hike",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-05T15:16:00+05:30",
+  "gist": "WTI $76.18 (+0.54% vs prev close $75.77), above VWAP $75.75, upper-half of day range $74.24-76.40. Demand zone $74.75-75.00 defended repeatedly through the late morning; supply $76.30-76.40 capping the last two hours. No fresh fundamental catalyst -- described as an oversold technical bounce; oil remains down over 10% for the week on Hormuz de-escalation hopes (Qatar's draft proposal) and OPEC+'s confirmed Sept output hike. Source: Yahoo Finance/FXStreet."
+ },
+ {
+  "headline": "Manipal Health Enterprises lists at ~11% premium over its Rs590 IPO price in strong market debut",
+  "instrument": "MANIPAL HEALTH / IPO",
+  "timestamp": "2026-08-05T15:16:00+05:30",
+  "gist": "Manipal Health Enterprises listed at Rs655 on BSE (+11.02%) and Rs652 on NSE (+10.51%) over its Rs590 issue price, beating flat-to-negative grey market expectations. The ~$960mn IPO (price band Rs560-590) was subscribed 4.92x overall, with Rs4,167 cr raised from anchor investors ahead of listing. Source: Business Standard/Bloomberg."
  }
 ]
