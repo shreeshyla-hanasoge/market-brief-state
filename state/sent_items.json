@@ -1,47 +1,5 @@
 [
  {
-  "headline": "UPDATE: Bank Nifty prints a fresh session low as RBI-eve selloff deepens into the close",
-  "instrument": "BANK NIFTY / NIFTY 50",
-  "timestamp": "2026-08-04T15:18:00+05:30",
-  "gist": "Bank Nifty -1.30% at 57,492.75, fresh session low 57,352.65 (below the 57,426.6 low flagged at 13:21), below VWAP 57,593.6; demand 57,380-57,430 defended repeatedly. Nifty -1.26% at 24,463.45, back near its 24,428 low, below VWAP 24,529.4. Sensex -0.47% at 78,266.37, still holding up relatively better."
- },
- {
-  "headline": "UPDATE: WTI crude extends its spike to a fresh session high $82.32 before easing to $81.77",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-04T15:18:00+05:30",
-  "gist": "WTI printed a fresh session high of $82.32 (+2.5%, above the $81.76 high flagged at 14:23) as the Iran/Hormuz supply-risk narrative continued to dominate, before easing to $81.77 (+1.78%); capped twice at 82.05-82.32, above VWAP $81.32. Demand 80.40-80.65 held earlier in the session."
- },
- {
-  "headline": "Gold, Silver ease off their session highs into the afternoon",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-04T15:18:00+05:30",
-  "gist": "Gold $4,102.90 (+0.30%, off session high $4,129.60), Silver $58.91 (+1.82%, off session high $59.40 flagged at 13:21) - both below VWAP and off best levels but still higher on the day as the earlier pop fades."
- },
- {
-  "headline": "UPDATE: WTI crashes over $5 from fresh high $82.33 to session low $76.58, settling $77.92 (-3.0%) as Bessent flags imminent Hormuz deal",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-04T18:09:00+05:30",
-  "gist": "WTI spiked to a fresh session high $82.33 (supply capped 82.03-82.28 three times) then crashed to $76.58 before steadying near $77.92, below VWAP $79.70 and prior close $80.34, after Treasury Sec. Bessent said a Hormuz deal is possible 'today or tomorrow', reversing the earlier Iran-risk-driven rally."
- },
- {
-  "headline": "Iran's FM: Oman talks aim for a temporary Hormuz shipping arrangement 'where Iran is dominant', still denies direct US talks",
-  "instrument": "CRUDE (WTI) / HORMUZ",
-  "timestamp": "2026-08-04T18:09:00+05:30",
-  "gist": "Iran's Foreign Ministry said Oman-mediated talks aim for a temporary 1-3 month arrangement over Strait of Hormuz shipping routes, while continuing to deny direct US talks despite Treasury Sec. Bessent's claim a deal could land 'today or tomorrow'."
- },
- {
-  "headline": "UPDATE: Silver rips to a fresh session high $59.77 (+3.3%), sharply outpacing gold's +0.87% gain",
-  "instrument": "SILVER / GOLD",
-  "timestamp": "2026-08-04T18:09:00+05:30",
-  "gist": "Silver $59.77 (+3.30%), fresh session high, above VWAP $59.25, resuming its rally beyond the 59.40/59.77 highs flagged earlier as the dollar stays soft. Gold $4,126.10 (+0.87%), above VWAP $4,119.28, upper-mid range."
- },
- {
-  "headline": "UPDATE: Nat gas extends slide to $2.70 (-2.84%), near session low, as cooler US weather forecasts cut AC-demand outlook",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-08-04T18:09:00+05:30",
-  "gist": "Nat gas $2.702 (-2.84%), below VWAP $2.729, near the session low $2.697, extending its slide as updated forecasts call for cooler temperatures across the central/eastern US, cutting expected air-conditioning demand; production remains near record highs."
- },
- {
   "headline": "UPDATE: WTI breaks below Monday's $76.58 low to fresh session low $75.77 (-4.80%) as Trump's Iran strike stand-down and OPEC+'s confirmed Sept output hike deepen the Hormuz de-escalation selloff",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-04T21:02:00+05:30",
@@ -51,7 +9,7 @@
   "headline": "UPDATE: Silver hits a fresh session high $60.24, sharply outpacing gold's +1.06% gain as the dollar softens",
   "instrument": "SILVER / GOLD",
   "timestamp": "2026-08-04T21:02:00+05:30",
-  "gist": "Silver $59.64 (+3.08%), fresh session high $60.24 (topping the $59.77 high flagged at 18:09), above VWAP $59.59; demand 58.78-58.90 held, supply 60.01-60.24 capping. Gold $4,133.80 (+1.06%), above VWAP $4,128.48, upper half of range. Nat gas $2.664 (-4.21%), below VWAP $2.693, near session low on cooler-weather/ample-storage theme already flagged — no fresh driver."
+  "gist": "Silver $59.64 (+3.08%), fresh session high $60.24 (topping the $59.77 high flagged at 18:09), above VWAP $59.59; demand 58.78-58.90 held, supply 60.01-60.24 capping. Gold $4,133.80 (+1.06%), above VWAP $4,128.48, upper half of range. Nat gas $2.664 (-4.21%), below VWAP $2.693, near session low on cooler-weather/ample-storage theme already flagged \u2014 no fresh driver."
  },
  {
   "headline": "UPDATE: WTI slides to fresh session low $75.16 (-6.5% intraday), steadies near $75.9 as Bessent Hormuz deal talk and OPEC+ Sept hike keep pressure on",
@@ -69,19 +27,19 @@
   "headline": "Nat gas holds soft near $2.67 (-3.85%), still pressured by ample storage and a cooler-weather outlook; no fresh driver",
   "instrument": "NAT GAS",
   "timestamp": "2026-08-04T23:02:00+05:30",
-  "gist": "Nat gas $2.674 (-3.85%), below VWAP $2.6885, largely unchanged from the $2.664 flagged at 21:02 — storage 6.4% above the 5-yr average and a cooler weather outlook continue to cap prices with no fresh catalyst."
+  "gist": "Nat gas $2.674 (-3.85%), below VWAP $2.6885, largely unchanged from the $2.664 flagged at 21:02 \u2014 storage 6.4% above the 5-yr average and a cooler weather outlook continue to cap prices with no fresh catalyst."
  },
  {
   "headline": "GIFT Nifty up 190pts eyeing gap-up as Wall St hits records, Asia surges on Hormuz hopes; RBI verdict due 10am",
   "instrument": "NIFTY 50 / SENSEX / BANK NIFTY / GLOBAL MARKETS",
   "timestamp": "2026-08-05T09:21:00+05:30",
-  "gist": "First brief of the day (overnight/premarket). GIFT Nifty +0.76% at 24,743 signals a gap-up open. Wall St closed at fresh records Tue (S&P 500 +1.79% to 7,737, Dow +1.71% above 54,000 first time ever, Nasdaq +2.59% to 26,584.99) on Hormuz-deal hopes and AI-earnings strength. Asia followed through hard: Nikkei +2.66%, Kospi +4.51% (SK Hynix +7%, Samsung +4%, SoftBank +9%). Cash Nifty opened ~24,636-24,678 (+0.09%), faded from the opening high, below VWAP, lower-half of range — chop risk into RBI. Bank Nifty 57,878 (-0.05%), above VWAP, near session high. Sensex feed still delayed on Yahoo at open (last live print 78,428.95, Tue's close) — same issue as yesterday's first brief. RBI's 3-day MPC concludes today; Gov. Malhotra announces verdict 10am IST, presser 12pm; consensus (Business Standard poll) sees repo rate held at 5.25% for a 4th straight meeting."
+  "gist": "First brief of the day (overnight/premarket). GIFT Nifty +0.76% at 24,743 signals a gap-up open. Wall St closed at fresh records Tue (S&P 500 +1.79% to 7,737, Dow +1.71% above 54,000 first time ever, Nasdaq +2.59% to 26,584.99) on Hormuz-deal hopes and AI-earnings strength. Asia followed through hard: Nikkei +2.66%, Kospi +4.51% (SK Hynix +7%, Samsung +4%, SoftBank +9%). Cash Nifty opened ~24,636-24,678 (+0.09%), faded from the opening high, below VWAP, lower-half of range \u2014 chop risk into RBI. Bank Nifty 57,878 (-0.05%), above VWAP, near session high. Sensex feed still delayed on Yahoo at open (last live print 78,428.95, Tue's close) \u2014 same issue as yesterday's first brief. RBI's 3-day MPC concludes today; Gov. Malhotra announces verdict 10am IST, presser 12pm; consensus (Business Standard poll) sees repo rate held at 5.25% for a 4th straight meeting."
  },
  {
-  "headline": "UPDATE: Bharti Airtel Q1 FY27 net profit jumps 37.3% YoY to ₹8,167cr, revenue +18.4% to ₹58,539cr, beats estimates",
+  "headline": "UPDATE: Bharti Airtel Q1 FY27 net profit jumps 37.3% YoY to \u20b98,167cr, revenue +18.4% to \u20b958,539cr, beats estimates",
   "instrument": "BHARTI AIRTEL",
   "timestamp": "2026-08-05T09:21:00+05:30",
-  "gist": "Results now out (flagged as pending in yesterday's 09:24 IST brief). Bharti Airtel (Nifty's #2 weight, ~6.2%) posted Q1 FY27 consolidated net profit of ₹8,167.4cr (+37.3% YoY vs ₹5,947.9cr), revenue ₹58,539cr (+18.4% YoY), EBITDA margin 57.4%. India ARPU rose to ₹264 from ₹250 YoY on strong subscriber additions (+14.9mn to 681mn base). Stock closed Tue at ₹1,970.1 (day range ₹1,936-1,980); insider trading window stays closed until Aug 6. Source: Business Standard/Upstox."
+  "gist": "Results now out (flagged as pending in yesterday's 09:24 IST brief). Bharti Airtel (Nifty's #2 weight, ~6.2%) posted Q1 FY27 consolidated net profit of \u20b98,167.4cr (+37.3% YoY vs \u20b95,947.9cr), revenue \u20b958,539cr (+18.4% YoY), EBITDA margin 57.4%. India ARPU rose to \u20b9264 from \u20b9250 YoY on strong subscriber additions (+14.9mn to 681mn base). Stock closed Tue at \u20b91,970.1 (day range \u20b91,936-1,980); insider trading window stays closed until Aug 6. Source: Business Standard/Upstox."
  },
  {
   "headline": "UPDATE: WTI extends slide to fresh multi-week low $74.24, below yesterday's $75.16 low, as Qatar drafts interim Hormuz proposal",
@@ -196,5 +154,23 @@
   "instrument": "MANIPAL HEALTH / IPO",
   "timestamp": "2026-08-05T15:16:00+05:30",
   "gist": "Manipal Health Enterprises listed at Rs655 on BSE (+11.02%) and Rs652 on NSE (+10.51%) over its Rs590 issue price, beating flat-to-negative grey market expectations. The ~$960mn IPO (price band Rs560-590) was subscribed 4.92x overall, with Rs4,167 cr raised from anchor investors ahead of listing. Source: Business Standard/Bloomberg."
+ },
+ {
+  "headline": "UPDATE: Gold, Silver rip to fresh session highs ($4,271.1 / $62.735) on soft dollar, Fed rate-cut bets",
+  "instrument": "GOLD / SILVER",
+  "timestamp": "2026-08-05T18:10:00+05:30",
+  "gist": "Gold $4,268.20 (+2.78% vs prev close $4,152.60), fresh session high $4,271.10 topping the $4,237.80 high flagged at 12:20 IST, above VWAP $4,228.77; demand 4,211-4,217 defended, supply 4,233-4,237 broken on the move up. Silver $62.69 (+4.06%), fresh session high $62.735 topping the $62.01 high flagged at 12:20 IST, above VWAP $61.89, breaking the 61.78-61.88 supply zone that had capped it for hours; demand 61.68-61.74 held repeatedly beforehand. Soft dollar and firming Fed Sept rate-cut bets remain the drivers."
+ },
+ {
+  "headline": "UPDATE: WTI bounces to fresh day high $76.70, eases to $76.06 as Trump sees Hormuz deal Wed/Thu, CENTCOM says southern route already open",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-05T18:10:00+05:30",
+  "gist": "WTI $76.06 (+0.38% vs prev close $75.77), fresh session high $76.70 before easing back, above VWAP $75.94, upper-half of day range $74.24-76.70. Demand 75.79-76.30 defended repeatedly, supply 76.51-76.66 capping the latest push higher. Trump said a Hormuz deal could be reached Wednesday or Thursday after 'very good' Iran talks; CENTCOM said the strait's southern route (via Omani waters) remains free and open. Move framed as an oversold technical bounce against the still-bearish Hormuz de-escalation/OPEC+ Sept hike backdrop that drove oil's >10% weekly slide."
+ },
+ {
+  "headline": "Nat gas holds flat near $2.67 (-0.30%), no fresh catalyst",
+  "instrument": "NAT GAS",
+  "timestamp": "2026-08-05T18:10:00+05:30",
+  "gist": "Nat gas $2.674 (-0.30% vs prev close $2.682), day range $2.668-2.708, below VWAP -- still capped by ample storage (~6.6% above 5-yr avg) and a cooler-weather demand outlook already flagged in prior briefs; no new driver since."
  }
 ]
