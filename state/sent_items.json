@@ -1,17 +1,5 @@
 [
  {
-  "headline": "UPDATE: Sensex erases post-RBI gains, flips flat as Nifty, Bank Nifty extend slide to fresh session lows",
-  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
-  "timestamp": "2026-08-05T13:20:00+05:30",
-  "gist": "Sensex ~flat -0.01% at 78,424.47 (day range 78,375.60-79,000.67), below VWAP, down from +0.23% at 12:20 - erasing its lone-holdout gain. Nifty -0.29% at 24,544.65, fresh session low 24,508.45, below VWAP 24,588.07, breaking the 24,566-24,584 zone defended earlier. Bank Nifty -0.57% at 57,576.05, fresh session low 57,509.80, below VWAP."
- },
- {
-  "headline": "UPDATE: WTI bounces off fresh day low 4.50 to 6.09 (+0.42%), clawing back part of the Hormuz-driven slide",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-05T13:20:00+05:30",
-  "gist": "WTI 6.09 (+0.42%), bouncing off a fresh session low 4.50 (below the 4.77 print flagged at 11:18), above VWAP 5.25, as markets continue to weigh Bessent's Hormuz-deal comments against still-thin Strait tanker traffic."
- },
- {
   "headline": "UPDATE: Nifty, Bank Nifty extend post-RBI slide to fresh session lows; Sensex still resilient",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
   "timestamp": "2026-08-05T14:20:00+05:30",
@@ -106,5 +94,11 @@
   "instrument": "NIFTY 50 / SENSEX / BANK NIFTY",
   "timestamp": "2026-08-06T12:20:00+05:30",
   "gist": "Nifty +0.09% at 24,646.45, above VWAP 24,641.28, upper-mid range. Sensex +0.32% at 78,834.27, above VWAP, upper range, tracking Nifty. Bank Nifty leads with +0.37% at 57,953.50, above VWAP 57,864.15, near day highs 57,985.05. Broad-based buying with IT and Pharma sectors outperforming, Realty and Auto lagging; no single discrete catalyst identified for the move. Source: NSE/BSE/Yahoo Finance."
+ },
+ {
+  "headline": "Quiet run — no new market-moving news since 12:20 IST brief",
+  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
+  "timestamp": "2026-08-06T13:20:00+05:30",
+  "gist": "No genuinely new material news across equities (Nifty50 constituents, RBI/SEBI, FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off, Pezeshkian says communication with him is difficult -- same core story as 12:20 IST), nat gas (no catalyst), or gold/silver (consolidating after the ADP-driven overnight spike). Defence-stock sector strength (BEL/HAL/Solar Industries, Nifty India Defence +2%) noted but not a fresh single catalyst. Sent short text-only update: Nifty 24,653.00 (+0.12%), Bank Nifty 57,991.05 (+0.43%), Crude $75.34, Gold $4,316.80."
  }
 ]
