@@ -82,5 +82,23 @@
   "instrument": "NAT GAS",
   "timestamp": "2026-08-06T18:14:00+05:30",
   "gist": "Nat gas $2.669 (-0.71% vs prev close $2.688), day range $2.642-2.702, near VWAP $2.667 -- no new driver; weekly EIA storage report due later tonight. Source: EIA."
+ },
+ {
+  "headline": "UPDATE: WTI extends to fresh day highs $77.19 (+2.06%), Khamenei still hasn't signed the Hormuz reopening pact",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-06T21:08:00+05:30",
+  "gist": "WTI $76.77 (+2.06% vs prev close $75.22), fresh session high $77.19, above VWAP $76.00, upper third of day range $74.57-77.19. Demand 74.60-74.90 defended repeatedly early session; supply 75.85-75.95 capped price for hours before the late breakout higher. Iran's Khamenei still hasn't signed off the Iran-Oman Hormuz draft pact; Trump's ultimatum continues to frame the risk premium -- same core story as the 18:14 IST brief, now with a clear extension to new highs. Source: CNBC/Axios."
+ },
+ {
+  "headline": "Nat gas -1.6% as EIA reports bigger-than-expected 33 Bcf storage build to 3,117 Bcf",
+  "instrument": "NAT GAS",
+  "timestamp": "2026-08-06T21:08:00+05:30",
+  "gist": "Nat gas $2.645 (-1.6% vs prev close $2.688), day range $2.616-2.702, below VWAP $2.651, lower half of range. Weekly EIA storage report (released ~20:00 IST) showed a 33 Bcf build to 3,117 Bcf, slightly above the ~31 Bcf expected and extending the supply surplus versus the 5-year average -- the first storage print since the 18:14 IST brief flagged it as pending. Source: EIA."
+ },
+ {
+  "headline": "UPDATE: Gold, Silver extend pullback from records as jobless claims beat estimates, tempering Fed-cut bets",
+  "instrument": "GOLD / SILVER",
+  "timestamp": "2026-08-06T21:08:00+05:30",
+  "gist": "Gold $4,315.00 (+0.23% vs prev close $4,305.20), below VWAP $4,320.89, mid-range $4,288.40-4,344.20 -- consolidating further below the $4,363.70 record. Silver $61.675 (-0.98% vs prev close $62.288), below VWAP $61.88, lower half of range $61.285-62.485, giving back more ground from the $63.32 record. US initial jobless claims came in at 199k vs ~202k expected, a modestly firmer labor print that tempers the dovish Fed-Sept-cut narrative built on Wednesday's weak 44k ADP print; 10-yr Treasury yield eased to ~4.6% (3rd straight decline) on Hormuz-deal optimism easing inflation-risk pricing. Source: CNBC/DOL."
  }
 ]
