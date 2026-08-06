@@ -1,35 +1,5 @@
 [
  {
-  "headline": "UPDATE: WTI breaks below Monday's $76.58 low to fresh session low $75.77 (-4.80%) as Trump's Iran strike stand-down and OPEC+'s confirmed Sept output hike deepen the Hormuz de-escalation selloff",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-04T21:02:00+05:30",
-  "gist": "WTI $76.48 (-4.80%), fresh session low $75.77, below VWAP $78.39, breaking the $76.58 low flagged at 18:09 IST. Trump signaled confidence Hormuz will reopen soon while Iran denied direct US talks (Oman-mediated corridor talks continue); OPEC+ confirmed a +188kbd Sept hike completing the second of three cut-restoration packages. Supply zone 76.85-77.06 capping the bounce; demand held 75.77-76.25."
- },
- {
-  "headline": "UPDATE: Silver hits a fresh session high $60.24, sharply outpacing gold's +1.06% gain as the dollar softens",
-  "instrument": "SILVER / GOLD",
-  "timestamp": "2026-08-04T21:02:00+05:30",
-  "gist": "Silver $59.64 (+3.08%), fresh session high $60.24 (topping the $59.77 high flagged at 18:09), above VWAP $59.59; demand 58.78-58.90 held, supply 60.01-60.24 capping. Gold $4,133.80 (+1.06%), above VWAP $4,128.48, upper half of range. Nat gas $2.664 (-4.21%), below VWAP $2.693, near session low on cooler-weather/ample-storage theme already flagged \u2014 no fresh driver."
- },
- {
-  "headline": "UPDATE: WTI slides to fresh session low $75.16 (-6.5% intraday), steadies near $75.9 as Bessent Hormuz deal talk and OPEC+ Sept hike keep pressure on",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-04T23:02:00+05:30",
-  "gist": "WTI $75.87 (-5.56%), fresh session low $75.16 breaking the $75.77 low flagged at 21:02, below VWAP $77.85 and prior close $80.34. Demand held twice near 75.16-75.60, supply capping 76.20-76.32 on the recovery attempt."
- },
- {
-  "headline": "UPDATE: Silver rips to a fresh session high $60.29 (+4.1%), sharply outpacing gold as the dollar stays soft",
-  "instrument": "SILVER / GOLD",
-  "timestamp": "2026-08-04T23:02:00+05:30",
-  "gist": "Silver $60.235 (+4.11%), fresh high $60.285 topping the $60.24 flagged at 21:02, above VWAP $59.68; demand held 59.60-59.80 twice. Gold $4,156.90 (+1.62%), fresh session high $4,163.80, above VWAP $4,131.87, on continued dollar softness and rate-cut positioning into Friday US jobs data."
- },
- {
-  "headline": "Nat gas holds soft near $2.67 (-3.85%), still pressured by ample storage and a cooler-weather outlook; no fresh driver",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-08-04T23:02:00+05:30",
-  "gist": "Nat gas $2.674 (-3.85%), below VWAP $2.6885, largely unchanged from the $2.664 flagged at 21:02 \u2014 storage 6.4% above the 5-yr average and a cooler weather outlook continue to cap prices with no fresh catalyst."
- },
- {
   "headline": "GIFT Nifty up 190pts eyeing gap-up as Wall St hits records, Asia surges on Hormuz hopes; RBI verdict due 10am",
   "instrument": "NIFTY 50 / SENSEX / BANK NIFTY / GLOBAL MARKETS",
   "timestamp": "2026-08-05T09:21:00+05:30",
@@ -172,5 +142,35 @@
   "instrument": "NAT GAS",
   "timestamp": "2026-08-05T18:10:00+05:30",
   "gist": "Nat gas $2.674 (-0.30% vs prev close $2.682), day range $2.668-2.708, below VWAP -- still capped by ample storage (~6.6% above 5-yr avg) and a cooler-weather demand outlook already flagged in prior briefs; no new driver since."
+ },
+ {
+  "headline": "Wall St hits fresh records (Dow's 5th straight) but Nasdaq -0.83% dips on SanDisk's weak FY27 guide sparking chip jitters",
+  "instrument": "GLOBAL MARKETS / NIFTY 50",
+  "timestamp": "2026-08-06T09:20:00+05:30",
+  "gist": "Dow +0.49% record close (5th straight), S&P -0.17% near record, Nasdaq -0.83% as SanDisk's soft FY27 revenue guidance ($10.3-10.8bn vs ~$10.8bn est) sparked a fresh semiconductor-stock selloff. Source: CNBC."
+ },
+ {
+  "headline": "Nikkei, Kospi extend a chip-led selloff (SK Hynix, Kioxia, Samsung sharply lower) on AI-valuation jitters; GIFT Nifty still signals a mild gap-up",
+  "instrument": "ASIA MARKETS / NIFTY 50",
+  "timestamp": "2026-08-06T09:20:00+05:30",
+  "gist": "Nikkei -1.4 to -1.7%, Kospi -2% to -4.75% (SK Hynix -5.6% to -8%, Kioxia -9.9%, Samsung -1.6% to -6%, SoftBank -4%) on contagion from Wall St's chip-earnings jitters (SanDisk guidance miss). GIFT Nifty +0.22-0.25% at ~24,690-24,724 still signals a mild gap-up for cash Nifty despite the weak Asia backdrop. Source: TradingKey/CNBC."
+ },
+ {
+  "headline": "UPDATE: Iran, Oman finalize draft deal to reopen the Strait of Hormuz, awaiting Iran's Supreme Leader's sign-off; WTI extends slide to $74.98",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-06T09:20:00+05:30",
+  "gist": "WTI $74.98 (-0.32% vs prev close $75.22), overnight range $74.45-76.70, below VWAP $75.44. Iranian and Omani negotiators finalized the draft Hormuz-reopening deal overnight, now awaiting Iran's Supreme Leader's final approval -- a step beyond the Wed/Thu deal timeline Trump flagged in yesterday's 18:10 IST brief. Demand zone $74.97-75.05 being tested, supply $76.22-76.29 capped the earlier bounce. Source: Bloomberg/CNBC."
+ },
+ {
+  "headline": "UPDATE: Gold, Silver spike to fresh overnight records ($4,363.7 / $63.32) then pare gains as weak US ADP jobs data (+44k vs 75k est) firms Fed Sept rate-cut bets",
+  "instrument": "GOLD / SILVER",
+  "timestamp": "2026-08-06T09:20:00+05:30",
+  "gist": "Gold hit a fresh overnight record $4,363.70 before easing to $4,323.00 (+0.41% vs prev close $4,305.20), above VWAP $4,278.20; demand $4,224.6-4,230.3 held, supply $4,309.7-4,315.4 capped the pullback. Silver spiked to a fresh record $63.32 (topping the $62.735 high flagged in yesterday's 18:10 IST brief) before reversing hard to $62.22 (-0.12%), round-tripping back below VWAP $62.27. US ADP private payrolls rose just 44k in July vs ~75k expected (weakest since Jan), pushing the dollar lower and reinforcing Fed Sept rate-cut bets. Source: CNBC/Fox Business."
+ },
+ {
+  "headline": "DIIs net buy Rs3,186cr, FIIs net sell Rs1,109cr in Wednesday's cash market; Nifty, Bank Nifty, Sensex open near-flat Thursday",
+  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / FII-DII",
+  "timestamp": "2026-08-06T09:20:00+05:30",
+  "gist": "Aug 5 cash market: DII net buy Rs3,185.58cr (Buy Rs17,497.69cr/Sell Rs14,312.11cr), FII net sell Rs1,109.35cr (Buy Rs14,656.78cr/Sell Rs15,766.13cr); Nifty closed Wed at 24,624.65 (+0.04%), Bank Nifty 57,739.95 (-0.29%). At today's 09:20 IST open: Nifty 24,633.60 (+0.04%), Bank Nifty 57,755.15 (+0.03%), Sensex 78,581.00 (+0.19%, feed thin at open as in prior first-of-day briefs) -- all broadly flat, near VWAP, tight range just after the open. Source: NSE/NiftyTrader/Yahoo Finance."
  }
 ]
