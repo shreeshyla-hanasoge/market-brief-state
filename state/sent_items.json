@@ -1,35 +1,5 @@
 [
  {
-  "headline": "UPDATE: Nifty, Bank Nifty extend post-RBI slide to fresh session lows; Sensex still resilient",
-  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
-  "timestamp": "2026-08-05T14:20:00+05:30",
-  "gist": "Nifty -0.47% at 24,500.25, fresh session low 24,498.70 (below the 24,508.45 low flagged at 13:20 IST), below VWAP 24,574.41. Bank Nifty -0.68% at 57,516.20, fresh session low 57,457.05 (below the 57,509.80 low flagged at 13:20 IST), below VWAP 57,694.66; demand 57,455-57,515 defended 3x. Sensex -0.06% at 78,380.02, still far more resilient than Nifty/Bank Nifty as the divergence flagged since Aug 4 persists. Source: Yahoo Finance/NSE/BSE."
- },
- {
-  "headline": "SEBI says no design flaws in new closing-auction mechanism (CAS), no immediate review planned",
-  "instrument": "SEBI / NIFTY 50 / BANK NIFTY",
-  "timestamp": "2026-08-05T15:16:00+05:30",
-  "gist": "Reuters source: SEBI sees no flaws in the structure/design of the new Closing Auction Session (CAS) for F&O stocks (live since Aug 3, replacing the VWAP-based closing mechanism), and is unlikely to review it immediately despite the wild swings in futures/options prices triggered on Tuesday's weekly expiry. SEBI expects growing participation and called it too early for a review."
- },
- {
-  "headline": "UPDATE: Nifty, Bank Nifty bounce off fresh session lows; Sensex still resilient as RBI-driven slide stalls",
-  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
-  "timestamp": "2026-08-05T15:16:00+05:30",
-  "gist": "Nifty -0.18% at 24,570.20 (range 24,497.95-24,677.60), just above VWAP 24,567.08 but lower-half of range -- bouncing off the 24,498.70 fresh low flagged at 14:20 IST. Bank Nifty -0.48% at 57,629.75, below VWAP 57,672.80, off the 57,457.05 low flagged at 14:20 IST. Sensex -0.06% at 78,379.58, below VWAP 78,570.04, still the most resilient of the three as the RBI-driven afternoon slide stalls. Source: NSE/BSE/Yahoo Finance."
- },
- {
-  "headline": "UPDATE: WTI technically bounces off multi-week low $74.24, still down ~10% this week on Hormuz de-escalation, OPEC+ hike",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-05T15:16:00+05:30",
-  "gist": "WTI $76.18 (+0.54% vs prev close $75.77), above VWAP $75.75, upper-half of day range $74.24-76.40. Demand zone $74.75-75.00 defended repeatedly through the late morning; supply $76.30-76.40 capping the last two hours. No fresh fundamental catalyst -- described as an oversold technical bounce; oil remains down over 10% for the week on Hormuz de-escalation hopes (Qatar's draft proposal) and OPEC+'s confirmed Sept output hike. Source: Yahoo Finance/FXStreet."
- },
- {
-  "headline": "Manipal Health Enterprises lists at ~11% premium over its Rs590 IPO price in strong market debut",
-  "instrument": "MANIPAL HEALTH / IPO",
-  "timestamp": "2026-08-05T15:16:00+05:30",
-  "gist": "Manipal Health Enterprises listed at Rs655 on BSE (+11.02%) and Rs652 on NSE (+10.51%) over its Rs590 issue price, beating flat-to-negative grey market expectations. The ~$960mn IPO (price band Rs560-590) was subscribed 4.92x overall, with Rs4,167 cr raised from anchor investors ahead of listing. Source: Business Standard/Bloomberg."
- },
- {
   "headline": "UPDATE: Gold, Silver rip to fresh session highs ($4,271.1 / $62.735) on soft dollar, Fed rate-cut bets",
   "instrument": "GOLD / SILVER",
   "timestamp": "2026-08-05T18:10:00+05:30",
@@ -96,15 +66,21 @@
   "gist": "Nifty +0.09% at 24,646.45, above VWAP 24,641.28, upper-mid range. Sensex +0.32% at 78,834.27, above VWAP, upper range, tracking Nifty. Bank Nifty leads with +0.37% at 57,953.50, above VWAP 57,864.15, near day highs 57,985.05. Broad-based buying with IT and Pharma sectors outperforming, Realty and Auto lagging; no single discrete catalyst identified for the move. Source: NSE/BSE/Yahoo Finance."
  },
  {
-  "headline": "Quiet run — no new market-moving news since 12:20 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 12:20 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-06T13:20:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty50 constituents, RBI/SEBI, FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off, Pezeshkian says communication with him is difficult -- same core story as 12:20 IST), nat gas (no catalyst), or gold/silver (consolidating after the ADP-driven overnight spike). Defence-stock sector strength (BEL/HAL/Solar Industries, Nifty India Defence +2%) noted but not a fresh single catalyst. Sent short text-only update: Nifty 24,653.00 (+0.12%), Bank Nifty 57,991.05 (+0.43%), Crude $75.34, Gold $4,316.80."
  },
  {
-  "headline": "Quiet run — no new market-moving news since 13:20 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 13:20 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-06T14:15:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty50 constituents, Q1 results today from LIC/Trent/Hero MotoCorp/Britannia/Motherson etc. still pending/after-hours, RBI/SEBI, FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off -- Pezeshkian's 'difficult communication' comment and the 60-day dual-lane pact terms are the same core story as the 12:20 IST brief), nat gas (weekly EIA storage report not yet out), or gold/silver (consolidating, still tracking Fed Sept rate-cut bets/soft dollar flagged since the 09:20 IST brief). Sent short text-only update: Nifty 24,654.10 (+0.12%), Bank Nifty 58,056.85 (+0.55%), Crude $75.13, Gold $4,332.00."
+ },
+ {
+  "headline": "Quiet run \u2014 no new market-moving news since 14:15 IST brief",
+  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
+  "timestamp": "2026-08-06T15:17:00+05:30",
+  "gist": "No genuinely new material news across equities (Nifty50 constituents -- LIC/Trent/Britannia/Hero MotoCorp/Motherson Q1 results scheduled today but not yet announced; FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off, same core story as 12:20 IST brief), nat gas (weekly EIA storage report not yet out, due later today), or gold/silver (consolidating, still tracking Fed Sept rate-cut bets/soft dollar flagged since 09:20 IST). Nifty PSU Bank sector strength (SBI, Union Bank, Bank of India +0.3-0.9%) noted but no discrete fresh catalyst. Sent short text-only update: Nifty 24,627.95 (+0.01%), Bank Nifty 58,007.95 (+0.46%), Sensex 78,806.36 (+0.29%), Crude $75.32, Gold $4,336.90."
  }
 ]
