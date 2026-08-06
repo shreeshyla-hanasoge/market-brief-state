@@ -1,41 +1,5 @@
 [
  {
-  "headline": "UPDATE: Gold, Silver rip to fresh session highs ($4,212.60 / $61.54) as the dollar stays soft",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-05T11:18:00+05:30",
-  "gist": "Gold $4,210.60 (+1.40% vs prev close $4,152.60), fresh session high $4,212.60 topping the $4,193.80 high flagged at 09:21 IST, above VWAP, near day high. Silver $61.51 (+2.09% vs prev close $60.245), fresh session high $61.54 topping the $61.21 high flagged at 09:21 IST, above VWAP; demand zone $60.94-61.04 defended repeatedly beforehand. Both extending the soft-dollar, Fed Sept rate-cut-bet rally. Source: Yahoo Finance."
- },
- {
-  "headline": "Nifty, Sensex hold modest post-RBI gains while Bank Nifty softens further on the hawkish CPI revision",
-  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY",
-  "timestamp": "2026-08-05T11:18:00+05:30",
-  "gist": "Nifty +0.08% at 24,633.50 (day range 24,562.20-24,677.60), above VWAP, upper-mid range. Sensex +0.57% at 78,872.30, above VWAP, continuing to outpace Nifty/Bank Nifty as flagged since midday Aug 4. Bank Nifty -0.22% at 57,778.50 (day range 57,593.90-57,929.69), below VWAP, faded further from the -0.12% flagged at 10:16 IST as the RBI's hawkish CPI revision keeps weighing on financials. Source: NSE/BSE."
- },
- {
-  "headline": "WTI eases back to $74.77, still capped below Monday's close as Hormuz de-escalation and OPEC+ hike weigh",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-05T11:18:00+05:30",
-  "gist": "WTI $74.77 (-1.32% vs prev close $75.77), below VWAP $75.02, low 1/3 of day range $74.24-76.06 -- drifting back down after the modest bounce to $75.15 flagged at 10:16 IST. Qatar's draft Hormuz shipping proposal and OPEC+'s confirmed Sept output hike remain the dominant bearish drivers; no fresh number since the 09:21 IST multi-week-low flag. Source: Yahoo Finance."
- },
- {
-  "headline": "UPDATE: Nifty flips negative, Bank Nifty extends slide to fresh post-RBI low; Sensex the lone holdout",
-  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
-  "timestamp": "2026-08-05T12:20:00+05:30",
-  "gist": "Nifty -0.15% at 24,578.70 (range 24,561.50-24,677.60), below VWAP 24,605.19, erasing early post-RBI/crude-relief gains. Bank Nifty -0.39% at 57,683.10, fresh session low 57,593.90, below VWAP 57,783.38; demand 57,620-57,650 held twice. Sensex +0.23% at 78,605.66, below VWAP but still the lone index holding gains."
- },
- {
-  "headline": "UPDATE: Gold rips to a fresh session high $4,237.80 (+1.97%), Silver outpaces at fresh high $62.01 (+2.84%)",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-05T12:20:00+05:30",
-  "gist": "Gold $4,234.60 (+1.97%), fresh session high $4,237.80, above VWAP $4,214.74; demand 4,220-4,226 defended three times on the climb. Silver $61.95 (+2.84%), fresh high $62.01, above VWAP $61.55, extending the dollar-softness rally beyond the $61.54 high flagged at 11:18."
- },
- {
-  "headline": "Govt exercises LIC OFS green-shoe option after 3.32x institutional demand; retail bidding opens today",
-  "instrument": "LIC",
-  "timestamp": "2026-08-05T12:20:00+05:30",
-  "gist": "Government exercising the full green-shoe option in its LIC OFS (up to 6.5% stake) after the institutional portion was oversubscribed 3.32x on day one. Retail investors and eligible employees can bid today (Aug 5) at a floor price of Rs 382, effective Rs 373.10 after the retail discount. Source: BusinessToday/Upstox."
- },
- {
   "headline": "UPDATE: Sensex erases post-RBI gains, flips flat as Nifty, Bank Nifty extend slide to fresh session lows",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
   "timestamp": "2026-08-05T13:20:00+05:30",
@@ -126,9 +90,21 @@
   "gist": "Aug 5 cash market: DII net buy Rs3,185.58cr (Buy Rs17,497.69cr/Sell Rs14,312.11cr), FII net sell Rs1,109.35cr (Buy Rs14,656.78cr/Sell Rs15,766.13cr); Nifty closed Wed at 24,624.65 (+0.04%), Bank Nifty 57,739.95 (-0.29%). At today's 09:20 IST open: Nifty 24,633.60 (+0.04%), Bank Nifty 57,755.15 (+0.03%), Sensex 78,581.00 (+0.19%, feed thin at open as in prior first-of-day briefs) -- all broadly flat, near VWAP, tight range just after the open. Source: NSE/NiftyTrader/Yahoo Finance."
  },
  {
-  "headline": "Quiet run — no new market-moving news since 09:20 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 09:20 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-06T10:20:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty50 constituents, RBI/SEBI, FII/DII), crude (Iran Supreme Leader still has not signed off on Hormuz draft deal), nat gas (awaiting evening EIA storage report), or gold/silver (consolidating after ADP-driven overnight spike, awaiting evening jobless claims). Sent short text-only update: Nifty 24,620.10 (-0.02%), Bank Nifty 57,791.00 (+0.09%), Crude $74.71, Gold $4,319.80."
+ },
+ {
+  "headline": "UPDATE: Hormuz deal terms firm up, but Khamenei still hasn't signed off",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-06T12:20:00+05:30",
+  "gist": "New reports detail a 60-day dual-lane pact -- inbound traffic via a northern lane (Iranian waters), outbound via a southern lane (Omani waters), no tolls during the period. Iran's Supreme Leader reportedly hasn't been seen publicly since the war began, adding sign-off uncertainty beyond the Wed/Thu timeline flagged in yesterday's 18:10 IST brief. WTI $75.54 (+0.43% vs prev close $75.22), above VWAP $74.94, near day highs $75.63, bouncing off the $74.98 low flagged at 09:20 IST. Source: CNBC/Axios."
+ },
+ {
+  "headline": "Nifty, Sensex, Bank Nifty all extend gains on broad-based buying; IT/Pharma outperform, Realty/Auto lag",
+  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY",
+  "timestamp": "2026-08-06T12:20:00+05:30",
+  "gist": "Nifty +0.09% at 24,646.45, above VWAP 24,641.28, upper-mid range. Sensex +0.32% at 78,834.27, above VWAP, upper range, tracking Nifty. Bank Nifty leads with +0.37% at 57,953.50, above VWAP 57,864.15, near day highs 57,985.05. Broad-based buying with IT and Pharma sectors outperforming, Realty and Auto lagging; no single discrete catalyst identified for the move. Source: NSE/BSE/Yahoo Finance."
  }
 ]
