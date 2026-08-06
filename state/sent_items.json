@@ -1,23 +1,5 @@
 [
  {
-  "headline": "UPDATE: Gold, Silver rip to fresh session highs ($4,212.60 / $61.54) as the dollar stays soft",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-05T11:18:00+05:30",
-  "gist": "Gold $4,210.60 (+1.40% vs prev close $4,152.60), fresh session high $4,212.60 topping the $4,193.80 high flagged at 09:21 IST, above VWAP, near day high. Silver $61.51 (+2.09% vs prev close $60.245), fresh session high $61.54 topping the $61.21 high flagged at 09:21 IST, above VWAP; demand zone $60.94-61.04 defended repeatedly beforehand. Both extending the soft-dollar, Fed Sept rate-cut-bet rally. Source: Yahoo Finance."
- },
- {
-  "headline": "Nifty, Sensex hold modest post-RBI gains while Bank Nifty softens further on the hawkish CPI revision",
-  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY",
-  "timestamp": "2026-08-05T11:18:00+05:30",
-  "gist": "Nifty +0.08% at 24,633.50 (day range 24,562.20-24,677.60), above VWAP, upper-mid range. Sensex +0.57% at 78,872.30, above VWAP, continuing to outpace Nifty/Bank Nifty as flagged since midday Aug 4. Bank Nifty -0.22% at 57,778.50 (day range 57,593.90-57,929.69), below VWAP, faded further from the -0.12% flagged at 10:16 IST as the RBI's hawkish CPI revision keeps weighing on financials. Source: NSE/BSE."
- },
- {
-  "headline": "WTI eases back to $74.77, still capped below Monday's close as Hormuz de-escalation and OPEC+ hike weigh",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-05T11:18:00+05:30",
-  "gist": "WTI $74.77 (-1.32% vs prev close $75.77), below VWAP $75.02, low 1/3 of day range $74.24-76.06 -- drifting back down after the modest bounce to $75.15 flagged at 10:16 IST. Qatar's draft Hormuz shipping proposal and OPEC+'s confirmed Sept output hike remain the dominant bearish drivers; no fresh number since the 09:21 IST multi-week-low flag. Source: Yahoo Finance."
- },
- {
   "headline": "UPDATE: Nifty flips negative, Bank Nifty extends slide to fresh post-RBI low; Sensex the lone holdout",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
   "timestamp": "2026-08-05T12:20:00+05:30",
@@ -126,9 +108,39 @@
   "gist": "Aug 5 cash market: DII net buy Rs3,185.58cr (Buy Rs17,497.69cr/Sell Rs14,312.11cr), FII net sell Rs1,109.35cr (Buy Rs14,656.78cr/Sell Rs15,766.13cr); Nifty closed Wed at 24,624.65 (+0.04%), Bank Nifty 57,739.95 (-0.29%). At today's 09:20 IST open: Nifty 24,633.60 (+0.04%), Bank Nifty 57,755.15 (+0.03%), Sensex 78,581.00 (+0.19%, feed thin at open as in prior first-of-day briefs) -- all broadly flat, near VWAP, tight range just after the open. Source: NSE/NiftyTrader/Yahoo Finance."
  },
  {
-  "headline": "Quiet run — no new market-moving news since 09:20 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 09:20 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-06T10:20:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty50 constituents, RBI/SEBI, FII/DII), crude (Iran Supreme Leader still has not signed off on Hormuz draft deal), nat gas (awaiting evening EIA storage report), or gold/silver (consolidating after ADP-driven overnight spike, awaiting evening jobless claims). Sent short text-only update: Nifty 24,620.10 (-0.02%), Bank Nifty 57,791.00 (+0.09%), Crude $74.71, Gold $4,319.80."
+ },
+ {
+  "headline": "Bharti Airtel Q1 profit jumps 37% to Rs 8,167cr; signals room to hike unlimited-data tariffs",
+  "instrument": "BHARTI AIRTEL / NIFTY 50",
+  "timestamp": "2026-08-06T11:20:00+05:30",
+  "gist": "Bharti Airtel Q1 PAT +37.3% YoY to Rs 8,167cr on strong India/Africa growth. EVC Gopal Vittal flagged 'tariff repair' potential -- room to raise tariffs on plans offering unlimited data at low price points, citing capped ARPU architecture. Source: Business Standard."
+ },
+ {
+  "headline": "PB Fintech (PolicyBazaar) Q1 net profit +92% YoY to Rs 163cr, revenue +40.1% YoY to Rs 1,888cr",
+  "instrument": "PB FINTECH",
+  "timestamp": "2026-08-06T11:20:00+05:30",
+  "gist": "PB Fintech Q1 FY27 consolidated net profit rose 92% YoY to Rs 163cr, revenue from operations up 40.1% YoY to Rs 1,888.28cr. Source: Business Standard."
+ },
+ {
+  "headline": "Nifty IT extends slide -- Mphasis, HCLTech, TCS top losers as the global chip-selloff spills into Indian IT",
+  "instrument": "NIFTY IT / TCS / HCLTECH / MPHASIS",
+  "timestamp": "2026-08-06T11:20:00+05:30",
+  "gist": "Nifty IT index under pressure with Mphasis, HCLTech and TCS the top losers in the index, as the SanDisk-led global chip-stock selloff flagged in the 09:20 IST brief (Wall St/Asia) spills into Indian IT majors today. Source: India TV News."
+ },
+ {
+  "headline": "Juniper Green Energy lists at ~9% premium (Rs 245 vs Rs 225 issue price), meeting GMP estimates",
+  "instrument": "JUNIPER GREEN ENERGY / IPO",
+  "timestamp": "2026-08-06T11:20:00+05:30",
+  "gist": "Juniper Green Energy shares listed at Rs 245 on NSE (+8.9%) and Rs 242 on BSE over the Rs 225 issue price, in line with grey-market premium estimates; the Rs 1,800cr fresh-issue IPO was subscribed 7.97x. Source: Business Standard/Upstox."
+ },
+ {
+  "headline": "Nifty, Bank Nifty, Sensex tick higher at 11:20 IST; Bank Nifty leads, upper-third of day range",
+  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX",
+  "timestamp": "2026-08-06T11:20:00+05:30",
+  "gist": "Nifty +0.12% at 24,654.55 (range 24,604.15-24,665.05), above VWAP 24,636.20, upper-third of range -- Airtel/RIL support offsetting Nifty IT drag. Bank Nifty +0.28% at 57,901.60, above VWAP, upper-third of range. Sensex +0.17% at 78,711.95, near VWAP, tracking Nifty. Crude WTI $74.95 (-0.36%), Gold $4,317.00 (+0.27%, fading from overnight ATH $4,363.70), Silver $62.08 (-0.33%). Source: Yahoo Finance/NSE/BSE."
  }
 ]
