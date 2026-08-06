@@ -1,53 +1,5 @@
 [
  {
-  "headline": "GIFT Nifty up 190pts eyeing gap-up as Wall St hits records, Asia surges on Hormuz hopes; RBI verdict due 10am",
-  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY / GLOBAL MARKETS",
-  "timestamp": "2026-08-05T09:21:00+05:30",
-  "gist": "First brief of the day (overnight/premarket). GIFT Nifty +0.76% at 24,743 signals a gap-up open. Wall St closed at fresh records Tue (S&P 500 +1.79% to 7,737, Dow +1.71% above 54,000 first time ever, Nasdaq +2.59% to 26,584.99) on Hormuz-deal hopes and AI-earnings strength. Asia followed through hard: Nikkei +2.66%, Kospi +4.51% (SK Hynix +7%, Samsung +4%, SoftBank +9%). Cash Nifty opened ~24,636-24,678 (+0.09%), faded from the opening high, below VWAP, lower-half of range \u2014 chop risk into RBI. Bank Nifty 57,878 (-0.05%), above VWAP, near session high. Sensex feed still delayed on Yahoo at open (last live print 78,428.95, Tue's close) \u2014 same issue as yesterday's first brief. RBI's 3-day MPC concludes today; Gov. Malhotra announces verdict 10am IST, presser 12pm; consensus (Business Standard poll) sees repo rate held at 5.25% for a 4th straight meeting."
- },
- {
-  "headline": "UPDATE: Bharti Airtel Q1 FY27 net profit jumps 37.3% YoY to \u20b98,167cr, revenue +18.4% to \u20b958,539cr, beats estimates",
-  "instrument": "BHARTI AIRTEL",
-  "timestamp": "2026-08-05T09:21:00+05:30",
-  "gist": "Results now out (flagged as pending in yesterday's 09:24 IST brief). Bharti Airtel (Nifty's #2 weight, ~6.2%) posted Q1 FY27 consolidated net profit of \u20b98,167.4cr (+37.3% YoY vs \u20b95,947.9cr), revenue \u20b958,539cr (+18.4% YoY), EBITDA margin 57.4%. India ARPU rose to \u20b9264 from \u20b9250 YoY on strong subscriber additions (+14.9mn to 681mn base). Stock closed Tue at \u20b91,970.1 (day range \u20b91,936-1,980); insider trading window stays closed until Aug 6. Source: Business Standard/Upstox."
- },
- {
-  "headline": "UPDATE: WTI extends slide to fresh multi-week low $74.24, below yesterday's $75.16 low, as Qatar drafts interim Hormuz proposal",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-05T09:21:00+05:30",
-  "gist": "WTI $74.47-74.75 (-1.72% vs prev close $75.77), fresh session low $74.24 breaking below the $75.16 low flagged in yesterday's 23:02 IST brief, below VWAP $75.70. Qatar-mediated talks produced a draft interim proposal on reopening Strait of Hormuz shipping; both Washington and Tehran signalled progress overnight, extending oil's >10% two-day decline. Demand zone $75.10-75.40 (held ~5hrs) broken on the way down. Source: Bloomberg."
- },
- {
-  "headline": "UPDATE: Gold, Silver rip to fresh highs ($4,193.8 / $61.21) as dollar softens on firming Fed September rate-cut bets",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-05T09:21:00+05:30",
-  "gist": "Gold $4,186.40 (+0.81% vs prev close $4,152.60), fresh session high $4,193.80, above VWAP, near session high. Silver $61.02 (+1.29% vs prev close $60.245), fresh session high $61.21 (topping the $60.29 high flagged at 23:02 IST yesterday), above VWAP $60.19, breaking the $60.00-60.15 resistance that had capped it for hours; demand zone $59.65-59.90 held repeatedly beforehand. NY Fed's Williams said inflation still on a gradual path lower but Fed would hike if pressures persist; markets nonetheless pared Fed hike bets and leaned into a softer-dollar, rate-cut-friendly tape overnight. Nat gas flat at $2.698 (+0.56%), no fresh driver, same cooler-weather/ample-storage theme as before. Source: Business Standard/CNBC."
- },
- {
-  "headline": "RBI MPC unanimously holds repo rate at 5.25% for 4th straight meeting, retains neutral stance",
-  "instrument": "RBI / NIFTY 50 / BANK NIFTY",
-  "timestamp": "2026-08-05T10:16:00+05:30",
-  "gist": "RBI Governor Malhotra announced the MPC decision at 10am: repo rate held unchanged at 5.25% (4th consecutive pause), neutral stance retained. RBI cut FY27 GDP growth forecast to 6.6% (from 6.9% in April) and raised FY27 CPI inflation forecast to 5.1% (from 4.6%) on higher energy pass-through. Decision was in line with consensus."
- },
- {
-  "headline": "10Y G-sec yield jumps 8bps to 6.74% on RBI's hawkish inflation revision; Bank Nifty pares gains",
-  "instrument": "BANK NIFTY / BONDS",
-  "timestamp": "2026-08-05T10:16:00+05:30",
-  "gist": "India's 10Y government bond yield rose 8bps from 6.65% to 6.74% immediately after the RBI verdict, reflecting the hawkish read from the raised FY27 CPI forecast (5.1%) and cut GDP forecast (6.6%). Bank Nifty -0.12% at 57,836.8 (day range 57,654.7-57,929.7), below VWAP 57,867.2, upper-half of range; demand held twice at 57,835-57,850, supply capped 57,895-57,920. Nifty -0.03% at 24,608.6, below VWAP, lower-third of range. Sensex +0.45% at 78,784.2, still outperforming Nifty/Bank Nifty as in prior briefs."
- },
- {
-  "headline": "WTI holds near $75, extending 10%+ weekly slide as Qatar's draft Hormuz proposal fuels de-escalation hopes",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-05T10:16:00+05:30",
-  "gist": "WTI $75.15 (-0.82% vs prev close $75.77), day range $74.50-75.21, above VWAP $74.91, near day highs -- a modest bounce off the sub-$74.24 multi-week low flagged in the 09:21 IST brief. Qatar's draft interim proposal on reopening the Strait of Hormuz continues to cap upside; Bessent said a deal could land 'today or tomorrow'."
- },
- {
-  "headline": "Gold, Silver ease off overnight highs but hold strong gains on soft dollar, Fed rate-cut bets",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-05T10:16:00+05:30",
-  "gist": "Gold $4,192.10 (+0.95% vs prev close $4,152.60), below VWAP $4,195.27, off the $4,193.80 session high flagged at 09:21 IST. Silver $61.02 (+1.28% vs prev close $60.245), below VWAP $61.08, pulled back from the $61.21 fresh high flagged at 09:21 IST. Both still firm on soft-dollar, Fed-rate-cut positioning; no new catalyst since last brief. Nat gas flat at $2.70 (+0.75%), tight range, no fresh driver."
- },
- {
   "headline": "UPDATE: Gold, Silver rip to fresh session highs ($4,212.60 / $61.54) as the dollar stays soft",
   "instrument": "GOLD / SILVER",
   "timestamp": "2026-08-05T11:18:00+05:30",
@@ -172,5 +124,11 @@
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / FII-DII",
   "timestamp": "2026-08-06T09:20:00+05:30",
   "gist": "Aug 5 cash market: DII net buy Rs3,185.58cr (Buy Rs17,497.69cr/Sell Rs14,312.11cr), FII net sell Rs1,109.35cr (Buy Rs14,656.78cr/Sell Rs15,766.13cr); Nifty closed Wed at 24,624.65 (+0.04%), Bank Nifty 57,739.95 (-0.29%). At today's 09:20 IST open: Nifty 24,633.60 (+0.04%), Bank Nifty 57,755.15 (+0.03%), Sensex 78,581.00 (+0.19%, feed thin at open as in prior first-of-day briefs) -- all broadly flat, near VWAP, tight range just after the open. Source: NSE/NiftyTrader/Yahoo Finance."
+ },
+ {
+  "headline": "Quiet run — no new market-moving news since 09:20 IST brief",
+  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
+  "timestamp": "2026-08-06T10:20:00+05:30",
+  "gist": "No genuinely new material news across equities (Nifty50 constituents, RBI/SEBI, FII/DII), crude (Iran Supreme Leader still has not signed off on Hormuz draft deal), nat gas (awaiting evening EIA storage report), or gold/silver (consolidating after ADP-driven overnight spike, awaiting evening jobless claims). Sent short text-only update: Nifty 24,620.10 (-0.02%), Bank Nifty 57,791.00 (+0.09%), Crude $74.71, Gold $4,319.80."
  }
 ]
