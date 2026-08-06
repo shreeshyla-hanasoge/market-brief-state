@@ -1,23 +1,5 @@
 [
  {
-  "headline": "UPDATE: Gold, Silver rip to fresh session highs ($4,271.1 / $62.735) on soft dollar, Fed rate-cut bets",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-05T18:10:00+05:30",
-  "gist": "Gold $4,268.20 (+2.78% vs prev close $4,152.60), fresh session high $4,271.10 topping the $4,237.80 high flagged at 12:20 IST, above VWAP $4,228.77; demand 4,211-4,217 defended, supply 4,233-4,237 broken on the move up. Silver $62.69 (+4.06%), fresh session high $62.735 topping the $62.01 high flagged at 12:20 IST, above VWAP $61.89, breaking the 61.78-61.88 supply zone that had capped it for hours; demand 61.68-61.74 held repeatedly beforehand. Soft dollar and firming Fed Sept rate-cut bets remain the drivers."
- },
- {
-  "headline": "UPDATE: WTI bounces to fresh day high $76.70, eases to $76.06 as Trump sees Hormuz deal Wed/Thu, CENTCOM says southern route already open",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-05T18:10:00+05:30",
-  "gist": "WTI $76.06 (+0.38% vs prev close $75.77), fresh session high $76.70 before easing back, above VWAP $75.94, upper-half of day range $74.24-76.70. Demand 75.79-76.30 defended repeatedly, supply 76.51-76.66 capping the latest push higher. Trump said a Hormuz deal could be reached Wednesday or Thursday after 'very good' Iran talks; CENTCOM said the strait's southern route (via Omani waters) remains free and open. Move framed as an oversold technical bounce against the still-bearish Hormuz de-escalation/OPEC+ Sept hike backdrop that drove oil's >10% weekly slide."
- },
- {
-  "headline": "Nat gas holds flat near $2.67 (-0.30%), no fresh catalyst",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-08-05T18:10:00+05:30",
-  "gist": "Nat gas $2.674 (-0.30% vs prev close $2.682), day range $2.668-2.708, below VWAP -- still capped by ample storage (~6.6% above 5-yr avg) and a cooler-weather demand outlook already flagged in prior briefs; no new driver since."
- },
- {
   "headline": "Wall St hits fresh records (Dow's 5th straight) but Nasdaq -0.83% dips on SanDisk's weak FY27 guide sparking chip jitters",
   "instrument": "GLOBAL MARKETS / NIFTY 50",
   "timestamp": "2026-08-06T09:20:00+05:30",
@@ -82,5 +64,23 @@
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-06T15:17:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty50 constituents -- LIC/Trent/Britannia/Hero MotoCorp/Motherson Q1 results scheduled today but not yet announced; FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off, same core story as 12:20 IST brief), nat gas (weekly EIA storage report not yet out, due later today), or gold/silver (consolidating, still tracking Fed Sept rate-cut bets/soft dollar flagged since 09:20 IST). Nifty PSU Bank sector strength (SBI, Union Bank, Bank of India +0.3-0.9%) noted but no discrete fresh catalyst. Sent short text-only update: Nifty 24,627.95 (+0.01%), Bank Nifty 58,007.95 (+0.46%), Sensex 78,806.36 (+0.29%), Crude $75.32, Gold $4,336.90."
+ },
+ {
+  "headline": "UPDATE: WTI bounces to $76.23 (+1.34%), fresh high $76.33, as Khamenei sign-off pending, Trump's Aug 4 warning looms",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-06T18:14:00+05:30",
+  "gist": "WTI $76.23 (+1.34% vs prev close $75.22), fresh session high $76.33, above VWAP $75.50, upper 1/3 of day range $74.57-76.33. Demand 74.60-74.90 defended repeatedly through the early session, supply 75.45-75.80 capped price for ~4 hours before the late breakout. Iran's Khamenei still hasn't signed off the Iran-Oman Hormuz shipping-corridor draft; Trump's Aug 4 'open soon or get hit hard' ultimatum continues to frame the risk premium -- same core story as the 12:20/13:20 IST briefs, now with a clearer bounce. Source: CNBC/Axios."
+ },
+ {
+  "headline": "UPDATE: Gold, Silver ease off fresh records ($4,363.70 / $63.32) on profit-taking, still Fed-cut supported",
+  "instrument": "GOLD / SILVER",
+  "timestamp": "2026-08-06T18:14:00+05:30",
+  "gist": "Gold $4,326.50 (+0.49% vs prev close $4,305.20), below VWAP $4,332.41, lower half of day range $4,304.90-4,363.70. Silver $62.03 (-0.41% vs prev close $62.288), below VWAP $62.29, lower 1/3 of day range $61.72-63.32; reversed hard off the $63.32 record (topping yesterday's $62.735 high) with supply 62.55-62.70 now capping bounces and demand 61.75-62.00 defended repeatedly. Profit-taking after the records, but Fed Sept rate-cut bets from Wednesday's weak 44k ADP print still underpin the bid. Source: Bloomberg/CNBC."
+ },
+ {
+  "headline": "Nat gas flat near $2.67 (-0.71%), no fresh catalyst, EIA storage due ~20:00 IST",
+  "instrument": "NAT GAS",
+  "timestamp": "2026-08-06T18:14:00+05:30",
+  "gist": "Nat gas $2.669 (-0.71% vs prev close $2.688), day range $2.642-2.702, near VWAP $2.667 -- no new driver; weekly EIA storage report due later tonight. Source: EIA."
  }
 ]
