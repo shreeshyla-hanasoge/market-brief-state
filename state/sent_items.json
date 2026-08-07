@@ -1,23 +1,5 @@
 [
  {
-  "headline": "UPDATE: WTI extends to fresh day highs $77.19 (+2.06%), Khamenei still hasn't signed the Hormuz reopening pact",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-06T21:08:00+05:30",
-  "gist": "WTI $76.77 (+2.06% vs prev close $75.22), fresh session high $77.19, above VWAP $76.00, upper third of day range $74.57-77.19. Demand 74.60-74.90 defended repeatedly early session; supply 75.85-75.95 capped price for hours before the late breakout higher. Iran's Khamenei still hasn't signed off the Iran-Oman Hormuz draft pact; Trump's ultimatum continues to frame the risk premium -- same core story as the 18:14 IST brief, now with a clear extension to new highs. Source: CNBC/Axios."
- },
- {
-  "headline": "Nat gas -1.6% as EIA reports bigger-than-expected 33 Bcf storage build to 3,117 Bcf",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-08-06T21:08:00+05:30",
-  "gist": "Nat gas $2.645 (-1.6% vs prev close $2.688), day range $2.616-2.702, below VWAP $2.651, lower half of range. Weekly EIA storage report (released ~20:00 IST) showed a 33 Bcf build to 3,117 Bcf, slightly above the ~31 Bcf expected and extending the supply surplus versus the 5-year average -- the first storage print since the 18:14 IST brief flagged it as pending. Source: EIA."
- },
- {
-  "headline": "UPDATE: Gold, Silver extend pullback from records as jobless claims beat estimates, tempering Fed-cut bets",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-06T21:08:00+05:30",
-  "gist": "Gold $4,315.00 (+0.23% vs prev close $4,305.20), below VWAP $4,320.89, mid-range $4,288.40-4,344.20 -- consolidating further below the $4,363.70 record. Silver $61.675 (-0.98% vs prev close $62.288), below VWAP $61.88, lower half of range $61.285-62.485, giving back more ground from the $63.32 record. US initial jobless claims came in at 199k vs ~202k expected, a modestly firmer labor print that tempers the dovish Fed-Sept-cut narrative built on Wednesday's weak 44k ADP print; 10-yr Treasury yield eased to ~4.6% (3rd straight decline) on Hormuz-deal optimism easing inflation-risk pricing. Source: CNBC/DOL."
- },
- {
   "headline": "UPDATE: WTI rips to fresh highs $78.15 (+3.51%), clearing 75.85-75.95 supply zone; Khamenei still hasn't signed Hormuz pact",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-06T23:05:00+05:30",
@@ -72,13 +54,13 @@
   "gist": "Gold $4,325.60 (+0.60% vs Thu close $4,299.60), above VWAP $4,324.87, near day highs $4,288.00-4,328.40. Silver $62.53 (+1.50% vs Thu close $61.606), at VWAP $62.55, near day highs $61.42-62.65. Both extending the rally flagged at 09:23 IST, now with the fresh Hormuz military escalation (Qeshm Island strikes) adding safe-haven demand on top of the existing Fed Sept rate-cut narrative. Source: CNBC."
  },
  {
-  "headline": "Quiet run \u2014 no new market-moving news since 10:50 IST brief",
+  "headline": "Quiet run — no new market-moving news since 10:50 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / CRUDE / GOLD",
   "timestamp": "2026-08-07T11:15:00+05:30",
   "gist": "No genuinely new material news across equities (drifting lower within the already-flagged oil-driven risk-off, no fresh discrete catalyst; FII/DII flows for today not yet published), crude (WTI/Brent flat to slightly softer vs the 10:50 IST brief -- Iran-Hormuz strike story unchanged, no fresh escalation or de-escalation), nat gas (no catalyst), or gold/silver (incremental gains continuing the same Fed Sept rate-cut/Hormuz safe-haven narrative flagged since 09:23 IST). Sent short text-only update: Nifty 24,564.80 (-0.29%), Bank Nifty 57,809.55 (-0.44%), Sensex 78,532.23 (-0.53%), Crude $78.27, Gold $4,336.00."
  },
  {
-  "headline": "Quiet run \u2014 no new market-moving news since 11:15 IST brief",
+  "headline": "Quiet run — no new market-moving news since 11:15 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / CRUDE / GOLD",
   "timestamp": "2026-08-07T12:20:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty/Sensex/Bank Nifty continuing to drift lower within the already-flagged oil-driven risk-off and financials drag, no fresh discrete catalyst; SBI and Titan Q1 FY27 results scheduled today but board meetings still pending, not yet announced; FII/DII flows for today not yet published), crude (WTI/Brent flat to slightly softer vs the 10:50 IST brief -- Iran-Hormuz Qeshm Island strike story and Iran-Oman draft-plan standoff unchanged, no fresh escalation or de-escalation), nat gas (no catalyst), or gold/silver (extending the same Fed Sept rate-cut/Hormuz safe-haven narrative flagged since 09:23 IST). Sent short text-only update: Nifty 24,533.75 (-0.41%), Bank Nifty 57,710.90 (-0.61%), Sensex 78,509.24 (-0.56%), Crude $77.80, Gold $4,350.00."
@@ -126,7 +108,7 @@
   "gist": "Gold $4,365.30 (+1.53% vs Thu close $4,299.60), fresh session/record high $4,375.90, decisively topping Wed's $4,363.70 record flagged in prior briefs -- above VWAP $4,345.36, upper part of range. Demand 4,322-4,327 (early session) and 4,344-4,351 (pre-breakout) both defended repeatedly. Same Fed Sept rate-cut bets and Hormuz safe-haven flows driving both metals together. Source: CNBC/Bloomberg."
  },
  {
-  "headline": "Quiet run \u2014 no new market-moving news since 14:21 IST brief",
+  "headline": "Quiet run — no new market-moving news since 14:21 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / CRUDE / GOLD",
   "timestamp": "2026-08-07T15:17:31+05:30",
   "gist": "No genuinely new material news across equities (Nifty/Sensex/Bank Nifty easing further within the already-flagged oil-driven risk-off, SBI NIM-miss drag, and RBI NBFC-draft-norms hit to Bajaj Finance/Bajaj Finserv; Titan Q1 FY27 results still pending -- board meeting scheduled today, earnings call at 18:00 IST, not yet announced; FII/DII flows for today not yet published), crude (WTI/Brent flat vs the 13:20/14:21 IST briefs -- Iran-Oman Hormuz draft-deal talks and Qeshm Island strike standoff unchanged, no fresh escalation or de-escalation), nat gas (no catalyst), or gold/silver (holding just under/at today's fresh records set at the 14:21 IST brief, same Fed Sept rate-cut/Hormuz safe-haven narrative). Sent short text-only update: Nifty 24,557.00 (-0.32%), Bank Nifty 57,801.15 (-0.45%), Sensex 78,437.77 (-0.65%), Crude $77.37, Gold $4,365.00."
@@ -172,5 +154,11 @@
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-07T21:05:00+05:30",
   "gist": "WTI $78.09 (+1.03% vs Thu close $77.29), above VWAP $77.44, upper-third of day range $76.53-78.77. Iran-Oman transit-route talks remain stuck on the fee dispute -- Iran wants 5-7%, Oman proposes 3%, US categorically opposed to any fee -- same core standoff as prior briefs, no fresh escalation or resolution since the 18:16 IST update. Nat gas flat near $2.672 (+1.21%), no fresh catalyst beyond Thursday's EIA storage build already covered. Source: Reuters/TASS."
+ },
+ {
+  "headline": "Quiet run — no new market-moving news since 21:05 IST brief",
+  "instrument": "CRUDE / NAT GAS / GOLD / SILVER",
+  "timestamp": "2026-08-07T23:04:00+05:30",
+  "gist": "No genuinely new material news across crude (WTI $78.06, +1.00% vs Thu close $77.29, still within the already-flagged $76.53-78.77 range; Iran-Oman Hormuz deal still stuck on the fee dispute, no signing confirmed), nat gas (no catalyst, $2.672 vs prev close $2.64), or gold/silver (Gold $4,397.60, below the already-flagged $4,432.30 record; Silver $63.49, consistent with the already-described profit-taking pullback from the $65.48 record spike -- same Fed Sept rate-cut/NFP-miss narrative flagged since the 21:05 IST brief). Sent short text-only update: Crude $78.06 (+1.00%), NatGas $2.672, Gold $4,397.60, Silver $63.49."
  }
 ]
