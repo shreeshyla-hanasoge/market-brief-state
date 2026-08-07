@@ -1,11 +1,5 @@
 [
  {
-  "headline": "Quiet run \u2014 no new market-moving news since 09:20 IST brief",
-  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
-  "timestamp": "2026-08-06T10:20:00+05:30",
-  "gist": "No genuinely new material news across equities (Nifty50 constituents, RBI/SEBI, FII/DII), crude (Iran Supreme Leader still has not signed off on Hormuz draft deal), nat gas (awaiting evening EIA storage report), or gold/silver (consolidating after ADP-driven overnight spike, awaiting evening jobless claims). Sent short text-only update: Nifty 24,620.10 (-0.02%), Bank Nifty 57,791.00 (+0.09%), Crude $74.71, Gold $4,319.80."
- },
- {
   "headline": "UPDATE: Hormuz deal terms firm up, but Khamenei still hasn't signed off",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-06T12:20:00+05:30",
@@ -106,5 +100,23 @@
   "instrument": "GOLD / SILVER",
   "timestamp": "2026-08-07T09:23:00+05:30",
   "gist": "Gold $4,319.20 (+0.46% vs Thu close $4,299.60), near day highs $4,288.00-4,320.80, still below Wed's $4,363.70 record. Silver $62.485 (+1.43% vs Thu close $61.606), near day highs $61.42-62.575, outpacing gold, still below Wed's $63.32 record. Both continuing to track Wed's soft 44k ADP jobs print and Fed Sept rate-cut bets; same core driver as prior briefs, now extending higher into Friday's pre-market. Source: CNBC/Bloomberg."
+ },
+ {
+  "headline": "UPDATE: Iran strikes 'hostile targets' near Hormuz after Qeshm Island blasts; Brent tops $83, WTI $78.35",
+  "instrument": "CRUDE (WTI) / BRENT",
+  "timestamp": "2026-08-07T10:50:00+05:30",
+  "gist": "WTI $78.35 (+1.37% vs Thu close $77.29), above VWAP $78.32, upper-mid day range $77.73-78.77. Escalation beyond the 09:23 IST brief's 'draft plan/US rejection' story: explosions rocked Qeshm Island near the Strait of Hormuz entrance late Thursday, and Iranian forces reportedly struck 'hostile targets' in response. Brent extended to above $83, building on Thursday's settle of $82.49. Turkey's Erdogan heads to Saudi Arabia and Pakistan is mediating as diplomacy races to defuse the standoff paralysing shipping through the strait. Source: Bloomberg/Gulf News."
+ },
+ {
+  "headline": "Nifty, Sensex, Bank Nifty open lower, confirming GIFT Nifty's negative signal on oil-driven Asia risk-off",
+  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY",
+  "timestamp": "2026-08-07T10:50:00+05:30",
+  "gist": "Nifty 24,591.85 (-0.18% vs Thu close 24,636.00), below pseudo-VWAP 24,607.28, recovering off the session low of 24,529.20. Sensex 78,700.10 (-0.32%), near VWAP, upper part of day range 78,451.99-78,757.40, tracking Nifty. Bank Nifty 57,908.10 (-0.27%), at VWAP, upper 2/3 of range 57,794.70-57,964.20. Confirms the negative open flagged via GIFT Nifty at 09:23 IST; Nikkei -1.3%, Kospi -1.7% on the same oil-driven risk-off. No new discrete equity catalyst beyond the Hormuz escalation. Source: Business Standard/Yahoo Finance."
+ },
+ {
+  "headline": "UPDATE: Gold, Silver extend gains as Hormuz escalation lifts safe-haven bids, Fed Sept rate-cut bets still supportive",
+  "instrument": "GOLD / SILVER",
+  "timestamp": "2026-08-07T10:50:00+05:30",
+  "gist": "Gold $4,325.60 (+0.60% vs Thu close $4,299.60), above VWAP $4,324.87, near day highs $4,288.00-4,328.40. Silver $62.53 (+1.50% vs Thu close $61.606), at VWAP $62.55, near day highs $61.42-62.65. Both extending the rally flagged at 09:23 IST, now with the fresh Hormuz military escalation (Qeshm Island strikes) adding safe-haven demand on top of the existing Fed Sept rate-cut narrative. Source: CNBC."
  }
 ]
