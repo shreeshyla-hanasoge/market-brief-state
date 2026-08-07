@@ -154,5 +154,23 @@
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-07T18:16:00+05:30",
   "gist": "WTI $77.05 (-0.31% vs Thu close $77.29), below VWAP $77.65, lower third of day range $76.58-78.77 -- giving back part of the Qeshm Island strike premium flagged at the 10:50/13:20 IST briefs. Iran and Oman are reportedly negotiating a Strait of Hormuz reopening deal, though a dispute over transit fees (Iran wants 5-7% of cargo value, Oman proposes ~3%, the US wants none) remains an unresolved snag; US sanctions/insurance restrictions reportedly complicate the framework further. Supply 77.90-78.20 capped price repeatedly. NFP-driven dollar weakness offers a partial floor. Source: Reuters/CNBC."
+ },
+ {
+  "headline": "UPDATE: Gold extends to fresh record $4,432.30 post-NFP, holds near $4,417 in upper range",
+  "instrument": "GOLD",
+  "timestamp": "2026-08-07T21:05:00+05:30",
+  "gist": "Gold $4,416.90 (+2.73% vs Thu close $4,299.60), fresh session/all-time record $4,432.30 set ~18:15 IST (above the $4,395 print flagged in the 18:16 IST brief), above VWAP $4,388.77, upper range of $4,288.00-4,432.30. Supply 4,425-4,432 rejected repeatedly; demand 4,400-4,410 defended 3x since the NFP-driven spike. Driven by the -23K July NFP shock and Fed Sept rate-cut odds surging to ~90%; still extending the record vs the same core driver flagged earlier. Source: Yahoo Finance."
+ },
+ {
+  "headline": "UPDATE: Silver spikes to fresh record $65.48, gives back over half the move on profit-taking to ~$63.90",
+  "instrument": "SILVER",
+  "timestamp": "2026-08-07T21:05:00+05:30",
+  "gist": "Silver $63.92 (+3.76% vs Thu close $61.606), fresh session/all-time record $65.48 set ~18:00 IST (above the $64.745 record flagged in the 18:16 IST brief), then reversed sharply -2.4% off the high on profit-taking, now below VWAP $64.23. Demand 63.60-63.85 defended 3x post-pullback; supply 64.50-64.64 capping bounce attempts. Same NFP/Fed-cut driver as gold, but with a much sharper round-trip -- material update on the reversal pattern vs the prior brief. Source: Yahoo Finance."
+ },
+ {
+  "headline": "Iran-Oman Hormuz deal still stuck on fee dispute; WTI range-bound $76.53-78.77",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-07T21:05:00+05:30",
+  "gist": "WTI $78.09 (+1.03% vs Thu close $77.29), above VWAP $77.44, upper-third of day range $76.53-78.77. Iran-Oman transit-route talks remain stuck on the fee dispute -- Iran wants 5-7%, Oman proposes 3%, US categorically opposed to any fee -- same core standoff as prior briefs, no fresh escalation or resolution since the 18:16 IST update. Nat gas flat near $2.672 (+1.21%), no fresh catalyst beyond Thursday's EIA storage build already covered. Source: Reuters/TASS."
  }
 ]
