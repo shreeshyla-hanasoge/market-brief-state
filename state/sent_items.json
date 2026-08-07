@@ -1,11 +1,5 @@
 [
  {
-  "headline": "Quiet run \u2014 no new market-moving news since 14:15 IST brief",
-  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
-  "timestamp": "2026-08-06T15:17:00+05:30",
-  "gist": "No genuinely new material news across equities (Nifty50 constituents -- LIC/Trent/Britannia/Hero MotoCorp/Motherson Q1 results scheduled today but not yet announced; FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off, same core story as 12:20 IST brief), nat gas (weekly EIA storage report not yet out, due later today), or gold/silver (consolidating, still tracking Fed Sept rate-cut bets/soft dollar flagged since 09:20 IST). Nifty PSU Bank sector strength (SBI, Union Bank, Bank of India +0.3-0.9%) noted but no discrete fresh catalyst. Sent short text-only update: Nifty 24,627.95 (+0.01%), Bank Nifty 58,007.95 (+0.46%), Sensex 78,806.36 (+0.29%), Crude $75.32, Gold $4,336.90."
- },
- {
   "headline": "UPDATE: WTI bounces to $76.23 (+1.34%), fresh high $76.33, as Khamenei sign-off pending, Trump's Aug 4 warning looms",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-06T18:14:00+05:30",
@@ -148,5 +142,11 @@
   "instrument": "GOLD",
   "timestamp": "2026-08-07T14:21:00+05:30",
   "gist": "Gold $4,365.30 (+1.53% vs Thu close $4,299.60), fresh session/record high $4,375.90, decisively topping Wed's $4,363.70 record flagged in prior briefs -- above VWAP $4,345.36, upper part of range. Demand 4,322-4,327 (early session) and 4,344-4,351 (pre-breakout) both defended repeatedly. Same Fed Sept rate-cut bets and Hormuz safe-haven flows driving both metals together. Source: CNBC/Bloomberg."
+ },
+ {
+  "headline": "Quiet run — no new market-moving news since 14:21 IST brief",
+  "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / CRUDE / GOLD",
+  "timestamp": "2026-08-07T15:17:31+05:30",
+  "gist": "No genuinely new material news across equities (Nifty/Sensex/Bank Nifty easing further within the already-flagged oil-driven risk-off, SBI NIM-miss drag, and RBI NBFC-draft-norms hit to Bajaj Finance/Bajaj Finserv; Titan Q1 FY27 results still pending -- board meeting scheduled today, earnings call at 18:00 IST, not yet announced; FII/DII flows for today not yet published), crude (WTI/Brent flat vs the 13:20/14:21 IST briefs -- Iran-Oman Hormuz draft-deal talks and Qeshm Island strike standoff unchanged, no fresh escalation or de-escalation), nat gas (no catalyst), or gold/silver (holding just under/at today's fresh records set at the 14:21 IST brief, same Fed Sept rate-cut/Hormuz safe-haven narrative). Sent short text-only update: Nifty 24,557.00 (-0.32%), Bank Nifty 57,801.15 (-0.45%), Sensex 78,437.77 (-0.65%), Crude $77.37, Gold $4,365.00."
  }
 ]
