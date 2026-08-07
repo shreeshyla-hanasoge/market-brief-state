@@ -1,23 +1,5 @@
 [
  {
-  "headline": "UPDATE: WTI bounces to $76.23 (+1.34%), fresh high $76.33, as Khamenei sign-off pending, Trump's Aug 4 warning looms",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-06T18:14:00+05:30",
-  "gist": "WTI $76.23 (+1.34% vs prev close $75.22), fresh session high $76.33, above VWAP $75.50, upper 1/3 of day range $74.57-76.33. Demand 74.60-74.90 defended repeatedly through the early session, supply 75.45-75.80 capped price for ~4 hours before the late breakout. Iran's Khamenei still hasn't signed off the Iran-Oman Hormuz shipping-corridor draft; Trump's Aug 4 'open soon or get hit hard' ultimatum continues to frame the risk premium -- same core story as the 12:20/13:20 IST briefs, now with a clearer bounce. Source: CNBC/Axios."
- },
- {
-  "headline": "UPDATE: Gold, Silver ease off fresh records ($4,363.70 / $63.32) on profit-taking, still Fed-cut supported",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-06T18:14:00+05:30",
-  "gist": "Gold $4,326.50 (+0.49% vs prev close $4,305.20), below VWAP $4,332.41, lower half of day range $4,304.90-4,363.70. Silver $62.03 (-0.41% vs prev close $62.288), below VWAP $62.29, lower 1/3 of day range $61.72-63.32; reversed hard off the $63.32 record (topping yesterday's $62.735 high) with supply 62.55-62.70 now capping bounces and demand 61.75-62.00 defended repeatedly. Profit-taking after the records, but Fed Sept rate-cut bets from Wednesday's weak 44k ADP print still underpin the bid. Source: Bloomberg/CNBC."
- },
- {
-  "headline": "Nat gas flat near $2.67 (-0.71%), no fresh catalyst, EIA storage due ~20:00 IST",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-08-06T18:14:00+05:30",
-  "gist": "Nat gas $2.669 (-0.71% vs prev close $2.688), day range $2.642-2.702, near VWAP $2.667 -- no new driver; weekly EIA storage report due later tonight. Source: EIA."
- },
- {
   "headline": "UPDATE: WTI extends to fresh day highs $77.19 (+2.06%), Khamenei still hasn't signed the Hormuz reopening pact",
   "instrument": "CRUDE (WTI)",
   "timestamp": "2026-08-06T21:08:00+05:30",
@@ -144,9 +126,33 @@
   "gist": "Gold $4,365.30 (+1.53% vs Thu close $4,299.60), fresh session/record high $4,375.90, decisively topping Wed's $4,363.70 record flagged in prior briefs -- above VWAP $4,345.36, upper part of range. Demand 4,322-4,327 (early session) and 4,344-4,351 (pre-breakout) both defended repeatedly. Same Fed Sept rate-cut bets and Hormuz safe-haven flows driving both metals together. Source: CNBC/Bloomberg."
  },
  {
-  "headline": "Quiet run — no new market-moving news since 14:21 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 14:21 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / CRUDE / GOLD",
   "timestamp": "2026-08-07T15:17:31+05:30",
   "gist": "No genuinely new material news across equities (Nifty/Sensex/Bank Nifty easing further within the already-flagged oil-driven risk-off, SBI NIM-miss drag, and RBI NBFC-draft-norms hit to Bajaj Finance/Bajaj Finserv; Titan Q1 FY27 results still pending -- board meeting scheduled today, earnings call at 18:00 IST, not yet announced; FII/DII flows for today not yet published), crude (WTI/Brent flat vs the 13:20/14:21 IST briefs -- Iran-Oman Hormuz draft-deal talks and Qeshm Island strike standoff unchanged, no fresh escalation or de-escalation), nat gas (no catalyst), or gold/silver (holding just under/at today's fresh records set at the 14:21 IST brief, same Fed Sept rate-cut/Hormuz safe-haven narrative). Sent short text-only update: Nifty 24,557.00 (-0.32%), Bank Nifty 57,801.15 (-0.45%), Sensex 78,437.77 (-0.65%), Crude $77.37, Gold $4,365.00."
+ },
+ {
+  "headline": "July NFP shock: payrolls -23K vs +83K expected; Fed Sept cut odds surge to ~90%",
+  "instrument": "GOLD / SILVER / CRUDE (WTI)",
+  "timestamp": "2026-08-07T18:16:00+05:30",
+  "gist": "July nonfarm payrolls fell 23K (vs +83K expected consensus), the biggest miss in months; unemployment ticked down to 4.1% only because the labor force participation rate fell to 61.4%, its lowest in 5+ years. CME FedWatch Sept 25bp rate-cut odds jumped to ~90% (from ~45% a day earlier); DXY and 10-yr Treasury yields both slid sharply on the print. Brand-new macro catalyst, first reflected in this brief. Source: CNBC/BLS/CME."
+ },
+ {
+  "headline": "UPDATE: Gold pushes to a fresh intraday record near $4,395 on the NFP-driven dollar slide",
+  "instrument": "GOLD",
+  "timestamp": "2026-08-07T18:16:00+05:30",
+  "gist": "Gold $4,390.00 (+2.10% vs Thu close $4,299.60), fresh session/record high $4,395, decisively extending past the $4,375.90 record flagged at the 14:21 IST brief -- above VWAP $4,345.00, near day highs. Demand 4,322-4,327 and 4,344-4,351 both defended repeatedly. Driven by the fresh July NFP miss (-23K vs +83K expected) fueling a sharp dovish Fed Sept rate-cut repricing (~90% odds) and broad dollar weakness. Source: CNBC/Bloomberg."
+ },
+ {
+  "headline": "UPDATE: Silver holds near today's $64.745 record, best week since January on NFP tailwind",
+  "instrument": "SILVER",
+  "timestamp": "2026-08-07T18:16:00+05:30",
+  "gist": "Silver $64.60 (+4.86% vs Thu close $61.606), holding just under today's $64.745 record set at the 14:21 IST brief, on track for its best week since January. Same NFP-driven Fed Sept rate-cut repricing and safe-haven bid as gold, now with the fresh -23K payrolls miss adding fuel to the existing Hormuz-crisis and Fed-cut narrative. Source: Bloomberg."
+ },
+ {
+  "headline": "UPDATE: WTI eases to ~$77 as Iran-Oman push a Hormuz reopening deal despite fee dispute",
+  "instrument": "CRUDE (WTI)",
+  "timestamp": "2026-08-07T18:16:00+05:30",
+  "gist": "WTI $77.05 (-0.31% vs Thu close $77.29), below VWAP $77.65, lower third of day range $76.58-78.77 -- giving back part of the Qeshm Island strike premium flagged at the 10:50/13:20 IST briefs. Iran and Oman are reportedly negotiating a Strait of Hormuz reopening deal, though a dispute over transit fees (Iran wants 5-7% of cargo value, Oman proposes ~3%, the US wants none) remains an unresolved snag; US sanctions/insurance restrictions reportedly complicate the framework further. Supply 77.90-78.20 capped price repeatedly. NFP-driven dollar weakness offers a partial floor. Source: Reuters/CNBC."
  }
 ]
