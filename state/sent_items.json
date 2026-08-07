@@ -1,30 +1,12 @@
 [
  {
-  "headline": "UPDATE: Hormuz deal terms firm up, but Khamenei still hasn't signed off",
-  "instrument": "CRUDE (WTI)",
-  "timestamp": "2026-08-06T12:20:00+05:30",
-  "gist": "New reports detail a 60-day dual-lane pact -- inbound traffic via a northern lane (Iranian waters), outbound via a southern lane (Omani waters), no tolls during the period. Iran's Supreme Leader reportedly hasn't been seen publicly since the war began, adding sign-off uncertainty beyond the Wed/Thu timeline flagged in yesterday's 18:10 IST brief. WTI $75.54 (+0.43% vs prev close $75.22), above VWAP $74.94, near day highs $75.63, bouncing off the $74.98 low flagged at 09:20 IST. Source: CNBC/Axios."
- },
- {
-  "headline": "Nifty, Sensex, Bank Nifty all extend gains on broad-based buying; IT/Pharma outperform, Realty/Auto lag",
-  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY",
-  "timestamp": "2026-08-06T12:20:00+05:30",
-  "gist": "Nifty +0.09% at 24,646.45, above VWAP 24,641.28, upper-mid range. Sensex +0.32% at 78,834.27, above VWAP, upper range, tracking Nifty. Bank Nifty leads with +0.37% at 57,953.50, above VWAP 57,864.15, near day highs 57,985.05. Broad-based buying with IT and Pharma sectors outperforming, Realty and Auto lagging; no single discrete catalyst identified for the move. Source: NSE/BSE/Yahoo Finance."
- },
- {
-  "headline": "Quiet run — no new market-moving news since 12:20 IST brief",
-  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
-  "timestamp": "2026-08-06T13:20:00+05:30",
-  "gist": "No genuinely new material news across equities (Nifty50 constituents, RBI/SEBI, FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off, Pezeshkian says communication with him is difficult -- same core story as 12:20 IST), nat gas (no catalyst), or gold/silver (consolidating after the ADP-driven overnight spike). Defence-stock sector strength (BEL/HAL/Solar Industries, Nifty India Defence +2%) noted but not a fresh single catalyst. Sent short text-only update: Nifty 24,653.00 (+0.12%), Bank Nifty 57,991.05 (+0.43%), Crude $75.34, Gold $4,316.80."
- },
- {
-  "headline": "Quiet run — no new market-moving news since 13:20 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 13:20 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-06T14:15:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty50 constituents, Q1 results today from LIC/Trent/Hero MotoCorp/Britannia/Motherson etc. still pending/after-hours, RBI/SEBI, FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off -- Pezeshkian's 'difficult communication' comment and the 60-day dual-lane pact terms are the same core story as the 12:20 IST brief), nat gas (weekly EIA storage report not yet out), or gold/silver (consolidating, still tracking Fed Sept rate-cut bets/soft dollar flagged since the 09:20 IST brief). Sent short text-only update: Nifty 24,654.10 (+0.12%), Bank Nifty 58,056.85 (+0.55%), Crude $75.13, Gold $4,332.00."
  },
  {
-  "headline": "Quiet run — no new market-moving news since 14:15 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 14:15 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-06T15:17:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty50 constituents -- LIC/Trent/Britannia/Hero MotoCorp/Motherson Q1 results scheduled today but not yet announced; FII/DII flows already flagged), crude (Hormuz deal still awaiting Khamenei's sign-off, same core story as 12:20 IST brief), nat gas (weekly EIA storage report not yet out, due later today), or gold/silver (consolidating, still tracking Fed Sept rate-cut bets/soft dollar flagged since 09:20 IST). Nifty PSU Bank sector strength (SBI, Union Bank, Bank of India +0.3-0.9%) noted but no discrete fresh catalyst. Sent short text-only update: Nifty 24,627.95 (+0.01%), Bank Nifty 58,007.95 (+0.46%), Sensex 78,806.36 (+0.29%), Crude $75.32, Gold $4,336.90."
@@ -120,15 +102,39 @@
   "gist": "Gold $4,325.60 (+0.60% vs Thu close $4,299.60), above VWAP $4,324.87, near day highs $4,288.00-4,328.40. Silver $62.53 (+1.50% vs Thu close $61.606), at VWAP $62.55, near day highs $61.42-62.65. Both extending the rally flagged at 09:23 IST, now with the fresh Hormuz military escalation (Qeshm Island strikes) adding safe-haven demand on top of the existing Fed Sept rate-cut narrative. Source: CNBC."
  },
  {
-  "headline": "Quiet run — no new market-moving news since 10:50 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 10:50 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / CRUDE / GOLD",
   "timestamp": "2026-08-07T11:15:00+05:30",
   "gist": "No genuinely new material news across equities (drifting lower within the already-flagged oil-driven risk-off, no fresh discrete catalyst; FII/DII flows for today not yet published), crude (WTI/Brent flat to slightly softer vs the 10:50 IST brief -- Iran-Hormuz strike story unchanged, no fresh escalation or de-escalation), nat gas (no catalyst), or gold/silver (incremental gains continuing the same Fed Sept rate-cut/Hormuz safe-haven narrative flagged since 09:23 IST). Sent short text-only update: Nifty 24,564.80 (-0.29%), Bank Nifty 57,809.55 (-0.44%), Sensex 78,532.23 (-0.53%), Crude $78.27, Gold $4,336.00."
  },
  {
-  "headline": "Quiet run — no new market-moving news since 11:15 IST brief",
+  "headline": "Quiet run \u2014 no new market-moving news since 11:15 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / SENSEX / CRUDE / GOLD",
   "timestamp": "2026-08-07T12:20:00+05:30",
   "gist": "No genuinely new material news across equities (Nifty/Sensex/Bank Nifty continuing to drift lower within the already-flagged oil-driven risk-off and financials drag, no fresh discrete catalyst; SBI and Titan Q1 FY27 results scheduled today but board meetings still pending, not yet announced; FII/DII flows for today not yet published), crude (WTI/Brent flat to slightly softer vs the 10:50 IST brief -- Iran-Hormuz Qeshm Island strike story and Iran-Oman draft-plan standoff unchanged, no fresh escalation or de-escalation), nat gas (no catalyst), or gold/silver (extending the same Fed Sept rate-cut/Hormuz safe-haven narrative flagged since 09:23 IST). Sent short text-only update: Nifty 24,533.75 (-0.41%), Bank Nifty 57,710.90 (-0.61%), Sensex 78,509.24 (-0.56%), Crude $77.80, Gold $4,350.00."
+ },
+ {
+  "headline": "Silver rips to fresh record $64.17, up ~10% this week; Gold closes in on its own record",
+  "instrument": "GOLD / SILVER",
+  "timestamp": "2026-08-07T13:20:00+05:30",
+  "gist": "Silver $63.95 (+3.80% vs Thu close $61.606), fresh session/record high $64.165, decisively topping Wed's $63.32 record, above VWAP $63.54; demand 62.48-62.63 defended repeatedly pre-breakout, supply emerging 63.90-64.03 capping further upside just under the new high. Gold $4,347.00 (+1.10% vs Thu close $4,299.60), above VWAP $4,340.59, near session high $4,358.00, closing in on Wed's $4,363.70 record. Both driven by Fed Sept rate-cut bets and continued Hormuz-crisis safe-haven flows. Source: CNBC/Bloomberg."
+ },
+ {
+  "headline": "SBI Q1 FY27 PAT +12.5% YoY to Rs19,160cr on treasury gains, but NIM slips to 2.9%; stock drags Bank Nifty",
+  "instrument": "BANK NIFTY / SBIN",
+  "timestamp": "2026-08-07T13:20:00+05:30",
+  "gist": "SBI Q1 FY27 net profit up 12.48% YoY to Rs19,160cr, NII +13% YoY, ROE 19.7%, ROA 1.14%, credit +11.61% YoY, deposits +11.66% YoY; opex fell 21.92% YoY. NIM declined to 2.9% (management reaffirmed 3% FY guidance, expects H2 improvement) -- margin softness weighing on the stock and Bank Nifty despite the headline profit beat. Nifty Financial Services -0.8%, financials the biggest drag on the benchmarks. Bank Nifty 57,764.95 (-0.51%), below VWAP 57,817.32. Source: Business Standard."
+ },
+ {
+  "headline": "Nifty, Sensex, Bank Nifty extend losses as financials drag compounds oil-led risk-off",
+  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY",
+  "timestamp": "2026-08-07T13:20:00+05:30",
+  "gist": "Nifty 24,556.35 (-0.32% vs Thu close 24,636.00), below VWAP 24,574.33, lower half of day range 24,529.20-24,630.40. Sensex 78,487.20 (-0.59%), below VWAP 78,570.88, tracking Nifty. Bank Nifty 57,764.95 (-0.51%), below VWAP 57,817.32. Extending the oil-driven risk-off flagged since the 09:23/10:50 IST briefs, now compounded by SBI's NIM-miss weighing on financials. Source: Yahoo Finance."
+ },
+ {
+  "headline": "UPDATE: Brent tops $84, WTI holds near $78 as Iran-Hormuz Qeshm Island strike standoff persists",
+  "instrument": "CRUDE (WTI) / BRENT",
+  "timestamp": "2026-08-07T13:20:00+05:30",
+  "gist": "WTI $77.79 (+0.65% vs Thu close $77.29), below VWAP $78.10, faded off the session high $78.77 set earlier; day range $77.51-78.77. Brent extended above $84, building on Thursday's Qeshm Island strike escalation flagged in the 10:50 IST brief -- same core Iran-Hormuz standoff (Iran's restrictive draft transit plan rejected by the US), no fresh de-escalation. Source: Bloomberg."
  }
 ]
