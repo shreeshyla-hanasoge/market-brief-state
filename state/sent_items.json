@@ -64,5 +64,23 @@
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-10T15:19:00+05:30",
   "gist": "No material fresh catalysts in the 13:45-15:15 IST window. No new Nifty 50 constituent news (earnings/orders/M&A/ratings/block deals) -- market flat/rangebound all session, IT/private banks/autos outperforming, PSU banks lagging. Hormuz standoff still unresolved, same core stalemate as prior briefs (Iran insisting on US concessions, no signing/collapse); Brent ~$84.2 (+0.75-1%), WTI ~$78.7-78.95 (+0.7-1.0%), continued grind, not a new development. No fresh EIA/weather catalyst for nat gas. Gold easing slightly on profit-taking ahead of pending US CPI data; no fresh gold/silver catalyst confirmed within window. FII/DII for Aug 10 not yet published (still Aug 7 data). Nifty 24,560.15 (-0.04%), Bank Nifty 57,606.10 (-0.24%), Sensex 78,492.39 (-0.01%), WTI Crude $78.95 (+0.98%), Gold $4,401.00 (+0.03%). Sent as short text message (no cards)."
+ },
+ {
+  "headline": "UPDATE: Iran FM Araghchi ties Hormuz reopening to sanctions relief + war reparations; Brent tops $84 for 3rd straight session",
+  "instrument": "CRUDE (WTI) / BRENT",
+  "timestamp": "2026-08-10T18:17:00+05:30",
+  "gist": "Evening (US-session) commodity brief. WTI $79.59 (+1.80% vs prior close $78.18), above VWAP $78.88, upper range (95%); Brent ~$84.4, 3rd straight session of gains. Adds specificity to the prior Hormuz-stalemate story: Iranian FM Araghchi said the waterway will not reopen until Washington eases sanctions on Tehran AND pays war reparations -- first explicit dual-condition framing (previously just 'deal alone won't reopen it'). Demand zone 78.20-78.34 defended twice intraday; supply 79.00-79.05 capped bounces twice before breaking higher. Source: Al Jazeera/CNBC/Reuters. Sent with cards (bias board, news, WTI chart)."
+ },
+ {
+  "headline": "Natural gas rallies to day highs on heat-wave power demand + ~95% collapse in Hormuz-routed LNG flows",
+  "instrument": "NAT GAS",
+  "timestamp": "2026-08-10T18:17:00+05:30",
+  "gist": "NatGas $2.779 (+4.40% vs prior close $2.662), above VWAP $2.760, 99% up day range $2.702-2.780. Driven by above-normal US temperatures lifting power-sector gas demand plus continued Hormuz-related LNG export disruption (~95% of Strait-routed LNG flows still down since the Feb 2026 conflict began), partly offset by record US Lower-48 production (~110.6 Bcf/d). Demand zone 2.755-2.762 defended repeatedly before breaking to new highs. Next EIA storage report due Thursday. Source: EnergyNow/EIA. Sent with cards (bias board, news, NatGas chart)."
+ },
+ {
+  "headline": "Gold eases off highs, Silver holds above $64 — both consolidating ahead of Aug 12 US CPI",
+  "instrument": "GOLD / SILVER",
+  "timestamp": "2026-08-10T18:17:00+05:30",
+  "gist": "Gold $4,390.20 (-0.22% vs prior close $4,399.70), below VWAP $4,402.47, lower third of day range $4,373.90-4,421.50 -- easing off intraday highs but still tracking post-NFP Fed rate-cut bets, no fresh standalone catalyst this window. Silver $64.09 (+0.93% vs prior close $63.499), below VWAP $64.25 but upper half of range $63.20-64.63 -- holding above $64 on safe-haven flows and the structural industrial-demand deficit narrative, also no fresh catalyst. Both markets now looking ahead to July US CPI due Aug 12 as the next directional trigger. Source: TradingKey/Yahoo Finance. Sent with cards (bias board, news)."
  }
 ]
