@@ -1,11 +1,5 @@
 [
  {
-  "headline": "Quiet run \u2014 no new market-moving news since 12:18 IST brief",
-  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
-  "timestamp": "2026-08-10T13:17:00+05:30",
-  "gist": "No material fresh catalysts in the 11:45-13:15 IST window. Hormuz standoff unchanged -- Iranian FM Araghchi reiterated Tehran is not in direct US talks despite Washington saying a deal is near, same core stalemate as prior briefs, no new discrete decision; Brent ~$84.4 (+1.0%), WTI ~$78.3-78.8, both still range-bound on the same story. No new heavyweight Nifty 50 constituent news (earnings/orders/M&A/ratings/block deals) -- Bajaj Finance's softness continues to trace to the already-covered RBI draft NBFC-lending-norms overhang, not a fresh development. No fresh FII/DII print (still Aug 7 data). No fresh EIA/weather catalyst for nat gas. Gold/Silver holding steady off Friday's NFP-driven records. Nifty 24,588.35 (+0.07%), Bank Nifty 57,613.90 (-0.23%), Sensex 78,536.97 (+0.05%), WTI Crude $78.29 (+0.14%), Gold $4,414.50 (+0.34%). Sent as short text message (no cards)."
- },
- {
   "headline": "Quiet run \u2014 no new market-moving news since 13:17 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-10T14:16:00+05:30",
@@ -106,5 +100,11 @@
   "instrument": "NIFTY 50 / SENSEX / BANK NIFTY / INDIGO",
   "timestamp": "2026-08-11T12:20:00+05:30",
   "gist": "Nifty 24,439.15 (-0.59%), Bank Nifty 57,279.35 (-0.71%), Sensex 78,051.55 (-0.63%) -- all extending losses to fresh session lows as the WTI spike to $83.31 deepens the oil-led risk-off; banks (Axis Bank, HDFC Bank, SBI) among the key drags, no fresh bank-specific catalyst (broad macro, not company news). InterGlobe Aviation (IndiGo, Nifty 50 constituent) fell ~3% as the renewed crude spike revives ATF cost-pressure fears -- airline is still absorbing a Q1FY27 net loss driven by an ~86% YoY jump in fuel costs; this is a direct read-through of the oil move, not a standalone catalyst. No fresh FII/DII print (still Aug 10 data: FII +Rs1,974.76cr, DII -Rs1,290.29cr). Gold $4,427.60 (+0.18%, off day high $4,495) and Silver $64.74 (-0.82%, sharp pullback from day high $66.69) both paring gains as markets turn cautious ahead of Wednesday's US CPI print; no fresh discrete catalyst, DXY firmer. Nat gas flat at $2.79 (-0.14%), no fresh EIA/weather catalyst. Source: Business Standard/Reuters/CNBC. Sent with cards (bias board, news, WTI chart)."
+ },
+ {
+  "headline": "Quiet run — no new market-moving news since 12:20 IST brief",
+  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY / CRUDE / GOLD",
+  "timestamp": "2026-08-11T13:18:00+05:30",
+  "gist": "No material fresh catalysts in the 12:45-13:15 IST window. Same Hormuz stalemate continues -- Trump's Truth Social post flipping Iran's reparations demand ('100% control' of the Strait, compensation for 50 years of attacks) and his 'only semi-negotiating' framing were already covered in the 12:20 brief; no new statement or discrete decision found. WTI extended modestly to $83.80 (+2.03% vs prior close $82.13, new day high $83.98) on the same continuing story, not a fresh catalyst. Equity indices actually stabilized/ticked up slightly off the 12:20 session lows rather than extending losses: Nifty 24,445.95 (-0.56%), Bank Nifty 57,336.60 (-0.61%), Sensex 78,116.18 (-0.54%). No new heavyweight Nifty 50 constituent news (earnings/orders/M&A/ratings/block deals) found in this window. No fresh FII/DII print (still Aug 10 data: FII +Rs1,974.76cr, DII -Rs1,290.29cr). Nat gas $2.78 (-0.50%), no fresh EIA/weather catalyst, next storage report Thursday. Gold $4,421.80 (+0.05%) flat; Silver $64.75 (-0.81%) pulling back further from day high $66.69 -- both still consolidating ahead of Wednesday's US CPI, no fresh discrete catalyst. Source: Yahoo Finance/CNBC/Bloomberg. Sent as short text message (no cards)."
  }
 ]
