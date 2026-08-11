@@ -1,11 +1,5 @@
 [
  {
-  "headline": "Quiet run \u2014 no new market-moving news since 13:17 IST brief",
-  "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
-  "timestamp": "2026-08-10T14:16:00+05:30",
-  "gist": "No material fresh catalysts in the 12:45-14:15 IST window. Hormuz standoff unchanged -- Iranian FM Araghchi reiterated Tehran is not in direct US talks despite Washington saying a deal is near, Iran-Oman still working transit-route agreement, same core stalemate as prior briefs, no new discrete decision; Brent ~$84.42 (+1.04%), WTI ~$78.67-78.83 (+0.6-0.8%), both still range-bound on the same story. No new heavyweight Nifty 50 constituent news (earnings/orders/M&A/ratings/block deals) -- Sensex pack gainers Titan, ICICI Bank, HCL Tech, Infosys, SBIN and laggards Bajaj Finance, Bharti Airtel, NTPC, UltraTech, IndiGo unchanged from prior session drivers, nothing fresh. No fresh FII/DII print (still Aug 7 data: FII +Rs480cr, DII +Rs236cr). No fresh EIA/weather catalyst for nat gas. Gold/Silver holding steady off Fridays NFP-driven records. Nifty 24,588.95 (+0.07%), Bank Nifty 57,636.90 (-0.19%), Sensex 78,553.77 (+0.07%), WTI Crude $78.67 (+0.63%), Gold $4,409.60 (+0.22%). Sent as short text message (no cards)."
- },
- {
   "headline": "Quiet run \u2014 no new market-moving news since 14:16 IST brief",
   "instrument": "NIFTY 50 / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-10T15:19:00+05:30",
@@ -106,5 +100,23 @@
   "instrument": "NIFTY 50 / SENSEX / BANK NIFTY / CRUDE / GOLD",
   "timestamp": "2026-08-11T13:18:00+05:30",
   "gist": "No material fresh catalysts in the 12:45-13:15 IST window. Same Hormuz stalemate continues -- Trump's Truth Social post flipping Iran's reparations demand ('100% control' of the Strait, compensation for 50 years of attacks) and his 'only semi-negotiating' framing were already covered in the 12:20 brief; no new statement or discrete decision found. WTI extended modestly to $83.80 (+2.03% vs prior close $82.13, new day high $83.98) on the same continuing story, not a fresh catalyst. Equity indices actually stabilized/ticked up slightly off the 12:20 session lows rather than extending losses: Nifty 24,445.95 (-0.56%), Bank Nifty 57,336.60 (-0.61%), Sensex 78,116.18 (-0.54%). No new heavyweight Nifty 50 constituent news (earnings/orders/M&A/ratings/block deals) found in this window. No fresh FII/DII print (still Aug 10 data: FII +Rs1,974.76cr, DII -Rs1,290.29cr). Nat gas $2.78 (-0.50%), no fresh EIA/weather catalyst, next storage report Thursday. Gold $4,421.80 (+0.05%) flat; Silver $64.75 (-0.81%) pulling back further from day high $66.69 -- both still consolidating ahead of Wednesday's US CPI, no fresh discrete catalyst. Source: Yahoo Finance/CNBC/Bloomberg. Sent as short text message (no cards)."
+ },
+ {
+  "headline": "HDFC Bank hits fresh 2-year low (Rs 726.50), breaks April low; heaviest Bank Nifty weight drags index",
+  "instrument": "NIFTY 50 / BANK NIFTY / HDFC BANK",
+  "timestamp": "2026-08-11T14:20:00+05:30",
+  "gist": "New, discrete, stock-specific development not covered in any prior brief: HDFC Bank shares hit an over 2-year low of Rs 726.50 intraday, breaking the previous low of Rs 726.75 set April 2, 2026; stock down ~12% in the past month and ~27% YTD vs Sensex -8.2% YTD. FPI holding in HDFC Bank has declined for a 5th straight quarter (44.05% to 41.83% between Mar and Jun 2026 quarters). Reason is profitability/NIM compression post-merger, not asset quality (gross NPA a stable 1.17%, net NPA 0.41%). As Bank Nifty's heaviest constituent, this is a direct drag on the index. Source: Business Standard."
+ },
+ {
+  "headline": "UPDATE: WTI clears $84, Brent tops $88 -- highest since Jul 31 -- as Iran keeps rejecting direct US talks",
+  "instrument": "CRUDE (WTI) / BRENT",
+  "timestamp": "2026-08-11T14:20:00+05:30",
+  "gist": "WTI $84.30 (+2.64% vs prior close $82.13), above VWAP $83.54, near day highs (range $81.91-84.46); Brent ~$88.09, both the highest since July 31, extending a 4th straight session of gains. Price decisively broke the 83.46-83.65 zone that had capped several bounces since midday before running to fresh highs. No single new discrete headline beyond the already-covered Trump reparations/'100% control' framing and Iran's Aug 9 rejection of direct US talks (FM Araghchi citing MOU violations) -- but the price action itself (new day highs, clearing the $84 and $88 round-number levels) is a material fresh development. Iran continues to demand an end to the US naval blockade, sanctions relief and war reparations before Hormuz reopens. Source: Reuters/CNBC/Business Standard."
+ },
+ {
+  "headline": "Nifty, Sensex, Bank Nifty extend losses toward session lows on oil-led risk-off, compounded by HDFC Bank weakness",
+  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY",
+  "timestamp": "2026-08-11T14:20:00+05:30",
+  "gist": "Nifty 24,465.90 (-0.48%), Sensex 78,129.96 (-0.53%), Bank Nifty 57,420.25 (-0.46%) -- indices resumed the slide after stabilizing briefly around the 13:18 brief, as the fresh WTI push through $84 deepens oil-led risk-off and HDFC Bank's 2-year-low adds a bank-specific drag. No fresh FII/DII print (still Aug 10 data: FII +Rs1,974.76cr, DII -Rs1,290.29cr). Gold $4,431.10 (+0.26%), Silver $64.94 (-0.51%, well off day high $66.69), Nat gas $2.777 (-0.61%) -- all still consolidating ahead of Wednesday's US CPI, no fresh discrete catalyst. Source: Business Standard/Yahoo Finance. Sent with cards (bias board, news, WTI chart)."
  }
 ]
