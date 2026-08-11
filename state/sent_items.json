@@ -1,41 +1,5 @@
 [
  {
-  "headline": "UPDATE: Iran FM Araghchi ties Hormuz reopening to sanctions relief + war reparations; Brent tops $84 for 3rd straight session",
-  "instrument": "CRUDE (WTI) / BRENT",
-  "timestamp": "2026-08-10T18:17:00+05:30",
-  "gist": "Evening (US-session) commodity brief. WTI $79.59 (+1.80% vs prior close $78.18), above VWAP $78.88, upper range (95%); Brent ~$84.4, 3rd straight session of gains. Adds specificity to the prior Hormuz-stalemate story: Iranian FM Araghchi said the waterway will not reopen until Washington eases sanctions on Tehran AND pays war reparations -- first explicit dual-condition framing (previously just 'deal alone won't reopen it'). Demand zone 78.20-78.34 defended twice intraday; supply 79.00-79.05 capped bounces twice before breaking higher. Source: Al Jazeera/CNBC/Reuters. Sent with cards (bias board, news, WTI chart)."
- },
- {
-  "headline": "Natural gas rallies to day highs on heat-wave power demand + ~95% collapse in Hormuz-routed LNG flows",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-08-10T18:17:00+05:30",
-  "gist": "NatGas $2.779 (+4.40% vs prior close $2.662), above VWAP $2.760, 99% up day range $2.702-2.780. Driven by above-normal US temperatures lifting power-sector gas demand plus continued Hormuz-related LNG export disruption (~95% of Strait-routed LNG flows still down since the Feb 2026 conflict began), partly offset by record US Lower-48 production (~110.6 Bcf/d). Demand zone 2.755-2.762 defended repeatedly before breaking to new highs. Next EIA storage report due Thursday. Source: EnergyNow/EIA. Sent with cards (bias board, news, NatGas chart)."
- },
- {
-  "headline": "Gold eases off highs, Silver holds above $64 \u2014 both consolidating ahead of Aug 12 US CPI",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-10T18:17:00+05:30",
-  "gist": "Gold $4,390.20 (-0.22% vs prior close $4,399.70), below VWAP $4,402.47, lower third of day range $4,373.90-4,421.50 -- easing off intraday highs but still tracking post-NFP Fed rate-cut bets, no fresh standalone catalyst this window. Silver $64.09 (+0.93% vs prior close $63.499), below VWAP $64.25 but upper half of range $63.20-64.63 -- holding above $64 on safe-haven flows and the structural industrial-demand deficit narrative, also no fresh catalyst. Both markets now looking ahead to July US CPI due Aug 12 as the next directional trigger. Source: TradingKey/Yahoo Finance. Sent with cards (bias board, news)."
- },
- {
-  "headline": "UPDATE: WTI clears $80 then $81 as Hormuz deal stays unsigned; Houthi drone strike on Aramco's Jazan refinery adds Gulf risk",
-  "instrument": "CRUDE (WTI) / BRENT",
-  "timestamp": "2026-08-10T21:03:00+05:30",
-  "gist": "WTI $81.28 (+3.97% vs prior close $78.18), above VWAP $79.69, near day highs (range $77.79-81.30); Brent near $85. Extends the same Hormuz-stalemate story (Iran-Oman corridor deal still unsigned, Iran tying full reopening to sanctions relief + war reparations) with a fresh driver: Houthi rebels' drone strike on Saudi Aramco's Jazan refinery (400kbpd, fire extinguished, no casualties) plus a declared Red Sea tanker blockade adds to Gulf supply risk. Price decisively broke the 79.75-79.92 supply zone that had capped bounces since midday, after defending 77.83-78.05 demand twice earlier in the session. Source: Al Jazeera/CNBC/Reuters/NPR. Sent with cards (bias board, news, WTI chart)."
- },
- {
-  "headline": "NatGas tops $2.80 for the first time this run on heat-wave power demand + Hormuz-linked LNG disruption",
-  "instrument": "NAT GAS",
-  "timestamp": "2026-08-10T21:03:00+05:30",
-  "gist": "NatGas $2.804 (+5.33% vs prior close $2.662), above VWAP $2.778, fresh session highs (range $2.702-2.806). Continues the same heat-wave power-demand + Hormuz-linked LNG export disruption story from the 18:17 brief, now crossing $2.80 for the first time this run; record US Lower-48 production (~110.6 Bcf/d) remains a partial offset. Next EIA storage report due Thursday. Source: EnergyNow. Sent with cards (bias board, news)."
- },
- {
-  "headline": "UPDATE: DXY slips below 100 for first time this cycle, 10Y yield ~4.65% on dovish Fed bets; gold, silver extend gains",
-  "instrument": "GOLD / SILVER",
-  "timestamp": "2026-08-10T21:03:00+05:30",
-  "gist": "Gold $4,407.70 (+0.18% vs prior close $4,399.70), above VWAP $4,399.38, upper third of day range $4,373.90-4,421.50 -- flips positive from the 18:17 brief's -0.22%. Silver $64.76 (+1.99% vs prior close $63.499), above VWAP $64.37, upper quarter of range $63.195-65.075. Adds specificity to the post-NFP dovish-Fed narrative: DXY broke below the 100 handle for the first time this cycle and the 10Y Treasury yield eased to ~4.65%; Richmond Fed's Barkin said jobs data shows the labor market in a 'low hire, low fire' balance. Both markets still looking ahead to July US CPI due Aug 12. Source: Investing.com/wire reports. Sent with cards (bias board, news)."
- },
- {
   "headline": "Quiet run \u2014 no new commodity-moving news since 21:03 IST brief",
   "instrument": "CRUDE / NAT GAS / GOLD / SILVER",
   "timestamp": "2026-08-10T23:04:00+05:30",
@@ -130,5 +94,11 @@
   "instrument": "GOLD / SILVER",
   "timestamp": "2026-08-11T18:15:00+05:30",
   "gist": "Gold $4,449.30 (+0.67% vs prior close $4,419.70), above VWAP $4,440.16, day range $4,415.70-4,480.30 -- touched a fresh 2-month high near the day's open on continued Chinese institutional/ETF buying and PBoC gold purchases (~20 tons added in July, the largest monthly increase since Oct 2023; China gold ETFs logged 14 straight days of inflows through Monday), a new discrete catalyst not covered in prior briefs. Price then eased on profit-taking to defend a 4,415-4,423 demand zone twice (12:10-13:30 IST) before bouncing back toward the highs into the evening. Both metals still consolidating ahead of Wednesday's US CPI print, the next directional trigger; no new Fed speaker found this window. Silver $65.07 (-0.32% vs prior close $65.27), below VWAP $65.10, lower half of day range $64.47-66.04 -- tracking gold, no fresh standalone catalyst. Nat gas flat at $2.788 (-0.21%), above VWAP $2.776, upper half of range $2.745-2.815 -- no fresh EIA/weather catalyst this window, still holding prior heat-wave demand + Hormuz-LNG-disruption gains; next storage report due Thursday. Source: Bloomberg/CNBC/Reuters/Yahoo Finance. Sent with cards (bias board, news, Gold chart)."
+ },
+ {
+  "headline": "Pakistan FM: US, Iran 'close to an arrangement' on Hormuz reopening",
+  "instrument": "CRUDE (WTI) / BRENT",
+  "timestamp": "2026-08-11T21:05:00+05:30",
+  "gist": "Evening (US-session) commodity brief. WTI $82.59 (+0.56% vs prior close $82.13), below VWAP $82.90, lower 38% of day range ($81.36-84.56) -- reversed hard from the day's $84.61 high (Tuesday's reparations-spike top) back toward the low-$82s. Fresh counter-signal to the ongoing Hormuz reparations-deadlock story: Pakistan's Defense Minister Khawaja Asif told reporters the US and Iran are 'close to some sort of an arrangement' on reopening the Strait, citing positive signals over the past 2-3 days, with Pakistan's Interior Minister traveling to Tehran for talks. Weakly sourced (single official's comment, no confirmation from US/Iran), but a notable de-escalation counter-narrative after days of escalation headlines (Trump '100% control' claim, SPR<300mn, Houthi Jazan strike). NatGas $2.751 (-1.54% vs prior close $2.794), below VWAP, near day low -- no fresh catalyst, drifting off recent heat-wave/Hormuz-LNG highs; next EIA storage Thursday. Gold $4,447.30 (+0.62%), at VWAP, mid-range -- continuing to consolidate/pare Tuesday's 2-month-high spike ($4,477 day high) ahead of tomorrow's US CPI, no fresh discrete catalyst. Silver $65.10 (-0.26%), below VWAP, lower third of range (day high $66.685, ~7-week high) -- pulling back with gold, no fresh catalyst, still tracking safe-haven/industrial-demand narrative. Source: Bloomberg/CNBC/Yahoo Finance. Sent with cards (bias board, news, WTI chart)."
  }
 ]
