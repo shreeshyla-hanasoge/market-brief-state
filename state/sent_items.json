@@ -1,11 +1,5 @@
 [
  {
-  "headline": "US Strategic Petroleum Reserve falls below 300mn barrels, lowest since 1983",
-  "instrument": "CRUDE (WTI) / BRENT",
-  "timestamp": "2026-08-11T11:15:00+05:30",
-  "gist": "SPR drew to 298.7mn bbl, breaking below 300mn for the first time since Jan 1983, as the Iran war drags on (Trump ordered release of 172mn bbl in March after Iran choked Hormuz exports; SPR was ~415mn bbl before the Feb 28 US/Israel strikes on Iran). Minimum safe operating level is ~70mn bbl. Adds a fresh discrete supply-side data point to the ongoing Hormuz stalemate (Trump told Axios US is only semi-negotiating with Iran; Iran demands end of naval blockade + reparations before reopening) not covered in prior briefs. WTI 82.34 (+0.26% vs prior close 82.13), above VWAP 82.26, upper range (81.91-82.55); demand zone 81.91-82.03 defended 5x, supply 82.53-82.55 rejected 2x. Nifty 24,453.55 (-0.53%), Bank Nifty 57,318.00 (-0.64%), Sensex 78,147.90 (-0.50%) -- continued risk-off tracking oil; no fresh single-stock Nifty 50 news this window (BEL order flow and other items were routine/non-material). Gold 4,443.60 (+0.54%), Silver 64.99 (-0.43%), Nat gas 2.78 (-0.68%) -- no fresh catalyst, still consolidating ahead of Aug 12 US CPI. Source: CNBC/Fox Business/Semafor. Sent with cards (bias board, news, WTI chart)."
- },
- {
   "headline": "UPDATE: Trump claims '100%' US control of Strait of Hormuz, counters Iran's reparations demand with his own (compensation for 50 years of attacks)",
   "instrument": "CRUDE (WTI) / BRENT",
   "timestamp": "2026-08-11T12:20:00+05:30",
@@ -118,5 +112,11 @@
   "instrument": "GOLD / SILVER",
   "timestamp": "2026-08-12T10:22:00+05:30",
   "gist": "Fresh incremental safe-haven drivers not in prior briefs: North Korea fired a ballistic missile off its east coast early Wednesday (11th test of 2026, ~690km range) ahead of US-South Korea military drills, alongside the fatal Houthi shipping strike (see crude item) -- both add to pre-CPI positioning. Gold $4,458.40 (+0.39% vs prior close $4,441.10), essentially at VWAP ($4,458.59), upper half of day range ($4,421.40-4,475.70), still near the 2-month high set Tuesday on Chinese ETF/PBoC buying; technically overbought (above 50-DMA for the first time since March) per market commentary. Silver $65.42 (+0.75% vs prior close $64.935), above VWAP $65.376, upper half of range ($64.81-65.955), tracking gold. Nat gas flat, $2.772 (+0.18% vs prior close $2.767), at VWAP, no fresh EIA/weather/LNG catalyst this window; next EIA storage report due Thursday. DXY steady ~99.85 ahead of the 18:00 IST US CPI print. Source: Reuters/Bloomberg/FXStreet/TradingEconomics. Sent with cards (bias board, news, WTI chart, Nifty chart)."
+ },
+ {
+  "headline": "Quiet run — no new market-moving news since 10:22 IST brief",
+  "instrument": "NIFTY 50 / SENSEX / BANK NIFTY / CRUDE / GOLD",
+  "timestamp": "2026-08-12T11:18:00+05:30",
+  "gist": "No material fresh catalysts in the 10:45-11:18 IST window. Tata Sons succession story (Chandrasekaran weighing exit ahead of Aug 18 AGM) continues to weigh on Tata group stocks -- Business Standard confirms most Tata names trading lower (TCS -0.5 to -2.1% across reports, Tata Consumer -1.03%) but no new headline/decision beyond what was covered at 10:22; Nifty extended losses to 24,303.60 (-0.69%, fresh session low, breaking below the 24,360-24,366 demand zone flagged in the 10:22 brief) and Sensex to 77,634.51 (-0.67%) on the same overhang plus continued Hormuz-linked oil pressure (Brent near $90, WTI $83.71 +0.61%, within existing range/no new high) -- price extension, not a fresh catalyst. Bank Nifty continues to buck the trend, 57,566.50 (+0.21%), still PSU-bank led per earlier reporting. Godrej Consumer (-10%, per India TV) is NOT a Nifty 50 constituent -- out of scope, skipped. MSCI August India review (Adani Green/Energy Solutions, Groww inclusion candidates) still pending after-market announcement, already covered at 09:20, no update yet. No new FII/DII print (still Aug 11 data: FII +Rs258.55cr cash). Gold $4,453.00 (+0.27%), Silver $65.415 (+0.74%), Nat gas $2.779 (+0.43%) -- all still consolidating ahead of today's US CPI (18:00 IST), no fresh discrete catalyst. Source: Yahoo Finance/Business Standard/Reuters. Sent as short text message (no cards)."
  }
 ]
